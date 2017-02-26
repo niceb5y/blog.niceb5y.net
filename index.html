@@ -1,0 +1,85 @@
+---
+layout: default
+---
+<div class="block py-0">
+  <div class="container">
+    {% for post in paginator.posts %}
+    <div class="card">
+      <div class="card-block">
+        <h2 class="card-title">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </h2>
+        <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %-d, %Y" }}</h6>
+        <p class="card-text">{{ post.content | markdownify | strip_html | truncate: 320 }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="pagination block pt-5 pb-2 my-0">
+  <div class="container">
+    <div class="row">
+      <nav class="d-flex justify-content-center w-100">
+        <ul class="pagination">
+          {% if paginator.previous_page %}
+          {% if paginator.previous_page == 1 %}
+          <li class="page-item">
+            <a class="page-link" href="/" aria-label="Previous">
+              <span aria-hidden="true">&laquo;</span>
+            </a>
+          </li>
+          {% else %}
+          <li class="page-item">
+            <a class="page-link" href="/page{{ paginator.previous_page }}" aria-label="Previous">
+              <span aria-hidden="true">&laquo;</span>
+            </a>
+          </li>
+          {% endif %}
+          {% else %}
+          <li class="page-item disabled">
+            <a class="page-link" href="/" aria-label="Previous">
+              <span aria-hidden="true">&laquo;</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if paginator.page == 1 %}
+          <li class="page-item active">
+            <a class="page-link" href="#">1</a>
+          </li>
+          {% else %}
+          <li class="page-item">
+            <a class="page-link" href="/">1</a>
+          </li>
+          {% endif %}
+          {% for count in (2..paginator.total_pages) %}
+          {% if count == paginator.page %}
+          <li class="page-item active">
+            <a class="page-link" href="#">{{ count }}</a>
+          </li>
+          {% else %}
+          <li class="page-item">
+            <a class="page-link" href="/page{{ count }}">{{ count }}</a>
+          </li>
+          {% endif %}
+          {% endfor %}
+          {% if paginator.next_page %}
+          <li class="page-item">
+            <a class="page-link" href="/page{{ paginator.next_page }}" aria-label="Next">
+              <span aria-hidden="true">&raquo;</span>
+            </a>
+          </li>
+          {% else %}
+          <li class="page-item disabled">
+            <a class="page-link" href="/page{{ paginator.total_pages }}" aria-label="Next">
+              <span aria-hidden="true">&raquo;</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>

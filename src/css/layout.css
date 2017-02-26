@@ -1,0 +1,24 @@
+.post-content p {
+	font-size: 1.2em;
+}
+.gsc-selected-option-container {
+	box-sizing:content-box;
+}
+
+.gsc-table-result {
+	border-collapse: separate;
+}
+
+header .navbar-header, form.navbar-form.navbar-right {
+	padding-top: 5.5px;
+	padding-bottom: 5.5px;
+}
+
+img.w-full {
+	width: auto !important;
+	max-width: 100%;
+}
+
+header nav.navbar {
+	border-radius: 0;
+}

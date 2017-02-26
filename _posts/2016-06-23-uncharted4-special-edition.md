@@ -1,0 +1,31 @@
+---
+layout: post
+title: "언차티드4 스페셜 에디션 개봉기"
+permalink: /uncharted4-special-edition-open-case/
+categories: game
+---
+<img src="https://img.blog.niceb5y.net/4k4_qgYVSb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+
+나온지 한참 지난 게임이지만 생각난 김에 미루고 미루다가 일단 예전에 찍었던 사진 올려봅니다.
+
+<img src="https://img.blog.niceb5y.net/Nygu9lKNBb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+
+일반케이스, 아트북, 스틸 케이스 구성입니다.
+
+박스 까자마자 찍은 사진이기 때문에, 플레이 할 생각에 대충 찍은 사진이라, 배경이나 구도나 많이 구립니다.
+
+<img src="https://img.blog.niceb5y.net/Vk7ucgKNSW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+
+꺼내보면 이렇게 생겼습니다.
+
+<img src="https://img.blog.niceb5y.net/Ek_5eFVHW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+
+케이스 뒷면
+
+<img src="https://img.blog.niceb5y.net/4JGOclFVSZ.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+
+멀티플레이 포인트라던지, 스티커등이 들어있습니다.
+
+텀블러등도 같이 오긴 했지만, 사진이 없기 때문에 나중에 리뷰 쓰면 그때 같이 올리도록 하겠습니다.
+
+일단은 여기서 끝.

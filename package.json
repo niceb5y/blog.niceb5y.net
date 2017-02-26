@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "jekyll serve",
+    "build": "jekyll build",
+    "webpack": "webpack",
+    "deploy": "rsync -avz --delete --rsh='ssh -p '$SERVER_PORT _site/ $SERVER_USER@$SERVER_URL:$SERVER_BLOG_PATH"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-latest": "^6.22.0",
+    "css-loader": "^0.26.2",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  }
+}
