@@ -18,7 +18,3 @@ img.w-full {
 	width: auto !important;
 	max-width: 100%;
 }
-
-header nav.navbar {
-	border-radius: 0;
-}
