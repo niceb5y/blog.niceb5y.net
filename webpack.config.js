@@ -30,10 +30,16 @@ module.exports = {
         'assets/*'
       ],
       staticFileGlobsIgnorePatterns: [/script\.js/],
-      runtimeCaching: [{
-        handler: 'cacheFirst',
-        urlPattern: /^https:\/\/assets\.niceb5y\.net\/.*/
-      }],
+      runtimeCaching: [
+        {
+          handler: 'cacheFirst',
+          urlPattern: /^https:\/\/assets\.niceb5y\.net\/.*/
+        },
+        {
+          handler: 'cacheFirst',
+          urlPattern: /^https:\/\/image\.blog\.niceb5y\.net\/.*/
+        }
+      ],
       mergeStaticsConfig: true
     })
   ],
