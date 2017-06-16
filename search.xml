@@ -7,5 +7,5 @@ layout: null
 	<Description>{{ site.description | xml_escape }}</Description>
 	<InputEncoding>UTF-8</InputEncoding>
 	<Image width="16" height="16" type="image/x-icon">{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}</Image>
-	<Url type="text/html" method="get" template="https://blog.niceb5y.net/search?q={searchTerms}"></Url>
+	<Url type="text/html" method="get" template="https://blog.niceb5y.net/search.html?q={searchTerms}"></Url>
 </OpenSearchDescription>
