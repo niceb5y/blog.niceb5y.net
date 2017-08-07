@@ -4,7 +4,7 @@ title: "WordPress 4.0 설치"
 permalink: /install-wordpress-4-0/
 categories: update
 ---
-<img src="https://img.blog.niceb5y.net/NJ75om_dl.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NJ75om_dl.png" alt="niceb5y blog" class="w-full">
 
 WordPress 4.0을 설치했습니다.
 

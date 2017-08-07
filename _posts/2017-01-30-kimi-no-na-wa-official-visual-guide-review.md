@@ -10,41 +10,41 @@ categories: movie
 
 이게 아니라면 어디 다른곳에서 털어가긴 했겠지만(아마 BNEI?).... 뭐 그건 그렇다 치고.
 
-<img src="https://img.blog.niceb5y.net/BkWyA43nPl.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/BkWyA43nPl.jpg" alt="niceb5y blog" class="w-full">
 
 일단 이렇게 생겼습니다.
 
 생각해보니까 초회 구입 특전이 있었는데, 지금 다시 카메라 꺼내서 찍긴 귀찮으니 넘어갑시다. 미츠하랑 타키가 각도에 따라 달라 보이는 렌티큘러 엽서입니다. 물론 딱히 쓸 데가 없으니 어디 집어넣어놓고 까먹겠지만(...).
 
-<img src="https://img.blog.niceb5y.net/HJlx0N22we.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/HJlx0N22we.jpg" alt="niceb5y blog" class="w-full">
 
 사진에서는 안나오지만 첫 페이지부터 뭐가 묻어있더군요. 소설도 그렇고 뽑기운이 영.... 귀찮아서 교환은 안할듯 싶습니다. 가끔 꺼내보고 다시 기억나서 가슴아파하겠지만...
 
-<img src="https://img.blog.niceb5y.net/HygAVn2wg.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/HygAVn2wg.jpg" alt="niceb5y blog" class="w-full">
 
 차례입니다. 조리개도 안 조이고 찍고.... 이런거 보면 사진도 참 날림으로 찍는듯.
 
-<img src="https://img.blog.niceb5y.net/rJMk0Enhwl.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/rJMk0Enhwl.jpg" alt="niceb5y blog" class="w-full">
 
 > "그것은 마치.... 마치, 꿈속 풍경처럼 한없이 아름다운 광경이었다."
 
-<img src="https://img.blog.niceb5y.net/ByxZCNn2Pe.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/ByxZCNn2Pe.jpg" alt="niceb5y blog" class="w-full">
 
 > "이런 마을 싫어요!"
 
-<img src="https://img.blog.niceb5y.net/rkZAE2hDe.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/rkZAE2hDe.jpg" alt="niceb5y blog" class="w-full">
 
 미츠하가 그토록 싫어하던 그 마을.
 
-<img src="https://img.blog.niceb5y.net/Hyx1AN3hPe.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/Hyx1AN3hPe.jpg" alt="niceb5y blog" class="w-full">
 
 얼마나 많은 사람들이 갈려나갔는지 모를 타임랩스 장면.
 
-<img src="https://img.blog.niceb5y.net/HJ-ZAE3nDg.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/HJ-ZAE3nDg.jpg" alt="niceb5y blog" class="w-full">
 
 캐릭터 설정화도 포함되어 있습니다. 안 보여드릴 거지만(...).
 
-<img src="https://img.blog.niceb5y.net/BJk0Vhhvl.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/BJk0Vhhvl.jpg" alt="niceb5y blog" class="w-full">
 
 영화 제작에 참여한 사람들의 인터뷰도 포함되어 있습니다. 이것 또한 안 보여드릴 거지만.
 

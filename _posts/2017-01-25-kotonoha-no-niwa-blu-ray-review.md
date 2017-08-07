@@ -8,22 +8,22 @@ categories: movie
 
 「너의이름은.」 개봉 뒤 추가 물량이 풀리길래 샀습니다.
 
-<img src="https://img.blog.niceb5y.net/S1MOM87LPl.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/S1MOM87LPl.jpg" alt="niceb5y blog" class="w-full">
 
 > "사랑, 그 이전의 사랑 이야기"
 
-<img src="https://img.blog.niceb5y.net/SkbdfU7IDx.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/SkbdfU7IDx.jpg" alt="niceb5y blog" class="w-full">
 
 BD 몇개 사 본 적 없기도 없고(디스크 귀찮아요...) 그나마 몇개는 다시 팔기도 했지만... 흰 BD 박스는 처음이네요.
 
 처음으로 사는 애니메이션 BD인가 했더니 빛나는 저편으로 가는 어느 BD 때문에 그건 아니던.
 
 
-<img src="https://img.blog.niceb5y.net/SyeuG8Q8Dl.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/SyeuG8Q8Dl.jpg" alt="niceb5y blog" class="w-full">
 
 디스크와 설정집.
 
-<img src="https://img.blog.niceb5y.net/SyuMUXIPg.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/SyuMUXIPg.jpg" alt="niceb5y blog" class="w-full">
 
 설정집은 대략 이렇게 생겼습니다. 저도 아직 다 안 봤으니 다 안보여드릴거임(...).
 

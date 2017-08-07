@@ -14,35 +14,35 @@ categories: apple
 
 그런데 kmug를 들어가보니 293,000원에 팔길래 구입했습니다. (그래도 비쌉니다. 소비자 과실 커버도 안되는데... 노트북 가격의 10%가량...)
 
-<img src="https://img.blog.niceb5y.net/E1XO-1WRx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1XO-1WRx.jpg" alt="niceb5y blog" class="w-full">
 
 패키지 앞.
 
 아직까지도 여기에는 아쿠아 스타일의 애플 로고가 사용되네요.
 
-<img src="https://img.blog.niceb5y.net/EyZcW1-Rg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EyZcW1-Rg.jpg" alt="niceb5y blog" class="w-full">
 
 패키지 뒷면.
 
 뭔가 말이 많지만, 어차피 보증기간 연장말고는 쓸 일이 없을 듯...
 
-<img src="https://img.blog.niceb5y.net/EJNjbyZRe.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EJNjbyZRe.jpg" alt="niceb5y blog" class="w-full">
 
 이렇게 종이 뭉치가 2장 들어있습니다. 오른쪽 종이보단 왼쪽 종이가 중요하고요.
 
-<img src="https://img.blog.niceb5y.net/4k2n-ybRl.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4k2n-ybRl.png" alt="niceb5y blog" class="w-full">
 
 http://apple.com/kr/support/applecare 에서 등록하시면 됩니다.
 
-<img src="https://img.blog.niceb5y.net/E1T6b1-Cl.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1T6b1-Cl.png" alt="niceb5y blog" class="w-full">
 
 등록 신청하면 승인을 받아야 한다고 합니다.
 
-<img src="https://img.blog.niceb5y.net/NJhAWyZAl.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NJhAWyZAl.png" alt="niceb5y blog" class="w-full">
 
 한 5분정도 기다리면 메일로 날라 옵니다.
 
-<img src="https://img.blog.niceb5y.net/Vyqyf1ZAg.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Vyqyf1ZAg.png" alt="niceb5y blog" class="w-full">
 
 그 다음에 확인하면 기간이 2년 더 늘어나 있습니다.
 

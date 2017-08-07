@@ -4,7 +4,7 @@ title: "VMWare Fusion 7 으로의 업그레이드"
 permalink: /upgrade-to-vmware-fusion-7/
 categories: osx-apps
 ---
-<img src="https://img.blog.niceb5y.net/4ycQTX_ue.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4ycQTX_ue.png" alt="niceb5y blog" class="w-full">
 
 얼마 전까진 VirtualBox를 사용했습니다만, 이래저래 아쉬운 점이 참 많았습니다.
 
@@ -16,7 +16,7 @@ categories: osx-apps
 
 속도등등이 조금 향상되었다고 하는데 체감될 만한 수준은 아닌 것 같고, 개인적인 소감으로는 안정성이(화면깨짐) 많이 좋아진 것 같네요.
 
-<img src="https://img.blog.niceb5y.net/EJ3m67OOe.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EJ3m67OOe.png" alt="niceb5y blog" class="w-full">
 
 물론 아이콘등은 요세미티 스타일에 따라 변화하긴 했습니다만, 워낙 둔감한지라 속도 향상은 잘 모르겠네요.
 

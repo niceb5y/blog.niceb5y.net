@@ -10,23 +10,23 @@ categories: update
 
 중학생때였던가? 부터 사용하던 USB 메모리가 있었습니다.
 
-<img src="https://img.blog.niceb5y.net/Ny6WoboSb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Ny6WoboSb.jpg" alt="niceb5y blog" class="w-full">
 
 원래 이렇게 생겼었는데...
 
-<img src="https://img.blog.niceb5y.net/VySQsbsBZ.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VySQsbsBZ.jpg" alt="niceb5y blog" class="w-full">
 
 이런 저런 일이 있다 보니 현재 저런 모습이 됐습니다.
 
 그래서 아마 고등학교때
 
-<img src="https://img.blog.niceb5y.net/Ny8EiWsr-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Ny8EiWsr-.jpg" alt="niceb5y blog" class="w-full">
 
 이런 녀석을 샀던 기억도 있습니다만... 그렇게 심하게 굴리지도 않았는데 망가진 것 까지는 기억나는데... 버렸는지 어쨌는지 기억이 안나네요. 하여튼 지금은 가지고 있지 않습니다.
 
 여튼 저 헐벗은 USB 메모리가 USB2.0 규격이라 느리기도 하고, 수 많은 사람들이 들고다니면 불쌍한 눈빛으로 쳐다보길래(...) 새로 하나 질렀습니다.
 
-<img src="https://img.blog.niceb5y.net/4J9Ls-jHW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4J9Ls-jHW.jpg" alt="niceb5y blog" class="w-full">
 
 읽기 100MB/s, 쓰기 240MB/s인데 벤치마크는 귀찮은 관계로 생략했습니다.
 
@@ -36,6 +36,6 @@ categories: update
 
 <del>결론은</del>
 
-<img src="https://img.blog.niceb5y.net/NkT_sbjBW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NkT_sbjBW.jpg" alt="niceb5y blog" class="w-full">
 
 <del>메모리는 샌디스크를 씁시다.</del>

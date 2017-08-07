@@ -8,7 +8,7 @@ categories: game
 
 인퍼머스 : 세컨드 선 악명높은 : 둘째 아들(...)
 
-<img src="https://img.blog.niceb5y.net/EkiOHUP_g.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EkiOHUP_g.jpg" alt="niceb5y blog" class="w-full">
 
 사실 어떻게 보면 이 게임이 PS4를 사는 직접적인 계기가 되었다고 볼 수도 있을 것 같습니다.
 
@@ -16,26 +16,26 @@ categories: game
 
 인퍼머스 플레이 영상 보고
 
-<img src="https://img.blog.niceb5y.net/41cABUv_l.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/41cABUv_l.jpg" alt="niceb5y blog" class="w-full">
 
 ... 그래서 샀습니다.
 
 ## 그래픽
 
-<img src="https://img.blog.niceb5y.net/NycQDUPdx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NycQDUPdx.jpg" alt="niceb5y blog" class="w-full">
 사실 스크린샷으로 보면 잘 느낌이 살지 않는데, 아직까지도(...) PS4의 게임 타이틀에서 손에 꼽을 그래픽을 자랑합니다.
 
 보면 텍스쳐는 다른 게임에 비해 그렇게 뛰어난건 아닌것 같은데...광원이나 반사 효과가 참 좋습니다.
 
 특히 네온 능력을 보면 매우 화려한 그래픽을 자랑합니다. 
 
-<img src="https://img.blog.niceb5y.net/4yPFvUDOx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4yPFvUDOx.jpg" alt="niceb5y blog" class="w-full">
 
 게다가 업데이트로 포토모드가 추가되어 더 다양하게 스크린샷을 찍을 수 있습니다만... 쉽진 않네요.
 
 ## 물리엔진
 
-<img src="https://img.blog.niceb5y.net/VyFjvLPde.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VyFjvLPde.jpg" alt="niceb5y blog" class="w-full">
 
 물리엔진은 하복을 이용했는데, 꽤 잘 만들어져 있습니다.
 
@@ -45,7 +45,7 @@ categories: game
 
 ## 오픈 월드
 
-<img src="https://img.blog.niceb5y.net/4JJAvIDOe.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4JJAvIDOe.jpg" alt="niceb5y blog" class="w-full">
 
 인퍼머스 : 세컨드 선의 배경은 시카고입니다.
 
@@ -59,7 +59,7 @@ categories: game
 
 ## 스토리
 
-<img src="https://img.blog.niceb5y.net/V1seOLPde.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1seOLPde.jpg" alt="niceb5y blog" class="w-full">
 
 스토리도 길이가 짧은 점만 제외하면 꽤 괜찮다고 생각합니다.
 

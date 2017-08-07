@@ -4,9 +4,9 @@ title: "Sandisk Extreme PRO UHS-I U3 SD Card"
 permalink: /sandisk-extreme-pro-uhs-u3-sd-card/
 categories: update
 ---
-<img src="https://img.blog.niceb5y.net/E1xzk-kZCg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1xzk-kZCg.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/4kfyW1-0e.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4kfyW1-0e.jpg" alt="niceb5y blog" class="w-full">
 
 SD카드 중에서는 꽤 비싸고 좋은 축에 드는 Sandisk Extreme Pro SD 카드를 샀습니다. 카메라를 새로 사고 싶었는데, 카메라를 못 사는 바람에 기분이라도 내기위해 산...건 아니고, 기존에 사용하던 SD카드들이 죽었거나, 죽을 기미가 보이길래...
 

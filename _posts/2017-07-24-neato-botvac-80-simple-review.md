@@ -7,7 +7,7 @@ categories: update
 
 ## Neato Botvac 80
 
-<img src="http://5df8aa4b674bc30f90a6-519cff0c4aadf0882029ee8826ed368e.r50.cf5.rackcdn.com/botvac-photos/neato-botvac_80_purple-side-view-small.jpg" alt="Botvac™ 80" class="w-full" data-action="zoom" />
+<img src="http://5df8aa4b674bc30f90a6-519cff0c4aadf0882029ee8826ed368e.r50.cf5.rackcdn.com/botvac-photos/neato-botvac_80_purple-side-view-small.jpg" alt="Botvac™ 80" class="w-full" />
 
 <small class="text-muted">귀찮아서 사진은 이게 마지막입니다.</small>
 

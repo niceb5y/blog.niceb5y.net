@@ -10,7 +10,7 @@ Visual Studio Code V1.2가 출시되었습니다.
 
 변경사항은 [여기](https://code.visualstudio.com/updates/May_2016)에서 확인하실 수 있습니다.
 
-<img src="https://img.blog.niceb5y.net/V1xx1tkEb.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1xx1tkEb.png" alt="niceb5y blog" class="w-full">
 
 별거 아니긴 한데, 제가 번역 [몇개](https://github.com/Microsoft/vscode/pull/6381) 고쳤습니다. (생색)
 

@@ -4,7 +4,7 @@ title: "github 학생 개발자 팩"
 permalink: /github-student-developer-pack/
 categories: programming
 ---
-<img src="https://img.blog.niceb5y.net/4JZsxrkZAx.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4JZsxrkZAx.png" alt="niceb5y blog" class="w-full">
 
 
 github에서 학생 개발자를 위한 지원 프로그램을 내놨습... 내놓은지는 꽤 됩니다만, 신청을 해도 승인을 안해주다가 1:1 (영어) 문의 하고 나서야 승인을 해줬길래 이제 한번 써 봅니다.

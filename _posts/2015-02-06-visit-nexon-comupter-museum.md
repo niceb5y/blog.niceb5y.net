@@ -10,9 +10,9 @@ categories: update
 
 제주도 여행을 가는 김에(사실 여기를 한번 와 보는게 주 목적 중 하나였지만.) 넥슨 컴퓨터 박물관에 오게 되었습니다.
 
-<img src="https://img.blog.niceb5y.net/VyH-pu1-0l.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VyH-pu1-0l.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/4Jzk6u1W0l.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4Jzk6u1W0l.jpg" alt="niceb5y blog" class="w-full">
 
 박물관은 지상 3층 + 지하 1층 정도로 이루어져 있습니다.
 
@@ -24,14 +24,14 @@ categories: update
 
 지하 1층은 고전 게임 + 기념품점 + 식당.
 
-<img src="https://img.blog.niceb5y.net/VkgJpukZCl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VkgJpukZCl.jpg" alt="niceb5y blog" class="w-full">
 
 천공 카드 + 8인치 플로피 디스크...
 
 저도 플로피 디스크는 3.5인치 짜리 밖에 못봤는데...
 
 지금 SD카드가 최대 용량이 512GB정도라는걸 생각하면... 어휴.
-<img src="https://img.blog.niceb5y.net/Ey1TOybCx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Ey1TOybCx.jpg" alt="niceb5y blog" class="w-full">
 
 소니의 PlayStation입니다.
 
@@ -41,7 +41,7 @@ categories: update
 
 이제 PS도 20년 된 브랜드(...)
 
-<img src="https://img.blog.niceb5y.net/41bkTu1WAg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/41bkTu1WAg.jpg" alt="niceb5y blog" class="w-full">
 
 지금의 라라 크로프트와 비교하면 엄청 투박한 툼레이더...
 
@@ -49,13 +49,13 @@ categories: update
 
 툼레이더 DE를 살까 했었는데, 어쩌다 보니 그냥 넘어가게 된...
 
-<img src="https://img.blog.niceb5y.net/E1VJTukbAl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1VJTukbAl.jpg" alt="niceb5y blog" class="w-full">
 
 사운드카드별로 음악을 비교 해 볼 수 있었습니다.
 
 저 때는 세상에 없었기 때문에(...) 그냥 '그렇구나...' 했던 정도.
 
-<img src="https://img.blog.niceb5y.net/V17kp_1ZAe.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V17kp_1ZAe.jpg" alt="niceb5y blog" class="w-full">
 
 개인적으로 여기에 왔던 이유는 바로 이게 아닌가 싶습니다. (물론 공식적으로 애플빠임은 부정합니다만...)
 
@@ -63,47 +63,47 @@ categories: update
 
 Apple I이 워낙 소량으로 만들어져서 실제 작동하는 모델이 전세계에서 6대? 정도인 것으로 압니다.
 
-<img src="https://img.blog.niceb5y.net/4JHk6d1bAg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4JHk6d1bAg.jpg" alt="niceb5y blog" class="w-full">
 
 워즈니악 아저씨 친필 싸인까지 받았습니다.
 
-<img src="https://img.blog.niceb5y.net/Ek8kTuJW0g.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Ek8kTuJW0g.jpg" alt="niceb5y blog" class="w-full">
 
 기판을 산 뒤, 나무 케이스를 복각하고, 서명을 받은 것으로 알고있습니다.
 
-<img src="https://img.blog.niceb5y.net/NkxTuyZRl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NkxTuyZRl.jpg" alt="niceb5y blog" class="w-full">
 
 워즈니악 아저씨 사진.
 
-<img src="https://img.blog.niceb5y.net/Nklgpuk-Rg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Nklgpuk-Rg.jpg" alt="niceb5y blog" class="w-full">
 
 Apple II
 
 <del>수 년간의 Lisa 등등의 삽질에도</del> 애플을 먹여살린 기종
 
-<img src="https://img.blog.niceb5y.net/Nk-lpu1WCx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Nk-lpu1WCx.jpg" alt="niceb5y blog" class="w-full">
 
 매킨토시 포터블.
 
 지금 기준으로야 포터블 하지 않지만...
 
-<img src="https://img.blog.niceb5y.net/NJGx6ukZAx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NJGx6ukZAx.jpg" alt="niceb5y blog" class="w-full">
 
 파워북.
 
 처음 노트북에 팜레스트가 생긴 기종이 파워북이죠.
 
-<img src="https://img.blog.niceb5y.net/Vymxau1-0g.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Vymxau1-0g.jpg" alt="niceb5y blog" class="w-full">
 
 오리지널 맥킨토시 + 아이맥 g3
 
-<img src="https://img.blog.niceb5y.net/E1Ex6uJ-Rx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1Ex6uJ-Rx.jpg" alt="niceb5y blog" class="w-full">
 
 초기 버전으로 복원한 바람의 나라.
 
 온라인 게임의 시작을 넥슨으로 시작했는데, 바람의 나라는 안 해봐서, 무슨 차이인지는 잘 모르겠습니다.
 
-<img src="https://img.blog.niceb5y.net/EJSx6OJb0x.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EJSx6OJb0x.jpg" alt="niceb5y blog" class="w-full">
 
 오큘러스 리프트.
 
@@ -115,55 +115,55 @@ Apple II
 
 <del>하지만 저는 프로젝트 모피어스 + 서머레슨에 기대를 더 걸도록 하겠습...</del>
 
-<img src="https://img.blog.niceb5y.net/EJIlad1W0l.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EJIlad1W0l.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/EyPeTOJZCx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EyPeTOJZCx.jpg" alt="niceb5y blog" class="w-full">
 
 이런 저런 맥들.
 
 지금 와서 생각해보니, 사진이 왜 죄다 맥이지... -_-;;
 
-<img src="https://img.blog.niceb5y.net/Nkug6dk-Rl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Nkug6dk-Rl.jpg" alt="niceb5y blog" class="w-full">
 
 박물관에 다른분들이 맡겨놓은 컴퓨터도 많았습니다.
 
-<img src="https://img.blog.niceb5y.net/E1FgpdJbRl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1FgpdJbRl.jpg" alt="niceb5y blog" class="w-full">
 
 NeXT 큐브라던지
 
-<img src="https://img.blog.niceb5y.net/Vy-T_JZ0g.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Vy-T_JZ0g.jpg" alt="niceb5y blog" class="w-full">
 
 파워맥 G4 큐브
 
-<img src="https://img.blog.niceb5y.net/EkgWTd1bCe.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EkgWTd1bCe.jpg" alt="niceb5y blog" class="w-full">
 
 iBook 등등...
 
-<img src="https://img.blog.niceb5y.net/V1Z-au1bAg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1Z-au1bAg.jpg" alt="niceb5y blog" class="w-full">
 
 심지어 신형 맥프로도 있더랍니다.
 
 아 근데 진짜 왜 맥만 찍었지..?
 
-<img src="https://img.blog.niceb5y.net/4yzZTdyZCg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4yzZTdyZCg.jpg" alt="niceb5y blog" class="w-full">
 
 물론 맥만 있는건 아니고... 꽤 많습니다.
 
-<img src="https://img.blog.niceb5y.net/V1m-auyW0g.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1m-auyW0g.jpg" alt="niceb5y blog" class="w-full">
 
 매킨토시 20주년 기념판
 
-<img src="https://img.blog.niceb5y.net/NyVWp_kZCl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NyVWp_kZCl.jpg" alt="niceb5y blog" class="w-full">
 
 FDD로 연주하는 오케스트라 (-_-)
 
-<img src="https://img.blog.niceb5y.net/NJLZ6_kZCg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NJLZ6_kZCg.jpg" alt="niceb5y blog" class="w-full">
 
 지하 1층에서는 이렇게 게임을 할 수 있습니다.
 
 지상 2층에서도 게임은 가능한데, 어째 오큘러스 리프트 빼고 사진을 찍은게 없네요.
 
-<img src="https://img.blog.niceb5y.net/4kv-T_1WRg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4kv-T_1WRg.jpg" alt="niceb5y blog" class="w-full">
 
 그리고 지하 1층에서는 이렇게 키보드 와플을 팝니다.
 

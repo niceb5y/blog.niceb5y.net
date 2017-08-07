@@ -10,13 +10,13 @@ categories: update
 
 오늘 인식 오류로 "요"만 인식하는 경우가 발생하였습니다. 그래서...
 
-<img src="https://img.blog.niceb5y.net/4yTJ3NOdx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4yTJ3NOdx.jpg" alt="niceb5y blog" class="w-full">
 
 갑작스런 끝말잇기를 하더랍니다.
 
 나름 재미있길래 한번 더 해 봤더니...
 
-<img src="https://img.blog.niceb5y.net/V1gpJnNOdg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1gpJnNOdg.jpg" alt="niceb5y blog" class="w-full">
 
 이러더랍니다.
 

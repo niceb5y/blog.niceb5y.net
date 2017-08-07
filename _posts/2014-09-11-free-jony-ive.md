@@ -6,9 +6,9 @@ categories: apple
 ---
 **※ 이 포스트는 전혀 사실이 아닙니다.**
 
-<img src="https://img.blog.niceb5y.net/EJt7Cmudl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EJt7Cmudl.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/NJeKQRmdOg.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NJeKQRmdOg.png" alt="niceb5y blog" class="w-full">
 
 <blockquote class="twitter-tweet" lang="ko">
   <p>

@@ -10,11 +10,11 @@ categories: apple
 
 # iPhone 6  
 
-<img src="https://img.blog.niceb5y.net/VJKd44O_x.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VJKd44O_x.jpg" alt="niceb5y blog" class="w-full">
 
 먼저 아이폰 6는 아무래도 많이 유출되어 김이 빠진 느낌입니다.
 
-<img src="https://img.blog.niceb5y.net/V1ojEV__x.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1ojEV__x.jpg" alt="niceb5y blog" class="w-full">
 
 ##  디자인
 
@@ -62,19 +62,19 @@ Apple A8 프로세서는 큰 변화는 없었지만, 모바일 프로세서 중�
 
 # Apple Watch
 
-<img src="https://img.blog.niceb5y.net/V1CXS4Odx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1CXS4Odx.jpg" alt="niceb5y blog" class="w-full">
 
 드디어 올 것이 왔습니다.
 
 소문만 무성했으며, 그 소문따라 다른 회사들은 다 만들었던(...) 그 물건이 나왔습니다.
 
-<img src="https://img.blog.niceb5y.net/V18HSN_Ox.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V18HSN_Ox.jpg" alt="niceb5y blog" class="w-full">
 
 디자인은 조합에 따라 괜찮은 것도 있고, 엄청나게 부담스러운 것도 있습니다.
 
 기존 스마트워치들보다는 (패션으로서의) 시계에 더 중점적으로 접근한 것 같고, 시계줄(의 디자인이나, 교체 매커니즘 등등) 만들어 놓은 것들을 보면 애플스럽고 Ive스럽습니다(...).
 
-<img src="https://img.blog.niceb5y.net/NJxPHNOOe.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NJxPHNOOe.jpg" alt="niceb5y blog" class="w-full">
 
 아직 실물도 없고 양산도 되기 전의 단계이기 전이기 때문에, 애플 와치가 대단한가에 대한 평가는 보류하는게 좋을 것 같습니다.
 
@@ -82,7 +82,7 @@ Apple A8 프로세서는 큰 변화는 없었지만, 모바일 프로세서 중�
 
 일단, 디지털 크라운라는 접근법은 꽤 신선합니다(좋다는 뜻은 아닙니다).
 
-<img src="https://img.blog.niceb5y.net/VkMCSV_ug.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VkMCSV_ug.jpg" alt="niceb5y blog" class="w-full">
 
 처음에 저도 "저게 뭐야" 했습니다만, 보면 볼수록 괜찮아 지는 것도 같네요. 
 

@@ -4,7 +4,7 @@ title: "「너의이름은.」을 봤습니다."
 permalink: /kimi-no-na-wa-review/
 categories: movie
 ---
-<img src="https://img.blog.niceb5y.net/kimi-no-na-wa.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/kimi-no-na-wa.jpg" alt="niceb5y blog" class="w-full">
 
 지난 7일 코엑스 메가박스 M2관에서 관람했습니다.
 

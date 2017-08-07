@@ -17,9 +17,9 @@ categories: ssu
 1. [다음 사이트](http://www.ssu.ac.kr/web/kor/plaza_c_02_02)의 안내를 따라 [다음의 주소](mailto:ssuimt@ssu.ac.kr)로 메일을 전송하여, soongsil.ac.kr 계정을 발급받습니다.
 직번/학번, 이름, 신규 ID, 도메인, 부서/학과, 신청일을 넣도록 되어 있는데, 도메인에는 soongsil.ac.kr을 넣습니다. 나머지는 설명이 필요없을듯 하고요. (몇몇 외국메일은 안보내지는듯. 보내고 며칠을 기다리다 네이버 메일로 다시 신청하니 금방 오더군요.)
 2. 다음처럼 메일이 옵니다. 로그인해서 들어가시고, 임시 비밀번호를 변경합니다.
-<img src="https://img.blog.niceb5y.net/N1f_hyZCx.png" alt="image hosted by s-h.kim" class="w-full">
+<img src="/images/N1f_hyZCx.png" alt="niceb5y blog" class="w-full">
 3. [다음 페이지](http://portal.office.com/)에서 다운로드 받으시면 됩니다.
-<img src="https://img.blog.niceb5y.net/E1AGRy-Ae.png" alt="image hosted by s-h.kim" class="w-full">
+<img src="/images/E1AGRy-Ae.png" alt="niceb5y blog" class="w-full">
 
 엄밀히 말하면 무료...라기보다 학교에서 계약한 덕분에 쓰는 거긴 한데... 그래도 추가비용 없이 쓸 수 있다는게 엄청난 장점인듯.
 

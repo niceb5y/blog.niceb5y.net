@@ -8,7 +8,7 @@ categories: game
 
 **배트맨 아캄나이트**
 
-<img src="https://img.blog.niceb5y.net/VyB04WsSZ.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VyB04WsSZ.jpg" alt="niceb5y blog" class="w-full">
 
 아-주 오래전부터 상당히 기다린 작품입니다.
 
@@ -48,7 +48,7 @@ categories: game
 
 PC판은 퍼포먼스 문제에, 스팀버전은 우리나라에 한해 출시가 연기되었고... XO판은 자막이 존재하지 않았다고 하니, PS4판을 산 저는 상당히 운이 좋았다 할 수 있겠습니다.
 
-<img src="https://img.blog.niceb5y.net/V1aYrWsH-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1aYrWsH-.jpg" alt="niceb5y blog" class="w-full">
 
 어찌 됐든 열심히 플레이 해서 메인 엔딩도 봤고, 진엔딩 보려고 리들러 트로피 모으러 다니는 일 밖에 남겨두지 않았으니, 이 정도 플레이 했으면 리뷰 쓰는덴 문제가 없을것 같네요.
 
@@ -73,7 +73,7 @@ PC판은 퍼포먼스 문제에, 스팀버전은 우리나라에 한해 출시�
 
 한 가지 아쉬운 점은 스토리의 진엔딩을 보려면 리들러 트로피를 다 모아야 한다는 것이지요.
 
-<img src="https://img.blog.niceb5y.net/4JTeLWjHW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4JTeLWjHW.jpg" alt="niceb5y blog" class="w-full">
 
 <del>정상이 아닙니다.</del>
 
@@ -87,7 +87,7 @@ PC판은 퍼포먼스 문제에, 스팀버전은 우리나라에 한해 출시�
 
 단점으로는 도구 사용을 이용한 퍼즐이 많이 줄었습니다.
 
-<img src="https://img.blog.niceb5y.net/V1NrLZoBb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1NrLZoBb.jpg" alt="niceb5y blog" class="w-full">
 
 <del>아...</del>
 
@@ -103,7 +103,7 @@ PC판은 퍼포먼스 문제에, 스팀버전은 우리나라에 한해 출시�
 
 그런데 이전의 아캄 시리즈가 짜증 날 일이 없는 게임인가 하면 딱히 그건 아닌 것 같은...
 
-<img src="https://img.blog.niceb5y.net/VJk_UWiHb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VJk_UWiHb.jpg" alt="niceb5y blog" class="w-full">
 
 <del>죽이고싶다....</del>
 

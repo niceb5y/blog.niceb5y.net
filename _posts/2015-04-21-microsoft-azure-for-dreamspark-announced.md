@@ -4,7 +4,7 @@ title: "Microsoft Azure for DreamSpark 발표"
 permalink: /microsoft-azure-for-dreamspark-announced/
 categories: microsoft
 ---
-<img src="https://img.blog.niceb5y.net/VJ-2V-xbAx.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VJ-2V-xbAx.png" alt="niceb5y blog" class="w-full">
 
 이제 Dreamspark에서 MS의 클라우드 서비스인 Microsoft Azure를 사용하실 수 있습니다.
 

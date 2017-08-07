@@ -15,11 +15,11 @@ categories: programming
 
 ## [v0.4 WIN (2015/06/20) 다운로드](http://dl.dropboxusercontent.com/u/36107953/fi/FavoImgs-Helper.exe)
 
-<img src="https://img.blog.niceb5y.net/V1U6X8Pdg.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1U6X8Pdg.png" alt="niceb5y blog" class="w-full">
 
 ## [v0.4 OSX (2015/06/28) 다운로드](http://dl.dropboxusercontent.com/u/36107953/fi/FavoImgs-Helper.app.zip)
 
-<img src="https://img.blog.niceb5y.net/41lIp78Pdx.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/41lIp78Pdx.png" alt="niceb5y blog" class="w-full">
 
 ## OSX 버전에 대한 안내
 아래의 설명은 OSX버전에 에 대한 설명입니다. Windows 버전의 사용자 분들은 넘어가셔도 됩니다.

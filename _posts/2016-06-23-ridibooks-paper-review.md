@@ -4,7 +4,7 @@ title: "리디북스 페이퍼 사용기"
 permalink: /ridibooks-paper-review/
 categories: update
 ---
-<img src="https://img.blog.niceb5y.net/E1zFcxYErb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1zFcxYErb.jpg" alt="niceb5y blog" class="w-full">
 
 **드디어 샀습니다.**
 
@@ -28,15 +28,15 @@ i모 사의 스토리라던지... 평이 그렇게 좋지 않더군요.
 
 아무래도 물리키가 좋긴 좋거든요. 페이퍼에 달린 스위치 품질이 그렇게 좋냐 하면 그건 아니지만...
 
-<img src="https://img.blog.niceb5y.net/VJr_9gtNHW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VJr_9gtNHW.jpg" alt="niceb5y blog" class="w-full">
 
 일단 사이즈가 휴대하기 편리합니다. 그냥 제가 이상한거겠지만, 4.7인치 폰과 12.9인치 태블릿을 쓰기 때문에 둘 다 너무 극단적이거든요. 아이패드를 잠자리에서 책을 보는데 쓰기에는 너무 무겁고 큽니다. 실수로 얼굴에 떨어뜨리면 죽을 수 있는 무게이기도 하죠.
 
-<img src="https://img.blog.niceb5y.net/EkKqgtES-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EkKqgtES-.jpg" alt="niceb5y blog" class="w-full">
 
 아이폰6이랑 비교하면 크기는 대충 이정도 됩니다.
 
-<img src="https://img.blog.niceb5y.net/41bY9xFNHb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/41bY9xFNHb.jpg" alt="niceb5y blog" class="w-full">
 
 장점은 전자잉크라 배터리가 오래가고 눈이 편하다는 겁니다. 물론 안드로이드라 배터리가 오래간다는 점을 약간 상쇄시킨다는 생각이 들긴 하지만요(...).
 
@@ -44,11 +44,11 @@ i모 사의 스토리라던지... 평이 그렇게 좋지 않더군요.
 
 킨들 페이퍼 화이트나 크레마 샤인 이후의 기종들처럼 프론트라이트를 지원하기 때문에, 어두운 곳에서도 책을 읽을 수 있습니다. 백라이트처럼 눈이 아프지도 않고요. 다만 최저밝기가 너무 밝은게 아닌가 싶은 생각은 듭니다.
 
-<img src="https://img.blog.niceb5y.net/N1-OqlY4BW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/N1-OqlY4BW.jpg" alt="niceb5y blog" class="w-full">
 
 아무래도 디스플레이 잘 깨진다는 점은 여전하기 때문에 케이스를 끼워 사용하고 있습니다. 재질이나, 생김새는 꽤 마음에 듭니다만....
 
-<img src="https://img.blog.niceb5y.net/4JxKqeFNHW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4JxKqeFNHW.jpg" alt="niceb5y blog" class="w-full">
 
 너무 두껍고, 너무 무겁습니다. 가볍고 얇은 기기라는 장점이 상쇄되는 느낌. 다음 기기는 케이스가 더 가볍고 얇아졌으면 좋겠습니다.
 

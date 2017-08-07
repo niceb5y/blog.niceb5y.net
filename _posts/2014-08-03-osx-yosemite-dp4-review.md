@@ -6,7 +6,7 @@ categories: osx
 ---
 ## OSX Yosemite
 
-<img src="https://img.blog.niceb5y.net/N1FKBHDdx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/N1FKBHDdx.jpg" alt="niceb5y blog" class="w-full">
 
 [OSX Yosemite](http://www.apple.com/kr/osx/preview/)가 발표되던 날에 바로 DP1 버전으로 설치를 해 본 적이 있습니다.
 
@@ -18,13 +18,13 @@ categories: osx
 
 iOS7과 디자인적인 면에서 매우 닮아 있지만, iOS7보다는 더 다듬어졌다고 볼 수 있습니다.
 
-<img src="https://img.blog.niceb5y.net/E1SVOBDug.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1SVOBDug.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/4kCmYBvOe.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4kCmYBvOe.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/V1nKtBwOx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1nKtBwOx.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/Ek7yiBvdx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Ek7yiBvdx.jpg" alt="niceb5y blog" class="w-full">
 
 
 iOS7처럼 반투명 레이어, 블러를 전반적으로 적용한 인터페이스를 지니고 있습니다. 
@@ -33,7 +33,7 @@ iOS7처럼 반투명 레이어, 블러를 전반적으로 적용한 인터페이
 
 [이 포스트](http://martiancraft.com/blog/2014/07/inspecting-yosemite-icons/)에서 볼 수 있듯이, 아이콘의 디자인은 매우 정교하게 잘 만들어져 있다고 할 수 있습니다.
 
-<img src="https://img.blog.niceb5y.net/4yjGsrDul.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4yjGsrDul.jpg" alt="niceb5y blog" class="w-full">
 
 알림 센터도  iOS8과 유사하게 새로 디자인 되었습니다.
 
@@ -69,7 +69,7 @@ Spotlight가 따로 분리되었고, 드디어 Safari에서 CMD + Shift + N 으�
 
 아직까지 몇몇 버그들이 있고(비정상 종료 오류), 파이널컷 같은 어플리케이션들은 실행이 안되는 문제라던지, 
 
-<img src="https://img.blog.niceb5y.net/41xix8vul.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/41xix8vul.png" alt="niceb5y blog" class="w-full">
 아직까지 프로그램들이 OSX Yosemite를 지원하지 않는 문제들이 있습니다.
 
 하지만 버그가 안정화 된 정식버전이 출시되고, 많은 어플리케이션들이 이를 지원한다면, 썩 괜찮은 운영체제가 될 것이라 생각합니다.

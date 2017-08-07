@@ -75,9 +75,9 @@ A. 아닐껄요.
 
 뭐 이렇기도 하고(물론 3GS는 어떻게 보면 지금 6보다도 더 대충 한 업그레이드 같기도 하지만...)
 
-<img src="https://img.blog.niceb5y.net/Ny0HGNd_x.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Ny0HGNd_x.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/NkLGf4_dl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NkLGf4_dl.jpg" alt="niceb5y blog" class="w-full">
 
 꽤 혁신적이라 부를 수 있는 제품도 만들어 냈고 말이죠.
 

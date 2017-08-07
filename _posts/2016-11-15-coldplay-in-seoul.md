@@ -7,7 +7,7 @@ categories: update
 **마침내..**
 
 <div style="text-align: center">
-	<img src="https://img.blog.niceb5y.net/coldplay17.jpg" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+	<img src="/images/coldplay17.jpg" alt="niceb5y blog" class="w-full">
 </div>
 <br>
 <div class="embed-responsive embed-responsive-16by9">

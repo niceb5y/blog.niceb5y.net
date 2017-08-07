@@ -4,15 +4,15 @@ title: "OSX용 Office Preview 첫느낌"
 permalink: /firstlook-of-office-preview-for-osx/
 categories: microsoft
 ---
-<img src="https://img.blog.niceb5y.net/EyeYmelZAx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EyeYmelZAx.jpg" alt="niceb5y blog" class="w-full">
 
 Word
 
-<img src="https://img.blog.niceb5y.net/E1bYXge-0x.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1bYXge-0x.jpg" alt="niceb5y blog" class="w-full">
 
 Excel
 
-<img src="https://img.blog.niceb5y.net/4kFmlgb0x.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4kFmlgb0x.jpg" alt="niceb5y blog" class="w-full">
 
 PowerPoint
 

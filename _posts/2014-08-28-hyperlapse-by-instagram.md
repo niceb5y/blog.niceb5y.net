@@ -6,7 +6,7 @@ categories: ios-apps
 ---
 ## Hyperlapse
 
-<img src="https://img.blog.niceb5y.net/EyRiz8wOg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EyRiz8wOg.jpg" alt="niceb5y blog" class="w-full">
 
 Instagram에서 얼마전에 Hyperlapse라는 애플리케이션을 iOS로 출시하였습니다.
 

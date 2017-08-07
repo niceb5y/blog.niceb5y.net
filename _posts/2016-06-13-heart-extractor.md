@@ -6,7 +6,7 @@ categories: programming
 ---
 ## Heart Extractor
 
-<img src="https://cdn.rawgit.com/niceb5y/HeartExtractor/6d620d3df6d1867db34fca25dd6abc3d99212916/HeartExtractor.svg" alt="HeartExtractor Logo" style="min-width:150px; width:30%;" data-action="zoom">
+<img src="https://cdn.rawgit.com/niceb5y/HeartExtractor/6d620d3df6d1867db34fca25dd6abc3d99212916/HeartExtractor.svg" alt="HeartExtractor Logo" style="min-width:150px; width:30%;">
 
 ## [v1.0(11) 다운로드](https://github.com/niceb5y/HeartExtractor/releases/download/v1.0(11)/HeartExtractor.zip)
 

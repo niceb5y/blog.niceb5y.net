@@ -4,7 +4,7 @@ title: "OSX용 Office Preview 공개"
 permalink: /office-for-osx-preview-released/
 categories: microsoft
 ---
-<img src="https://img.blog.niceb5y.net/NkaVC1ZRg.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NkaVC1ZRg.png" alt="niceb5y blog" class="w-full">
 
 잠이 안와서 블로그 글좀 끄적거리다가 잠 자기 전 마지막으로 트위터를 하러 들어갔는데 이렇게 기쁜 소식을 접할 줄이야...
 

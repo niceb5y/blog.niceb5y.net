@@ -4,7 +4,7 @@ title: "애플 펜슬 리뷰"
 permalink: /apple-pencil-review/
 categories: apple
 ---
-<img src="https://img.blog.niceb5y.net/V1-scy8HYl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1-scy8HYl.jpg" alt="niceb5y blog" class="w-full">
 
 거창하게 말은 리뷰랬지만, 사실은 별거 없습니다.
 
@@ -12,23 +12,23 @@ categories: apple
 
 그냥 자기만족으로 끄적이는 글이기 때문에...
 
-<img src="https://img.blog.niceb5y.net/Ny4i5yUHKe.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Ny4i5yUHKe.jpg" alt="niceb5y blog" class="w-full">
 
 ~~사과 상자 쌓인거 보면 대충 리뷰 어떻게 걸러들어야 할지 감이 오실듯.~~
 
-<img src="https://img.blog.niceb5y.net/VyoqyIHKx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VyoqyIHKx.jpg" alt="niceb5y blog" class="w-full">
 
 일단 필기하는 느낌은 정말 좋습니다. 딜레이도 정말 적고요.
 
-<img src="https://img.blog.niceb5y.net/4Jlj91IBFl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4Jlj91IBFl.jpg" alt="niceb5y blog" class="w-full">
 
 작은 글씨도 쓰기 좋습니다.
 
-<img src="https://img.blog.niceb5y.net/4JQsck8SKl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4JQsck8SKl.jpg" alt="niceb5y blog" class="w-full">
 
 필압, 기울기 등을 잘 지원합니다. [Astropad](http://astropad.com)로 맥에 연결해서 사용할 수도 있고요.
 
-<img src="https://img.blog.niceb5y.net/NkGoqJ8Btg.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/NkGoqJ8Btg.jpg" alt="niceb5y blog" class="w-full">
 
 [Procreate](http://procreate.si)같은 앱에서 바로 그림을 그릴 수 있습니다.
 

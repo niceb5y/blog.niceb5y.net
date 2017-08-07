@@ -11,15 +11,15 @@ categories: programming
 
 사진으로 살펴보자면…
 
-<img src="https://img.blog.niceb5y.net/HJcrhmFn.png" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/HJcrhmFn.png" alt="niceb5y blog" class="w-full">
 
 해당 기능이 활성화 되기 전에는 이렇게 보입니다만,
 
-<img src="https://img.blog.niceb5y.net/Hkx5Bnmth.png" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/Hkx5Bnmth.png" alt="niceb5y blog" class="w-full">
 
 해당 기능이 활성화 된 후에는 이렇게 보입니다.
 
-<img src="https://img.blog.niceb5y.net/SJGPaQF3.png" alt="image hosted by niceb5y archive" class="w-full" data-action="zoom">
+<img src="/images/SJGPaQF3.png" alt="niceb5y blog" class="w-full">
 
 주소를 다 입력하지 않고, 웹사이트 제목의 일부만 입력해도 검색할 수 있습니다.
 

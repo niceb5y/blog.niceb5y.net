@@ -4,13 +4,13 @@ title: "간단한 OSX용 #NowPlaying 애플리케이션"
 permalink: /simple-nowplaying-app-for-osx/
 categories: programming
 ---
-<img src="https://img.blog.niceb5y.net/EJeB2Nwdtl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EJeB2Nwdtl.jpg" alt="niceb5y blog" class="w-full">
 
 늘 그렇듯이 그냥 갑자기 만들어보고 싶길래 구글 뒤적거리면서 만들어보았습니다.
 
 ScriptingBridge로 iTunes 정보 받아온 다음 NSSharingServicePicker로 공유합니다.
 
-<img src="https://img.blog.niceb5y.net/E1r2NP_Yx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E1r2NP_Yx.jpg" alt="niceb5y blog" class="w-full">
 
 트위터에 쓰려고 만들었는데, 뭐... 트위터는 잘 나오니 OK.
 텔레그램쪽은 사진이 안 나오는 증상 && 공유가 완료되지 않는 증상이 있던데....

@@ -6,7 +6,7 @@ categories: programming
 ---
 node.js 모듈로 만들었습니다.
 
-<img src="https://img.blog.niceb5y.net/Vkg7vdrMW.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/Vkg7vdrMW.png" alt="niceb5y blog" class="w-full">
 
 [npmjs](https://www.npmjs.com/package/cute-alpaca)
 

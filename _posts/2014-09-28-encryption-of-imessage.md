@@ -4,7 +4,7 @@ title: "iMessage의 암호화 방법"
 permalink: /encryption-of-imessage/
 categories: apple
 ---
-<img src="https://img.blog.niceb5y.net/V1Swv4udx.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1Swv4udx.png" alt="niceb5y blog" class="w-full">
 
 &nbsp;
 
@@ -16,7 +16,7 @@ categories: apple
 
 # iMessage의 암호화 방법
 
-<img src="https://img.blog.niceb5y.net/EJNzdEdOx.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EJNzdEdOx.jpg" alt="niceb5y blog" class="w-full">
 
 1 - 기기가 아이메시지 대화를 시작하는 순간, 아이메시지는 두 종류의 공개키 + 개인키를 생성합니다.
 
@@ -34,7 +34,7 @@ categories: apple
 
 7 - 메시지가 너무 길거나 첨부파일이 포함되어 있으면 iCloud에 업로드되며 랜덤 생성된 키로 암호화 됩니다. 이 키와 URI또한 서명 / 암호화를 거칩니다.
 
-<img src="https://img.blog.niceb5y.net/EyLmOVOOl.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EyLmOVOOl.png" alt="niceb5y blog" class="w-full">
 
 8 - 모든 메시지는 기기에 도착하자마자 APNs에서 삭제되며, 기기가 꺼져있다던가 등등의 이유로 기기에 전송이 되지 않으면 7일간 더 보관됩니다.
 

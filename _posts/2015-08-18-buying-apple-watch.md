@@ -10,23 +10,23 @@ categories: apple
 
 여튼, 샀으니 짤막한 소감.
 
-<img src="https://img.blog.niceb5y.net/4kUltbsB-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4kUltbsB-.jpg" alt="niceb5y blog" class="w-full">
 
 박스가 꽤 고급스럽습니다. 종이 박스 치곤 적당히 무게감도 있고요.
 
 다소 포장이 심심한 느낌도 있지만, 아이폰6도 그랬으니 컨셉인듯.
 
-<img src="https://img.blog.niceb5y.net/VJ74YWoSb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VJ74YWoSb.jpg" alt="niceb5y blog" class="w-full">
 
 42mm 스테인리스 스틸 바디에 스포트 밴드 모델을 구입했습니다.
 
 밴드를 꽤 고민했는데, 밴드가 비싸던가, 딱히 마음에 안든다던가 해서 비싼 밴드를 시는 것은 보류하기로 했습니다.
 
-<img src="https://img.blog.niceb5y.net/4k28FWjSb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4k28FWjSb.jpg" alt="niceb5y blog" class="w-full">
 
 늘 보던 애플의 자신감 있는 멘트.
 
-<img src="https://img.blog.niceb5y.net/N1yYFZoBb.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/N1yYFZoBb.jpg" alt="niceb5y blog" class="w-full">
 
 애플이 늘 그렇듯이, 포장 디자인도 상당히 신경 쓴 모양입니다.
 
@@ -34,25 +34,25 @@ categories: apple
 
 스포트 모델은 날지도...?
 
-<img src="https://img.blog.niceb5y.net/E16sF-oH-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/E16sF-oH-.jpg" alt="niceb5y blog" class="w-full">
 
 사진에서 반짝거림을 표현하는게 상당히 어려운데, 예쁩니다. 보석같은 느낌이랄까?
 
 생각했던 것보다 크지도 않고 두껍지도 않은 느낌.
 
-<img src="https://img.blog.niceb5y.net/V1YaY-or-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/V1YaY-or-.jpg" alt="niceb5y blog" class="w-full">
 
 사진과 실물이 다릅니다. 실물이 예뻐요.
 
-<img src="https://img.blog.niceb5y.net/VkVgcWsr-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VkVgcWsr-.jpg" alt="niceb5y blog" class="w-full">
 
 기존에 차던 GW-3000모델과의 비교.
 
-<img src="https://img.blog.niceb5y.net/4ycEcWsH-.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4ycEcWsH-.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/N15r5ZjBW.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/N15r5ZjBW.jpg" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/N1YUc-jHZ.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/N1YUc-jHZ.jpg" alt="niceb5y blog" class="w-full">
 
 동기화할때 잠깐 스쳐 지나가는 화면인데, 이 화면이 참 예쁘더랍니다.
 

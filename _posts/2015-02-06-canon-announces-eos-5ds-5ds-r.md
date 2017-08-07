@@ -4,9 +4,9 @@ title: "캐논 EOS 5Ds, 5Ds R 발표"
 permalink: /canon-announces-eos-5ds-5ds-r/
 categories: camera
 ---
-<img src="https://img.blog.niceb5y.net/EkslHkbAx.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/EkslHkbAx.png" alt="niceb5y blog" class="w-full">
 
-<img src="https://img.blog.niceb5y.net/VJxsxrybAl.png" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/VJxsxrybAl.png" alt="niceb5y blog" class="w-full">
 
 EOS-1 DX가 1800만 화소로 출시 한 뒤, 캐논이 고화소 DSLR이 EOS 3d라는 이름을 가지고 나온다는 루머를 처음 본 지도 꽤 지났는데, 드디어 나왔습니다.
 
@@ -18,11 +18,11 @@ EOS-1 DX가 1800만 화소로 출시 한 뒤, 캐논이 고화소 DSLR이 EOS 3d
 
 샘플샷을 찾아 한번 크롭 해 보았는데, 이 사진은
 
-<img src="https://img.blog.niceb5y.net/41GseSkbAl.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/41GseSkbAl.jpg" alt="niceb5y blog" class="w-full">
 
 바로 아래 사진에서 자른 겁니다.  
 
-<img src="https://img.blog.niceb5y.net/4yXixHJb0g.jpg" alt="image hosted by s-h.kim" class="w-full" data-action="zoom">
+<img src="/images/4yXixHJb0g.jpg" alt="niceb5y blog" class="w-full">
 
 역시 고화소다 보니, 인물 사진 찍는건 좀 별로인듯. <del>으아 주름</del>
 
