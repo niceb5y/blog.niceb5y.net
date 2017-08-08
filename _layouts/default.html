@@ -20,7 +20,7 @@
 		<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 		<meta property="og:image" content="{{ "/assets/blog.png" | prepend: site.baseurl | prepend: site.url }}">
 		<meta property="fb:pages" content="241509676274383">
-		<link rel="stylesheet" href="//assets.niceb5y.net/toolkit/v1/dist/toolkit-minimal.css">
+		<link rel="stylesheet" href="//cdn.shk.im/css/toolkit/minimal.css">
 		<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 		<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 		<link rel="search" type="application/opensearchdescription+xml" title="{{ site.title }}" href="{{ "/search.xml" | prepend: site.baseurl | prepend: site.url }}">
@@ -34,7 +34,7 @@
 			ga('send', 'pageview');
 			if ('serviceWorker' in navigator) navigator.serviceWorker.register('/service-worker.js');
 		</script>
-		<script src="//assets.niceb5y.net/toolkit/v1/dist/toolkit+kr.js" async></script>
+		<script src="//cdn.shk.im/js/toolkit/script_kr.js" async></script>
 		<script src="{{ "/assets/script.js" | prepend: site.baseurl | prepend: site.url }}" async></script>
 		<script src="//cse.google.com/cse.js?cx=010194064233066952761:3xsz9hiygms" async></script>
 	</head>
