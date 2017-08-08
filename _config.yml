@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.niceb5y.net" # the base hostname & protocol for your site
 twitter_username: niceb5y
 github_username:  niceb5y
-gems: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-sitemap]
 paginate: 10
 timezone: Asia/Seoul 
 exclude: [src, webpack.config.js, package.json, node_modules]
