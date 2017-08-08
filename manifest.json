@@ -3,6 +3,7 @@
   "name": "niceb5y blog",
   "display": "standalone",
   "theme_color": "#4BCFA8",
+  "background_color": "#FFFFFF",
   "icons": [
     {
       "src": "/assets/launcher-icon.png",

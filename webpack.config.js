@@ -27,17 +27,20 @@ module.exports = {
       filepath: './service-worker.js',
       minify: true,
       staticFileGlobs: [
-        'assets/*'
+        '_site/assets/*',
+        '_site/images/*',
+        '_site/*.html',
+        '_site/*/index.html'
       ],
-      staticFileGlobsIgnorePatterns: [/script\.js/],
+      stripPrefix: '_site/',
       runtimeCaching: [
         {
           handler: 'cacheFirst',
-          urlPattern: /^https:\/\/assets\.niceb5y\.net\/.*/
+          urlPattern: /^https:\/\/cdn\.shk\.im\/.*/
         },
         {
           handler: 'cacheFirst',
-          urlPattern: /^https:\/\/image\.blog\.niceb5y\.net\/.*/
+          urlPattern: /^https:\/\/cdn\.jsdelivr\.net\/.*/
         }
       ],
       mergeStaticsConfig: true
