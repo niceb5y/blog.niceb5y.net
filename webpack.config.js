@@ -41,6 +41,10 @@ module.exports = {
         {
           handler: 'cacheFirst',
           urlPattern: /^https:\/\/cdn\.jsdelivr\.net\/.*/
+        },
+        {
+          handler: 'cacheFirst',
+          urlPattern: /^https:\/\/.*\.cloudfront\.net\/.*/
         }
       ],
       mergeStaticsConfig: true
