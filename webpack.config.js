@@ -33,6 +33,7 @@ module.exports = {
         '_site/*/index.html'
       ],
       stripPrefix: '_site/',
+      staticFileGlobsIgnorePatterns: [/script\.js/],
       runtimeCaching: [
         {
           handler: 'cacheFirst',
