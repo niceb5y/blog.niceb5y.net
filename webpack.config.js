@@ -28,9 +28,8 @@ module.exports = {
       minify: true,
       staticFileGlobs: [
         '_site/assets/*',
-        '_site/images/*',
         '_site/*.html',
-        '_site/*/index.html'
+        '_site/page*/index.html'
       ],
       stripPrefix: '_site/',
       staticFileGlobsIgnorePatterns: [/script\.js/],
