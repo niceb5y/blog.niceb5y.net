@@ -18,3 +18,8 @@ img.w-full {
 	width: auto !important;
 	max-width: 100%;
 }
+
+.card-block, .content div.block {
+	padding-left: 0;
+	padding-right: 0;
+}

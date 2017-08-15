@@ -17,7 +17,7 @@ github_username:  niceb5y
 plugins: [jekyll-paginate, jekyll-sitemap]
 paginate: 10
 timezone: Asia/Seoul 
-exclude: [src, webpack.config.js, package.json, node_modules]
+exclude: [src, webpack.config.js, package.json, node_modules, yarn.lock, Gemfile, Gemfile.lock]
 
 # Build settings
 markdown: kramdown
