@@ -9,75 +9,21 @@ categories: update
 
 <div
   data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive1.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive1.mov"
+  data-photo-src="/images/coldplaylive1.jpg"
+  data-video-src="/images/coldplaylive1.mov"
   style="width: 400px; height: 300px; margin: 10px 0">
 </div>
 <div
   data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive2.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive2.mov"
+  data-photo-src="/images/coldplaylive2.jpg"
+  data-video-src="/images/coldplaylive2.mov"
   style="width: 400px; height: 300px; margin: 10px 0">
 </div>
 <div
   data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive3.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive3.mov"
+  data-photo-src="/images/coldplaylive3.jpg"
+  data-video-src="/images/coldplaylive3.mov"
   style="width: 400px; height: 533px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive4.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive4.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive5.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive5.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive6.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive6.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive7.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive7.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive8.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive8.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive9.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive9.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive10.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive10.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive11.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive11.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
-</div>
-<div
-  data-live-photo
-  data-photo-src="https://assets.niceb5y.net/lphoto/coldplaylive12.jpg"
-  data-video-src="https://assets.niceb5y.net/lphoto/coldplaylive1.mov"
-  style="width: 400px; height: 300px; margin: 10px 0">
 </div>
 
 사진은 아마 눈치 채셨겠지만, 저번에 다녀온 [그 공연](https://blog.niceb5y.net/coldplay-ahfod-tour-in-seoul-2017/)입니다.
