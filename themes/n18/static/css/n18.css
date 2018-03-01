@@ -1,0 +1,131 @@
+/*
+  n18.css
+*/
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif !important;
+  margin: 0;
+  padding: 0;
+}
+
+.text-primary {
+  color: #222f3e;
+}
+
+.text-secondary {
+  color: #596275;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.content img {
+  max-width: 100%;
+}
+
+header a {
+  text-decoration: none;
+}
+
+header p.site-title {
+  font-size: 1.5em;
+}
+
+footer p.site-title {
+  font-size: 1.3em;
+}
+
+a {
+  color: #4b7bec;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #628cee;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #227093;
+  text-decoration: none;
+}
+
+a:visited:hover {
+  color: #267da5;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222f3e;
+  text-decoration-color: #222f3e !important;
+}
+
+ul.pagination {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  width: 100%;
+}
+
+ul.pagination li {
+  flex: 1;
+  width: 100%;
+  text-align: center;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  border-radius: 2px;
+  box-sizing: border-box;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+ul.pagination li a {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+
+ul.pagination li a:hover {
+  text-decoration: none;
+}
+
+ul.pagination li.active {
+  background-color: #4b7bec;
+}
+
+ul.pagination li.active:hover {
+  background-color: #628cee;
+}
+
+ul.pagination li:hover {
+  background-color: #4b7bec;
+}
+
+ul.pagination li:hover a {
+  color: #ffffff;
+}
+
+ul.pagination li.active a {
+  color: #ffffff;
+}
+
+ul.pagination li.disabled a {
+  color: #596275;
+}
+
+ul.pagination li.disabled:hover {
+  background-color: transparent;
+}

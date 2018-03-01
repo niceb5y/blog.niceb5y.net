@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>
+      {{ block "title" . }}
+        {{ .Site.Title }}
+      {{ end }}
+    </title>
+    {{ .Hugo.Generator }}
+    {{- template "_internal/google_news.html" . -}}
+    {{- template "_internal/opengraph.html" . -}}
+    {{- template "_internal/schema.html" . -}}
+    {{- template "_internal/twitter_cards.html" . -}}
+    {{ if .RSSLink }}
+      <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+      <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
+    <link rel="stylesheet" type="text/css" href="//unpkg.com/basscss@8.0.2/css/basscss.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/n18.css">
+  </head>
+  <body class="px2">
+    {{ partial "header.html" . }}
+    <div class="content max-width-4 mx-auto pb2">
+      <div class="clearfix">
+        {{ block "main" . }}
+        {{ end }}
+      </div>
+    </div>
+    {{ partial "footer.html" . }}
+  </body>
+</html>

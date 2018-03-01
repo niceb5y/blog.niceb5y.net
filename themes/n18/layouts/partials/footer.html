@@ -1,0 +1,16 @@
+<footer class="mt2 text-secondary">
+  <div class="max-width-4 mx-auto pb2">
+    <div class="clearfix">
+      <hr>
+      <div>
+        <p class="site-title text-primary mb0">{{ .Site.Title }}</p>
+        {{ if .Site.Params.description }}
+        <small>{{ .Site.Params.description }}</small>
+        {{ end }}
+      </div>
+      <div class="mt4 text-center">
+        <p class="copy">{{ .Site.Copyright | safeHTML }}</p>
+      </div>
+    </div>
+  </div>
+</footer>

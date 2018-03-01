@@ -1,0 +1,189 @@
+---
+categories: update
+date: 2015-02-06T09:00:00Z
+title: 넥슨 컴퓨터 박물관 견학기
+url: /visit-nexon-comupter-museum/
+---
+
+블로그에 글 쓴지도 꽤 된 것 같아서, 그동안 밀렸던 글을 좀 쓸까 싶어서.
+
+방문은 거의 한 달이 다 되어 가는 듯 한데 이제 글을 씁니다.
+
+제주도 여행을 가는 김에(사실 여기를 한번 와 보는게 주 목적 중 하나였지만.) 넥슨 컴퓨터 박물관에 오게 되었습니다.
+
+<img src="/images/VyH-pu1-0l.jpg" alt="niceb5y blog">
+
+<img src="/images/4Jzk6u1W0l.jpg" alt="niceb5y blog">
+
+박물관은 지상 3층 + 지하 1층 정도로 이루어져 있습니다.
+
+1층은 주로 예전 컴퓨터 위주.
+
+2층은 게임 위주.
+
+3층은 체험실 위주.
+
+지하 1층은 고전 게임 + 기념품점 + 식당.
+
+<img src="/images/VkgJpukZCl.jpg" alt="niceb5y blog">
+
+천공 카드 + 8인치 플로피 디스크...
+
+저도 플로피 디스크는 3.5인치 짜리 밖에 못봤는데...
+
+지금 SD카드가 최대 용량이 512GB정도라는걸 생각하면... 어휴.
+<img src="/images/Ey1TOybCx.jpg" alt="niceb5y blog">
+
+소니의 PlayStation입니다.
+
+집에 처음 생겼던 콘솔이 PS2였고...
+
+사실 우리나라에 별로 보급 된 기종도 아니다 보니, 여기서 처음 봤네요.
+
+이제 PS도 20년 된 브랜드(...)
+
+<img src="/images/41bkTu1WAg.jpg" alt="niceb5y blog">
+
+지금의 라라 크로프트와 비교하면 엄청 투박한 툼레이더...
+
+오랜 기간동안 계속 발전해온 게임이지만 정작 한번도 해본 적이 없음 -_-...
+
+툼레이더 DE를 살까 했었는데, 어쩌다 보니 그냥 넘어가게 된...
+
+<img src="/images/E1VJTukbAl.jpg" alt="niceb5y blog">
+
+사운드카드별로 음악을 비교 해 볼 수 있었습니다.
+
+저 때는 세상에 없었기 때문에(...) 그냥 '그렇구나...' 했던 정도.
+
+<img src="/images/V17kp_1ZAe.jpg" alt="niceb5y blog">
+
+개인적으로 여기에 왔던 이유는 바로 이게 아닌가 싶습니다. (물론 공식적으로 애플빠임은 부정합니다만...)
+
+바로 전세계에서 실제로 작동하는 몇 대중 한대인 Apple I.
+
+Apple I이 워낙 소량으로 만들어져서 실제 작동하는 모델이 전세계에서 6대? 정도인 것으로 압니다.
+
+<img src="/images/4JHk6d1bAg.jpg" alt="niceb5y blog">
+
+워즈니악 아저씨 친필 싸인까지 받았습니다.
+
+<img src="/images/Ek8kTuJW0g.jpg" alt="niceb5y blog">
+
+기판을 산 뒤, 나무 케이스를 복각하고, 서명을 받은 것으로 알고있습니다.
+
+<img src="/images/NkxTuyZRl.jpg" alt="niceb5y blog">
+
+워즈니악 아저씨 사진.
+
+<img src="/images/Nklgpuk-Rg.jpg" alt="niceb5y blog">
+
+Apple II
+
+<del>수 년간의 Lisa 등등의 삽질에도</del> 애플을 먹여살린 기종
+
+<img src="/images/Nk-lpu1WCx.jpg" alt="niceb5y blog">
+
+매킨토시 포터블.
+
+지금 기준으로야 포터블 하지 않지만...
+
+<img src="/images/NJGx6ukZAx.jpg" alt="niceb5y blog">
+
+파워북.
+
+처음 노트북에 팜레스트가 생긴 기종이 파워북이죠.
+
+<img src="/images/Vymxau1-0g.jpg" alt="niceb5y blog">
+
+오리지널 맥킨토시 + 아이맥 g3
+
+<img src="/images/E1Ex6uJ-Rx.jpg" alt="niceb5y blog">
+
+초기 버전으로 복원한 바람의 나라.
+
+온라인 게임의 시작을 넥슨으로 시작했는데, 바람의 나라는 안 해봐서, 무슨 차이인지는 잘 모르겠습니다.
+
+<img src="/images/EJSx6OJb0x.jpg" alt="niceb5y blog">
+
+오큘러스 리프트.
+
+별로 오큘러스 리프트에 기대가 없었습니다만(애초에 VR은 글쎄...), 생각보다 괜찮았습니다.
+
+다만 DK2모델인지는 몰라도, 해상도가 너무 낮았던 것이 아쉬웠고, 방향감각과 시각이 따로 놀게 되니 위화감이 크게 느껴졌습니다.
+
+딜레이같은 면에서는 꽤 만족스러웠네요.
+
+<del>하지만 저는 프로젝트 모피어스 + 서머레슨에 기대를 더 걸도록 하겠습...</del>
+
+<img src="/images/EJIlad1W0l.jpg" alt="niceb5y blog">
+
+<img src="/images/EyPeTOJZCx.jpg" alt="niceb5y blog">
+
+이런 저런 맥들.
+
+지금 와서 생각해보니, 사진이 왜 죄다 맥이지... -_-;;
+
+<img src="/images/Nkug6dk-Rl.jpg" alt="niceb5y blog">
+
+박물관에 다른분들이 맡겨놓은 컴퓨터도 많았습니다.
+
+<img src="/images/E1FgpdJbRl.jpg" alt="niceb5y blog">
+
+NeXT 큐브라던지
+
+<img src="/images/Vy-T_JZ0g.jpg" alt="niceb5y blog">
+
+파워맥 G4 큐브
+
+<img src="/images/EkgWTd1bCe.jpg" alt="niceb5y blog">
+
+iBook 등등...
+
+<img src="/images/V1Z-au1bAg.jpg" alt="niceb5y blog">
+
+심지어 신형 맥프로도 있더랍니다.
+
+아 근데 진짜 왜 맥만 찍었지..?
+
+<img src="/images/4yzZTdyZCg.jpg" alt="niceb5y blog">
+
+물론 맥만 있는건 아니고... 꽤 많습니다.
+
+<img src="/images/V1m-auyW0g.jpg" alt="niceb5y blog">
+
+매킨토시 20주년 기념판
+
+<img src="/images/NyVWp_kZCl.jpg" alt="niceb5y blog">
+
+FDD로 연주하는 오케스트라 (-_-)
+
+<img src="/images/NJLZ6_kZCg.jpg" alt="niceb5y blog">
+
+지하 1층에서는 이렇게 게임을 할 수 있습니다.
+
+지상 2층에서도 게임은 가능한데, 어째 오큘러스 리프트 빼고 사진을 찍은게 없네요.
+
+<img src="/images/4kv-T_1WRg.jpg" alt="niceb5y blog">
+
+그리고 지하 1층에서는 이렇게 키보드 와플을 팝니다.
+
+<del>키 배열로 봤을때는 HKKB모양에 가장 근접하는 것 같은데...</del>
+
+맛은... 와플입니다.
+
+그래도 그냥 기념으로 먹는것도 나쁘지 않을지도.
+
+<del>이 와플 틀은 하나 갖고 싶네요. 기념품 점에서 안팔아서 실망.</del>
+
+어째 맥 사진만 잔뜩 있어서 그런 곳 처럼 보여지는 듯 싶으나, 고전게임이라던지, GW-Basic, MS-Dos등등도 체험할 수 있습니다.<del> UNIX가 없었던게 아쉬웠지만.</del>
+
+컴퓨터에 관심없는 분들이야 물론 저거 보려고 제주도 가는 건 좀 무리겠지만, 관심있는 분들이 제주도 들렀을 때 둘러보기에는 좋은 장소 인 것 같습니다.
+
+아무리 생각해도(어차피 광고는 아니니 상관은 없다만), 좋은 견학기는 아닌 것 같습니다.
+
+<del>게다가 술먹고 썼... 쿨럭</del>
+
+이 글을 믿지 마세요.
+
+끝.
