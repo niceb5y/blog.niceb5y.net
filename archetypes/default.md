@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+categories: update
 date: {{ .Date }}
-draft: false
-description: {{ if eq .Title .Site.Title }}{{ .Site.Params.description }}{{ else }}{{ .Summary }}...{{ end }}
+title: "{{ replace .Name "-" " " | title }}"
+url: "/{{ .Name }}/"
+draft: true
 ---
 
