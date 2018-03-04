@@ -34,3 +34,21 @@ from = "/feed.xml"
 to = "/index.xml"
 status = 301
 force = false
+
+[[redirects]]
+from = "/page*/"
+to = "/page/:splat/"
+status = 301
+force = false
+
+[[redirects]]
+from = "/archive/"
+to = "/"
+status = 301
+force = false
+
+[[redirects]]
+from = "/*"
+to = "/404.html"
+status = 404
+force = false
