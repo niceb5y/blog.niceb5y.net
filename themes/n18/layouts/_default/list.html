@@ -1,9 +1,13 @@
 {{ define "main" }}
-  <h1>Posts</h1>
+  <h1 class="mt1 mb0">{{ .Title }}</h1>
   {{ range .Data.Pages }}
-    <article>
-      <h2>{{ .Title }}</h2>
-      {{ .Summary }}
-    </article>
+    <div class="mb2">
+      <h2 class="caps mt1 mb0">
+        <a href="{{ .Permalink }}">
+          {{ .Title }}
+        </a>
+      </h2>
+      <small class="text-light">{{ dateFormat "2006-01-02" .Date }}</small>
+    </div>
   {{ end }}
 {{ end }}

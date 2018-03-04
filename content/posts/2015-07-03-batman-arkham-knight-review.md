@@ -25,23 +25,7 @@ url: /batman-arkham-knight-review/
 
 ... 그런데 시험기간이라 정신없어서 예약판을 사는걸 까먹어서 못샀습니다. -_-;;;
 
-<blockquote class="twitter-tweet" lang="ko">
-  <p dir="ltr" lang="ko">
-    아아아 딴일 하느라 아캄나이트 예판 까먹고 못했었다 으으
-  </p>
-  
-  <p>
-    — 김승호 (@niceb5y) <a href="http://twitter.com/niceb5y/status/608534371998392320">2015년 6월 10일</a>
-  </p>
-</blockquote>
-
 그렇게 슬퍼하다, 출시 전날 국전을 어쩌다 가게 됐는데, 앞쪽에 줄을 서서 운 좋게 예약판 취소물량을 얻게 됐더랍니다.
-
-<blockquote class="twitter-tweet" lang="ko">
-  <p>
-    예 <a href="http://t.co/Tg5KQ6B0td">pic.twitter.com/Tg5KQ6B0td</a> — 김승호 (@niceb5y) <a href="http://twitter.com/niceb5y/status/613284855913119744">2015년 6월 23일</a>
-  </p>
-</blockquote>
 
 요즘 게임들은 다 다운로드로 구매하고 있었기 때문에, 예약판 아니면 다운로드로 샀었을 것 같은데...
 

@@ -1,14 +1,16 @@
-<footer class="mt2 text-secondary">
+<footer class="mt2">
   <div class="max-width-4 mx-auto pb2">
     <div class="clearfix">
       <hr>
       <div>
-        <p class="site-title text-primary mb0">{{ .Site.Title }}</p>
+        <p class="site-title mb0">{{ .Site.Title }}</p>
         {{ if .Site.Params.description }}
-        <small>{{ .Site.Params.description }}</small>
+        <small class="text-light mr2">{{ .Site.Params.description }}</small>
         {{ end }}
+        <small class="text-light mr2"><a href="/categories/index.html">카테고리</a></small>
+        <small class="text-light"><a href="/tags/index.html">태그</a></small>
       </div>
-      <div class="mt4 text-center">
+      <div class="text-light mt4 text-center text-light">
         <p class="copy">{{ .Site.Copyright | safeHTML }}</p>
       </div>
     </div>

@@ -41,8 +41,6 @@ url: /apple-pencil-review/
 
 필기하려고 샀는데... 개인적으로는 꽤 만족스러운 느낌입니다. 아직 별로 써보진 못했으니, 좀 더 써봐야겠지만요.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qtmN4k1QvRk" frameborder="0" allowfullscreen></iframe>
-</div>
+{{< youtube qtmN4k1QvRk >}}
 
 ~~덧. 리듬게임 하기도 좋습니다.~~

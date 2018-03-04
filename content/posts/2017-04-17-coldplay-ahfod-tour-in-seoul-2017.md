@@ -5,9 +5,7 @@ title: Coldplay AHFOD Tour in Seoul 2017 관람 후기
 url: /coldplay-ahfod-tour-in-seoul-2017/
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoldplay%2Fvideos%2F10157791469555253%2F&show_text=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>
+{{< fb-video user="coldplay" id="10157791469555253" >}}
 
 # 마침내
 
@@ -116,8 +114,6 @@ Yellow 도중에 잠시 멈추길래 음향사고인가 했더니, 다름 아닌
 
 여튼 다음에 또 오셨으면 좋겠고.... 기왕 오는거 전국순회공연 어떠신지 여쭤보고 싶고.... 뭐 그렇습니다.
 
-<div class="embed-responsive embed-responsive-16by9">
-	<iframe src="https://www.youtube.com/embed/FM7MFYoylVs" frameborder="0" allowfullscreen></iframe>
-</div>
+{{< youtube FM7MFYoylVs >}}
 
 **마지막으로,** 모두 Something just like this 들으세요. 공연 끝나고 계속 머릿속에서 사라지지 않는 노래라 문제. -_-;;

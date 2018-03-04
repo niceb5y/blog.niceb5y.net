@@ -20,9 +20,7 @@ Instagram에서 얼마전에 Hyperlapse라는 애플리케이션을 iOS로 출�
 
 ## 테스트 영상
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HZu-Y9emcT0" frameborder="0" allowfullscreen></iframe>
-</div>
+{{< youtube HZu-Y9emcT0 >}}
 
 18분동안 영상을 촬영해서 3분짜리 영상을 만들었습니다.
 

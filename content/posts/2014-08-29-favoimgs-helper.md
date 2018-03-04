@@ -32,15 +32,7 @@ url: /favoimgs-helper/
 관트짤줍이 아니라 관트짤줍 Mono를 받아 주셔야 합니다.
 다운로드 링크는 아래에 있습니다.
 
-<blockquote class="twitter-tweet" lang="ko">
-  <p dir="ltr" lang="ko">
-    관트짤줍 Mono 0.6 (시험버전) <a href="http://t.co/IBHuToHadA">http://t.co/IBHuToHadA</a> - Linux/OS X에서 mono를 사용하여 실행 가능합니다. - mono 최신 버전이 설치되어 있어야 합니다. - Windows 쓰시는 분들은 받을 필요 없습니다.
-  </p>
-  
-  <p>
-    — 판교요정 azyuP (@_uyza_) <a href="http://twitter.com/_uyza_/status/614667799907172352">2015년 6월 27일</a>
-  </p>
-</blockquote>
+{{< tweet 614667799907172352 >}}
 
 OSX 10.10 버전 이상이 필요합니다.
 
