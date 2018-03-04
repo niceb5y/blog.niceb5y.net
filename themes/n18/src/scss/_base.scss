@@ -1,0 +1,48 @@
+html {
+  font-family: $font-stack;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: $color-dark;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $color-dark;
+  a {
+    color: $color-dark;
+    &:visited {
+      color: lighten($color-dark, 5%);
+    }
+  }
+}
+
+article h1 {
+  font-size: 2em !important;
+}
+
+a {
+  color: $color-primary;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $color-secondary;
+}
+
+.content img {
+  max-width: 100%;
+}
+
+.text-light a {
+  color: $color-light;
+  text-decoration: underline;
+  &:hover {
+    color: darken($color-light, 10%);
+  }
+}

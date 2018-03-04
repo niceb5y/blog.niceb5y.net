@@ -1,0 +1,21 @@
+{
+  "name": "n18",
+  "version": "1.0.0",
+  "description": "hugo n18 theme",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niceb5y",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "basscss": "^8.0.4"
+  }
+}
