@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2017-07-24T09:00:00Z
+date: 2017-07-24T12:00:00+09:00
 title: Neato Botvac 80를 샀습니다.
 url: /neato-botvac-80-review/
 ---

@@ -1,6 +1,6 @@
 ---
 categories: programming
-date: 2016-07-27T09:00:00Z
+date: 2016-07-27T12:00:00+09:00
 title: 쉽게 React 개발환경 구축하기
 url: /set-up-react-development-environment-easily/
 ---

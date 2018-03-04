@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2016-02-29T09:00:00Z
+date: 2016-02-29T12:00:00+09:00
 title: 윤년
 url: /a-leap-year/
 ---

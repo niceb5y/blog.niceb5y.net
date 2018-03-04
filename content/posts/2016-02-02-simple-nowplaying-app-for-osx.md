@@ -1,6 +1,6 @@
 ---
 categories: programming
-date: 2016-02-02T09:00:00Z
+date: 2016-02-02T12:00:00+09:00
 title: '간단한 OSX용 #NowPlaying 애플리케이션'
 url: /simple-nowplaying-app-for-osx/
 ---

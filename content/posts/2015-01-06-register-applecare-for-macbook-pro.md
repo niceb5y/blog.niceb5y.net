@@ -1,6 +1,6 @@
 ---
 categories: apple
-date: 2015-01-06T09:00:00Z
+date: 2015-01-06T12:00:00+09:00
 title: 맥북 프로용 AppleCare 등록
 url: /register-applecare-for-macbook-pro/
 ---

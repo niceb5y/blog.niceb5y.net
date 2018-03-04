@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2015-12-26T09:00:00Z
+date: 2015-12-26T12:00:00+09:00
 title: 다시(...) 새로운 블로그
 url: /new-blog-again/
 ---

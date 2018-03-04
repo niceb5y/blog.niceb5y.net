@@ -1,6 +1,6 @@
 ---
 categories: game
-date: 2014-08-28T09:00:00Z
+date: 2014-08-28T12:00:00+09:00
 title: '인퍼머스 : 세컨드 선 리뷰'
 url: /infamous-second-son-review/
 ---

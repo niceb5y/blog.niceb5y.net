@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2017-08-08T09:00:00Z
+date: 2017-08-08T12:00:00+09:00
 title: Netlify에 블로그 호스팅
 url: /host-blog-on-netlify/
 ---

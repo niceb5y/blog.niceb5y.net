@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2015-02-06T09:00:00Z
+date: 2015-02-06T12:00:00+09:00
 title: 넥슨 컴퓨터 박물관 견학기
 url: /visit-nexon-comupter-museum/
 ---

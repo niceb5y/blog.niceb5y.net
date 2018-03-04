@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2017-04-22T09:00:00Z
+date: 2017-04-22T12:00:00+09:00
 title: LivePhotosKit JS 테스트
 url: /test-for-livephotoskit-js/
 ---

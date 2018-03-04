@@ -1,6 +1,6 @@
 ---
 categories: programming
-date: 2016-07-12T09:00:00Z
+date: 2016-07-12T12:00:00+09:00
 title: Node.js 기반 ComicGlass 서버
 url: /unofficial-node-comicglass-server/
 ---

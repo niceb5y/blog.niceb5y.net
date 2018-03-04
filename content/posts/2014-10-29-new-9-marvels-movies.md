@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2014-10-29T09:00:00Z
+date: 2014-10-29T12:00:00+09:00
 title: 마블 코믹스 총 9개 영화의 제작을 발표.
 url: /new-9-marvels-movies/
 ---

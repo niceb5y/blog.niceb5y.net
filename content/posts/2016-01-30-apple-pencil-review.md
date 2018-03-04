@@ -1,6 +1,6 @@
 ---
 categories: apple
-date: 2016-01-30T09:00:00Z
+date: 2016-01-30T12:00:00+09:00
 title: 애플 펜슬 리뷰
 url: /apple-pencil-review/
 ---

@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2014-08-17T09:00:00Z
+date: 2014-08-17T12:00:00+09:00
 title: 클래스가 다른 OSX Yosemite의 메모리 누수
 url: /memory-leaks-of-osx-yosemite/
 ---

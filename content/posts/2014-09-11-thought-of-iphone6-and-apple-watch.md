@@ -1,6 +1,6 @@
 ---
 categories: apple
-date: 2014-09-11T09:00:00Z
+date: 2014-09-11T12:00:00+09:00
 title: iPhone 6, Apple Watch에 대한 단상
 url: /thought-of-iphone6-and-apple-watch/
 ---

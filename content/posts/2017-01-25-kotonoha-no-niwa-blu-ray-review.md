@@ -1,6 +1,6 @@
 ---
 categories: movie
-date: 2017-01-25T09:00:00Z
+date: 2017-01-25T12:00:00+09:00
 title: 「언어의정원」 블루레이 디스크 구매
 url: /kotonoha-no-niwa-blu-ray-disc-review/
 ---

@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2016-11-15T09:00:00Z
+date: 2016-11-15T12:00:00+09:00
 title: Coldplay 내한 확정!
 url: /coldplay-in-seoul/
 ---

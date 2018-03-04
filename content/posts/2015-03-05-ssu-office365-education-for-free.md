@@ -1,6 +1,6 @@
 ---
 categories: ssu
-date: 2015-03-05T09:00:00Z
+date: 2015-03-05T12:00:00+09:00
 title: 숭실대학교 학생들을 위한 Office 365 Education 무료 사용법
 url: /ssu-office365-education-for-free/
 ---

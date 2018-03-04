@@ -1,6 +1,6 @@
 ---
 categories: camera
-date: 2015-02-06T09:00:00Z
+date: 2015-02-06T12:00:00+09:00
 title: 캐논 EOS 5Ds, 5Ds R 발표
 url: /canon-announces-eos-5ds-5ds-r/
 ---

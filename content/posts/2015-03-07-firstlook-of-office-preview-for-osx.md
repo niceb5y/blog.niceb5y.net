@@ -1,6 +1,6 @@
 ---
 categories: microsoft
-date: 2015-03-07T09:00:00Z
+date: 2015-03-07T12:00:00+09:00
 title: OSX용 Office Preview 첫느낌
 url: /firstlook-of-office-preview-for-osx/
 ---

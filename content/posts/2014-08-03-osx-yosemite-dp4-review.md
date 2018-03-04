@@ -1,6 +1,6 @@
 ---
 categories: osx
-date: 2014-08-03T09:00:00Z
+date: 2014-08-03T12:00:00+09:00
 title: OSX Yosemite DP4 사용기
 url: /osx-yosemite-dp4-review/
 ---

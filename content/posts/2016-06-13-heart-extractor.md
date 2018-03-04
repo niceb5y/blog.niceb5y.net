@@ -1,6 +1,6 @@
 ---
 categories: programming
-date: 2016-06-13T09:00:00Z
+date: 2016-06-13T12:00:00+09:00
 title: Heart Extractor - macOS를 위한 트위터 이미지 저장 애플리케이션
 url: /heart-extractor/
 ---

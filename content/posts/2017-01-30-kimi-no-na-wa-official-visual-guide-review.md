@@ -1,6 +1,6 @@
 ---
 categories: movie
-date: 2017-01-30T09:00:00Z
+date: 2017-01-30T12:00:00+09:00
 title: 「너의 이름은.」 공식 비주얼 가이드 북 구매
 url: /kimi-no-na-wa-official-visual-guide-review/
 ---

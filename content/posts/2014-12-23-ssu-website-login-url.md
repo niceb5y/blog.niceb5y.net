@@ -1,6 +1,6 @@
 ---
 categories: ssu
-date: 2014-12-23T09:00:00Z
+date: 2014-12-23T12:00:00+09:00
 title: 숭실대 웹사이트 로그인 URL
 url: /ssu-website-login-url/
 ---

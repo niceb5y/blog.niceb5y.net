@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2014-09-05T09:00:00Z
+date: 2014-09-05T12:00:00+09:00
 title: WordPress 4.0 설치
 url: /install-wordpress-4-0/
 ---
