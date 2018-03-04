@@ -36,7 +36,7 @@ status = 301
 force = false
 
 [[redirects]]
-from = "/page*/"
+from = "/page*"
 to = "/page/:splat/"
 status = 301
 force = false
