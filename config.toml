@@ -7,6 +7,7 @@ hasCJKLanguage = true
 defaultContentLanguage = "ko-kr"
 pygmentsUseClasses = true
 pygmentsCodefences = true
+googleAnalytics = "UA-80539013-1"
 
 [params]
   description = "몇번째 갈아엎는지 모를 블로그"
