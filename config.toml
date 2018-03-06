@@ -8,6 +8,7 @@ defaultContentLanguage = "ko-kr"
 pygmentsStyle = "monokai"
 pygmentsCodefences = true
 googleAnalytics = "UA-80539013-1"
+enableRobotsTXT = true
 
 [params]
   description = "몇번째 갈아엎는지 모를 블로그"
