@@ -1,5 +1,5 @@
 ---
-categories: Apple
+categories: apple
 date: 2018-11-18T00:34:36+09:00
 title: "새로운 맥북 프로 구매"
 url: "/2018-11-18-buy-a-new-macbook-pro/"

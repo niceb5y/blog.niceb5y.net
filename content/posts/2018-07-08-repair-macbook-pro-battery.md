@@ -1,5 +1,5 @@
 ---
-categories: Apple
+categories: apple
 date: 2018-07-08T20:28:56+09:00
 title: "맥북 프로 배터리 수리"
 url: "/repair-macbook-pro-battery/"
