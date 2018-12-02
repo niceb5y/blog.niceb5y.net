@@ -2,6 +2,10 @@ html {
   font-family: $font-stack;
 }
 
+code {
+  font-family: $font-monospace-stack;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -16,6 +20,15 @@ h1, h2, h3, h4, h5, h6 {
       color: lighten($color-dark, 5%);
     }
   }
+}
+
+article p, .card p, code {
+  font-size: 12pt;
+  line-height: 1.75em;
+}
+
+small, p {
+  font-weight: 500;
 }
 
 article h1 {
