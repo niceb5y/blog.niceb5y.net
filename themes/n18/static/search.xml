@@ -3,6 +3,6 @@
 	<ShortName>niceb5y blog</ShortName><!--사이트 이름-->
 	<Description>몇번째 갈아엎는지 모를 블로그</Description><!--사이트 설명-->
 	<InputEncoding>UTF-8</InputEncoding><!--인코딩-->
-	<Image width="16" height="16" type="image/x-icon">https://blog.niceb5y.net/favicon.ico</Image><!--파비콘-->
+	<Image width="16" height="16" type="image/x-icon">https://blog.niceb5y.net/icon/favicon.ico</Image><!--파비콘-->
 	<Url type="text/html" method="get" template="https://blog.niceb5y.net/search/?q={searchTerms}"/><!--검색 주소-->
 </OpenSearchDescription>
