@@ -1,8 +1,8 @@
 baseURL = "https://blog.niceb5y.net/"
 languageCode = "ko-kr"
 title = "niceb5y blog"
-theme = "n18"
-copyright = "&copy; 2014-2018 niceb5y. / <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko\">CC BY-NC-SA 4.0</a>"
+theme = "n19"
+copyright = "&copy; 2014-2019 niceb5y. / <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko\">CC BY-NC-SA 4.0</a>"
 hasCJKLanguage = true
 defaultContentLanguage = "ko-kr"
 pygmentsStyle = "monokai"

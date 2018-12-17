@@ -1,0 +1,17 @@
+{
+  "map": false,
+  "plugins": {
+    "postcss-import": {},
+    "postcss-nested": {},
+    "postcss-custom-properties": {
+    },
+    "postcss-color-function": {},
+    "autoprefixer": {
+      "browsers": ["last 2 versions"],
+      "cascade": 0
+    },
+    "cssnano": {
+      "preset": "default"
+    }
+  }
+}

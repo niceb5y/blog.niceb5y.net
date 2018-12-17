@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ $paginator := .Paginate (where .Pages "Type" "!=" "page") }}
+{{ range .Paginator.Pages }}
+<div class="card pb3">
+  <h1 class="mt1 mb0">
+    <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+  </h1>
+  <small class="text-muted mb2">
+    <time>{{ dateFormat "2006-01-02" .Date }}</time>
+  </small>
+  <p>{{ .Summary }}...</p>
+</div>
+{{ end }}
+{{ template "_internal/pagination.html" . }}
+{{ end }}
