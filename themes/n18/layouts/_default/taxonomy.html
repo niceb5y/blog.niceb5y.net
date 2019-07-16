@@ -1,9 +1,0 @@
-{{ define "main" }}
-<h1 class="mt1 mb2">{{ .Title }}</h1>
-{{ range .Data.Pages }}
-<h2 class="caps pb2">
-  <a href="{{ .Permalink }}">
-    {{ .Title }}
-  </a>
-</h2>
-{{ end }} {{ end }}
