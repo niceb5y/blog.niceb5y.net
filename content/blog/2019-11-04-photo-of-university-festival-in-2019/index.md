@@ -1,6 +1,6 @@
 ---
 categories: update
-date: 2019-10-13T20:46:21.49+09:00
+date: 2019-11-04T20:46:21.49+09:00
 title: '2019 학교 축제 사진들'
 url: '/photo-of-university-festival-in-2019/'
 ---
