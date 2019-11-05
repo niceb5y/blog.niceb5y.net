@@ -118,13 +118,13 @@ Apple A8 프로세서는 큰 변화는 없었지만, 모바일 프로세서 중�
 뭐 디자인이 살짝 마음에 안들긴한데, 아이폰 5때도 그랬으니까요.
 
 
-<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">아이폰 출시 반응 : &quot;루머로 알려진 내용이 전부였다. 성능은 향상됐지만 기대에 못미치는 수준&quot; &quot;1집 대박난 가수가 2집에서 참신함을 잃은 격&quot;, &quot;화면만 커진 디자인은 실망이다.&quot;, &quot;애플이 예전같지 않다. 기술은 인상적인데 세상을 바꾸진 못한다&quot;</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509631733705080832?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">아이폰 출시 반응 : &quot;루머로 알려진 내용이 전부였다. 성능은 향상됐지만 기대에 못미치는 수준&quot; &quot;1집 대박난 가수가 2집에서 참신함을 잃은 격&quot;, &quot;화면만 커진 디자인은 실망이다.&quot;, &quot;애플이 예전같지 않다. 기술은 인상적인데 세상을 바꾸진 못한다&quot;</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509631733705080832?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">&quot;생각만큼 혁신이 없다. 잡스의 공백인가?&quot; &quot;잡스 없인 혁신이 없다.&quot; &quot;열정 잃은 애플, 경쟁사 제품 뛰어넘을지 의문&quot;</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509632279681847296?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">&quot;생각만큼 혁신이 없다. 잡스의 공백인가?&quot; &quot;잡스 없인 혁신이 없다.&quot; &quot;열정 잃은 애플, 경쟁사 제품 뛰어넘을지 의문&quot;</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509632279681847296?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">&quot;하반기 시장에서 150만대 이상 판매는 어려울 것&quot; &quot;갤럭시보다 큰 파급력은 없을 것.&quot; &quot;잡스 없는 애플에 혁신은 없다.&quot; &quot;크기 외에는 새롭게 내세울 요소가 없다.&quot;</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509633234175410176?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">&quot;하반기 시장에서 150만대 이상 판매는 어려울 것&quot; &quot;갤럭시보다 큰 파급력은 없을 것.&quot; &quot;잡스 없는 애플에 혁신은 없다.&quot; &quot;크기 외에는 새롭게 내세울 요소가 없다.&quot;</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509633234175410176?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">이상 아이폰 5 출시 때 반응들이었습니다.</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509633313401614336?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ko" dir="ltr">이상 아이폰 5 출시 때 반응들이었습니다.</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509633313401614336?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote>
 
 그래서 일단은 아이폰 6가 망하지는 않을거라 봅니다.
 

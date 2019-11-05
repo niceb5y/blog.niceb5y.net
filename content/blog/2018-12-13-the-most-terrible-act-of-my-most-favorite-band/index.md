@@ -23,7 +23,7 @@ keywords: ['Coldplay']
 
 공식 트위터 계정으로 질의도 해봤지만, 답변을 받을 수는 없었습니다. 그래도 시간이 흐른 뒤에 답변이 올라오더군요.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No plans for a Blu-ray version of the Butterfly Package. But the A Head Full Of Dreams documentary is on Amazon&#39;s Prime Video in HD, at <a href="https://t.co/JbdmgamhkK">https://t.co/JbdmgamhkK</a>. And you can get the São Paulo concert film in HD from iTunes at <a href="https://t.co/kCKPBZM1BT">https://t.co/kCKPBZM1BT</a>. A <a href="https://t.co/2a9Cm1n3f6">https://t.co/2a9Cm1n3f6</a></p>&mdash; Coldplay (@coldplay) <a href="https://twitter.com/coldplay/status/1071854196171915274?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No plans for a Blu-ray version of the Butterfly Package. But the A Head Full Of Dreams documentary is on Amazon&#39;s Prime Video in HD, at <a href="https://t.co/JbdmgamhkK">https://t.co/JbdmgamhkK</a>. And you can get the São Paulo concert film in HD from iTunes at <a href="https://t.co/kCKPBZM1BT">https://t.co/kCKPBZM1BT</a>. A <a href="https://t.co/2a9Cm1n3f6">https://t.co/2a9Cm1n3f6</a></p>&mdash; Coldplay (@coldplay) <a href="https://twitter.com/coldplay/status/1071854196171915274?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote>
 
 블루레이 디스크로 출시할 계획이 **없다**고 말이죠. 덧붙여, HD 영상을 보고 싶으면 스트리밍이나, VOD로 보라고 말해주는군요. 친절도 하셔라.
 
