@@ -125,6 +125,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify`,
     `gatsby-plugin-netlify-cache`,
-    `gatsby-plugin-twitter`
+    `gatsby-plugin-twitter`,
+    `gatsby-plugin-sitemap`
   ]
 }
