@@ -5328,6 +5328,13 @@ gatsby-page-utils@^0.0.28:
     micromatch "^3.1.10"
     slash "^3.0.0"
 
+gatsby-plugin-canonical-urls@^2.1.13:
+  version "2.1.13"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-canonical-urls/-/gatsby-plugin-canonical-urls-2.1.13.tgz#53ed3bf04ce73586bfa547cbf197b0962740d0a2"
+  integrity sha512-qFo58hkPrARMehR/eVjwgjGdV9x5+Oxoub8jZmR6wYdipL7vJYfwM+fypN5AYNxn4oC0BIibrtNGz1J5qHdiwg==
+  dependencies:
+    "@babel/runtime" "^7.6.3"
+
 gatsby-plugin-feed@^2.3.19:
   version "2.3.19"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-feed/-/gatsby-plugin-feed-2.3.19.tgz#325ec37f4a03b107ff6490eb57d5916b5dc5ded5"
