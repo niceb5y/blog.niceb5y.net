@@ -3,6 +3,7 @@ categories: apple
 date: 2014-09-11T12:02:00+09:00
 title: iPhone 6, Apple Watch에 대한 단상
 url: /thought-of-iphone6-and-apple-watch/
+description: iPhone 6과 Apple Watch를 보고 느낀 것들.
 ---
 
 한국 시간으로 10일 오전 2시 애플은 미디어 이벤트를 가졌습니다.
@@ -116,7 +117,6 @@ Apple A8 프로세서는 큰 변화는 없었지만, 모바일 프로세서 중�
 음... 하드웨어는 그렇게 좋지 않지만(사실 안드로이드 플래그쉽 기기보다 하드웨어 스펙 좋았던적이 얼마나 있었나요) Hand Off, Apple Pay, 그리고 많은 iOS8의 새로운 기능에서 아이폰이 우위를 가지는 면도 있고, 기존에 갖고 있던 많은 단점을 상쇄시켰다는 면은 긍정적으로 평가합니다.
 
 뭐 디자인이 살짝 마음에 안들긴한데, 아이폰 5때도 그랬으니까요.
-
 
 <blockquote class="twitter-tweet"><p lang="ko" dir="ltr">아이폰 출시 반응 : &quot;루머로 알려진 내용이 전부였다. 성능은 향상됐지만 기대에 못미치는 수준&quot; &quot;1집 대박난 가수가 2집에서 참신함을 잃은 격&quot;, &quot;화면만 커진 디자인은 실망이다.&quot;, &quot;애플이 예전같지 않다. 기술은 인상적인데 세상을 바꾸진 못한다&quot;</p>&mdash; 떠돌이 (@bugbear5) <a href="https://twitter.com/bugbear5/status/509631733705080832?ref_src=twsrc%5Etfw">September 10, 2014</a></blockquote>
 

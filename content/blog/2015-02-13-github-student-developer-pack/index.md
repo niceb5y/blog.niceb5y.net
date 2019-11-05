@@ -1,8 +1,9 @@
 ---
 categories: programming
 date: 2015-02-13T12:01:00+09:00
-title: github 학생 개발자 팩
+title: GitHub 학생 개발자 팩
 url: /github-student-developer-pack/
+description: 사랑해요 GitHub.
 ---
 
 ![GitHub 학생 개발자 팩](01.png)

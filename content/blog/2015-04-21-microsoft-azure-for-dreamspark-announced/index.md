@@ -3,6 +3,7 @@ categories: microsoft
 date: 2015-04-21T12:00:00+09:00
 title: Microsoft Azure for DreamSpark 발표
 url: /microsoft-azure-for-dreamspark-announced/
+description: 학생들을 위한 Azure.
 ---
 
 ![Azure for Dreamspark](01.png)

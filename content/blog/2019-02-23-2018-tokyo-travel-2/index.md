@@ -5,6 +5,7 @@ title: '2018 도쿄 여행 (하)'
 url: '/2018-tokyo-travel-2/'
 tags: ['Tokyo']
 keywords: ['Tokyo']
+description: 블루 보틀, 성지 순례, 아키하바라.
 ---
 
 [지난 글](/2018-tokyo-travel-1/)에 이어 여행기를 마저 적어보도록 하겠습니다.
@@ -99,7 +100,7 @@ keywords: ['Tokyo']
 
 조금 걸어서 신주쿠 교엔에 왔습니다. [예전 포스트](/kotonoha-no-niwa-blu-ray-disc-review/)를 보신 분들이나, 지레짐작으로 아신 분들도 있겠지만 신주쿠 교엔에 온 이유는 바로 하나입니다.
 
-![언어의 정원 &copy; Makoto Shinkai / CoMix Wave Films](kotonoha_no_niwa.jpg)
+![언어의 정원 © Makoto Shinkai / CoMix Wave Films](kotonoha_no_niwa.jpg)
 
 「언어의 정원」 때문이죠.
 
@@ -139,7 +140,7 @@ keywords: ['Tokyo']
 
 이렇게 생긴 곳이 나옵니다.
 
-![너의 이름은. &copy; Makoto Shinkai / CoMix Wave Films](kimi_no_na_wa.jpg)
+![너의 이름은. © Makoto Shinkai / CoMix Wave Films](kimi_no_na_wa.jpg)
 
 이제 「너의 이름은.」의 성지 순례를 하는 것이죠(...). 극의 피날레를 장식했던 그 계단입니다.
 
@@ -161,7 +162,7 @@ keywords: ['Tokyo']
 
 더 걸어오면 유니카 비전이 보입니다. 여기도 너의 이름은에 나오는 장소죠.
 
-![너의 이름은. &copy; Makoto Shinkai / CoMix Wave Films](kimi_no_na_wa_2.jpg)
+![너의 이름은. © Makoto Shinkai / CoMix Wave Films](kimi_no_na_wa_2.jpg)
 
 잠깐 지나가는 장면이지만요(...).
 
@@ -189,8 +190,7 @@ keywords: ['Tokyo']
 
 마지막도 너의이름은의 성지 순례로 끝냈습니다.
 
-![너의 이름은. &copy; Makoto Shinkai / CoMix Wave Films](kimi_no_na_wa_3.jpg)
-
+![너의 이름은. © Makoto Shinkai / CoMix Wave Films](kimi_no_na_wa_3.jpg)
 
 전전전세 장면에서 지나가서, '전전전세 신호등'이라 불린다나...
 

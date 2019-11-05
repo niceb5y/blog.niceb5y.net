@@ -3,6 +3,7 @@ categories: programming
 date: 2016-05-19T12:00:00+09:00
 title: 대신 귀여운 알파카
 url: /cute-alpaca/
+description: 드리겠습니다.
 ---
 
 node.js 모듈로 만들었습니다.

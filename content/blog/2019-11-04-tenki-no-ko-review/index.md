@@ -3,9 +3,10 @@ categories: movie
 date: 2019-11-04T21:27:26+09:00
 title: 「날씨의 아이」를 봤습니다.
 url: /tenki-no-ko-review/
+description: '"지금부터 하늘이 맑아질 거야."'
 ---
 
-![날씨의 아이 &copy; Makoto Shinkai / CoMix Wave Films](01.jpg)
+![날씨의 아이 © Makoto Shinkai / CoMix Wave Films](01.jpg)
 
 각 잡고 M2관에서 관람했던 「너의 이름은.」과는 다르게 학교와 가까운 이수 메가박스에서 관람했습니다. 시험이 끝나서 빌빌거리는 몸을 이끌고 먼 극장을 가긴 좀 그랬기 때문이죠.
 

@@ -5,6 +5,7 @@ title: '블로그 웹 폰트 적용'
 url: '/2018-12-02-new-web-font-on-the-blog/'
 tags: ['Web Font']
 keywords: ['Web Font']
+description: Noto Serif KR 폰트를 적용해봤습니다.
 ---
 
 별 일은 아니고, 변덕으로 인해 블로그에 웹 폰트를 적용했다는 소식입니다.

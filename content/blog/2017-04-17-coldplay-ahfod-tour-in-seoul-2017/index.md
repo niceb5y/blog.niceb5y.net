@@ -3,6 +3,7 @@ categories: update
 date: 2017-04-17T12:00:00+09:00
 title: Coldplay AHFOD Tour in Seoul 2017 관람 후기
 url: /coldplay-ahfod-tour-in-seoul-2017/
+description: 기다리고 기다리던 공연을 관람한 후기.
 ---
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2Fvideos%2F10157791469555253%2F&width=500&show_text=false&appId=549493088742764&height=280" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>

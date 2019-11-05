@@ -3,9 +3,10 @@ categories: movie
 date: 2017-01-10T12:00:00+09:00
 title: 「너의이름은.」을 봤습니다.
 url: /kimi-no-na-wa-review/
+description: '"아직 만난 적 없는 너를, 찾고 있어."'
 ---
 
-![너의 이름은. &copy; Makoto Shinkai / CoMix Wave Films](01.jpg)
+![너의 이름은. © Makoto Shinkai / CoMix Wave Films](01.jpg)
 
 지난 7일 코엑스 메가박스 M2관에서 관람했습니다.
 

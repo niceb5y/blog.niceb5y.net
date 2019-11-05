@@ -3,6 +3,7 @@ categories: programming
 date: 2014-08-29T12:00:00+09:00
 title: 관트짤줍 헬퍼 - 관트짤줍 GUI 프론트엔드
 url: /favoimgs-helper/
+description: 관트짤줍을 더 쉽게 사용해봅시다.
 ---
 
 ## 관트짤줍 헬퍼

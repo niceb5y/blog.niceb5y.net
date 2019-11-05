@@ -5,6 +5,7 @@ title: 'LIFX 스마트 LED 전구 리뷰'
 url: '/lifx-smart-led-bulb-review/'
 tags: ['LIFX', 'HomeKit', 'Amazon Echo']
 keywords: ['LIFX', 'HomeKit', 'Amazon Echo']
+description: '"빛이 있으라." (원격으로)'
 ---
 
 ![LIFX 전구](01.jpg)

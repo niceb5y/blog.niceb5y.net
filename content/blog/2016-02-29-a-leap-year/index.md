@@ -3,6 +3,7 @@ categories: update
 date: 2016-02-29T12:00:00+09:00
 title: 윤년
 url: /a-leap-year/
+description: 메리 윤년!
 ---
 
 별 의미 없지만. 윤년 기념.

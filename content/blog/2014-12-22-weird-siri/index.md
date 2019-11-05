@@ -3,6 +3,7 @@ categories: update
 date: 2014-12-22T12:00:00+09:00
 title: 이상한 시리
 url: /weird-siri/
+description: 이상한 시리의 유머감각.
 ---
 
 개인적으로 시리를 꽤 유용하게 써 먹는 편입니다.

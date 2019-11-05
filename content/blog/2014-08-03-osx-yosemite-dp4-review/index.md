@@ -3,6 +3,7 @@ categories: osx
 date: 2014-08-03T12:01:00+09:00
 title: OSX Yosemite DP4 사용기
 url: /osx-yosemite-dp4-review/
+description: OSX Yosemite를 사용해보았습니다.
 ---
 
 ## OSX Yosemite

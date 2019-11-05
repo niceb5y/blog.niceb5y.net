@@ -3,6 +3,7 @@ categories: update
 date: 2014-08-03T12:00:00+09:00
 title: 새로운 서버 + 새로운 블로그
 url: /new-server-new-blog/
+description: HP ProLiant Microserver N54L을 샀습니다.
 ---
 
 원래 라즈베리 파이를 웹과 파일을 호스팅하는 서버로 사용하고 있었습니다...만

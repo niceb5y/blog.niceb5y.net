@@ -3,6 +3,7 @@ categories: update
 date: 2014-10-29T12:00:00+09:00
 title: 마블 코믹스 총 9개 영화의 제작을 발표.
 url: /new-9-marvels-movies/
+description: 「시빌 워」부터 「인피니티 워, 파트 2」까지의 마블 영화.
 ---
 
 캡틴 아메리카 : 시빌 워 - 2016년 5월 6일 개봉

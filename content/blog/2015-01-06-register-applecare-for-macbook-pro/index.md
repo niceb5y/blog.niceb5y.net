@@ -3,6 +3,7 @@ categories: apple
 date: 2015-01-06T12:00:00+09:00
 title: 맥북 프로용 AppleCare 등록
 url: /register-applecare-for-macbook-pro/
+description: 고장나면 큰 돈 드니까, 큰 돈 들여서....
 ---
 
 어느덧 지금 쓰고 있는 맥북 프로 모델이 사용한 지 약 11개월이 되었습니다.

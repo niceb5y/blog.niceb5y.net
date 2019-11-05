@@ -3,13 +3,14 @@ categories: camera
 date: 2015-02-06T12:00:00+09:00
 title: 캐논 EOS 5Ds, 5Ds R 발표
 url: /canon-announces-eos-5ds-5ds-r/
+description: 차마 3D라는 이름을 가지지 못한 카메라의 이야기.
 ---
 
 ![EOS 5Ds](01.png)
 
 ![EOS 5Ds R](02.png)
 
-EOS-1 DX가 1800만 화소로 출시 한 뒤, 캐논이 고화소 DSLR이 EOS 3d라는 이름을 가지고 나온다는 루머를 처음 본 지도 꽤 지났는데, 드디어 나왔습니다.
+EOS-1 DX가 1800만 화소로 출시 한 뒤, 캐논이 고화소 DSLR이 EOS 3D라는 이름을 가지고 나온다는 루머를 처음 본 지도 꽤 지났는데, 드디어 나왔습니다.
 
 1D, 1Ds 시리즈가 1DX로 합쳐진 이후로 간만의 Ds라인업입니다.
 

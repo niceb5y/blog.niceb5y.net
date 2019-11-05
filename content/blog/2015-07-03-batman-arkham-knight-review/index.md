@@ -3,6 +3,7 @@ categories: game
 date: 2015-07-03T12:00:00+09:00
 title: 배트맨 아캄나이트 리뷰
 url: /batman-arkham-knight-review/
+description: Evening the odds.
 ---
 
 ## Batman Arkham Knight

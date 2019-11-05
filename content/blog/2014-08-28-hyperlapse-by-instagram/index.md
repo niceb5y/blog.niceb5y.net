@@ -3,6 +3,7 @@ categories: ios-apps
 date: 2014-08-28T12:00:00+09:00
 title: Instagram Hyperlapse
 url: /hyperlapse-by-instagram/
+description: 간단하게 흔들림 없는 타임랩스를 만드는 방법.
 ---
 
 ## Hyperlapse

@@ -5,6 +5,7 @@ title: 'MSHTML의 끝'
 url: '/the-end-of-the-mshtml/'
 tags: ['Web Browser', 'Microsoft']
 keywords: ['Web Browser', 'Microsoft']
+description: '2018년의 웹 브라우저: 크롬이냐, 아니냐.'
 ---
 
 한때 '인터넷 익스플로러'라는 웹브라우저가 절대적이던 시절이 있었습니다. 그 위세가 얼마나 대단했는지 5년 동안 메이저 업데이트 한번 없던 시절(인터넷 익스플로러 6)이 있었을 정도로 말이죠.

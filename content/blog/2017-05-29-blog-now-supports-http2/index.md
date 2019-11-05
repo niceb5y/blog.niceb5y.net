@@ -3,6 +3,7 @@ categories: update
 date: 2017-05-29T12:00:00+09:00
 title: 블로그가 이제 HTTP/2를 지원합니다.
 url: /blog-now-supports-http2/
+description: HTTP/2를 지원하는 최신 블로그라고 자랑하는 글.
 ---
 
 별 이야기는 아니고....

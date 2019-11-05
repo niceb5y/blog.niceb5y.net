@@ -3,6 +3,7 @@ categories: apple
 date: 2015-08-18T12:00:00+09:00
 title: 애플 워치 구입
 url: /buying-apple-watch/
+description: 내 이럴 줄 알았지.
 ---
 
 어쩌다 보니, [이 글](https://blog.niceb5y.net/thought-of-iphone6-and-apple-watch/)에서 끄적거린 물건들을 모두 사게 되었습니다.

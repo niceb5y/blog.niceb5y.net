@@ -3,6 +3,7 @@ categories: programming
 date: 2019-10-13T02:37:13.13+09:00
 title: 'ACM ICPC 2019 예선 참가 후기'
 url: '/acm-icpc-2019-preliminary-contest-review/'
+description: 광탈의 역사.
 ---
 
 ## TL;DR

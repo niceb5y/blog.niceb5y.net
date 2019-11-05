@@ -3,6 +3,7 @@ categories: movie
 date: 2017-01-25T12:00:00+09:00
 title: 「언어의정원」 블루레이 디스크 구매
 url: /kotonoha-no-niwa-blu-ray-disc-review/
+description: '"사랑, 그 이전의 사랑 이야기"'
 ---
 
 구글 플레이로 관람하긴 했지만, 예전부터 살까 말까 고민하던 녀석인데 사려고 하니 품절.

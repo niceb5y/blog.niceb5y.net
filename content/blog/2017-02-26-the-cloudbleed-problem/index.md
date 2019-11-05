@@ -3,6 +3,7 @@ categories: programming
 date: 2017-02-26T12:00:00+09:00
 title: Cloudbleed 문제
 url: /the-cloudbleed-problem/
+description: 어느 것이든 쉽게 믿을 수 없습니다.
 ---
 
 23일 저녁만 하더라도, 다음 날의 보안 관련 뉴스 중에서는 [SHA-1의 충돌쌍 발견](https://blog.niceb5y.net/the-first-SHA1-collision-announced/)이 가장 큰 뉴스일 줄 알았습니다.
@@ -12,8 +13,6 @@ url: /the-cloudbleed-problem/
 &nbsp;
 
 ## [Cloudbleed](https://bugs.chromium.org/p/project-zero/issues/detail?id=1139)
-
-**그렇습니다. 우리는 망했습니다.**
 
 Cloudflare parser의 버그로 인해 메모리 누수가 발생하였고, Cloudflare를 사용하는 사이트들의 HTTPS 세션 데이터들이 검색엔진 등에 [유출](https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/)이 된 것입니다.
 

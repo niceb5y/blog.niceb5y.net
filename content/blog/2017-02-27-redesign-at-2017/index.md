@@ -3,6 +3,7 @@ categories: programming
 date: 2017-02-27T12:00:00+09:00
 title: Redesign@2017
 url: /redesign-at-2017/
+description: 새해 맞이 디자인 변경.
 ---
 
 올해를 맞아 웹사이트들의 디자인을 변경해 보았습니다.
