@@ -51,7 +51,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-80539013-1`,
+        trackingId: `UA-80539013-1`
       }
     },
     {
@@ -78,7 +78,7 @@ module.exports = {
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.frontmatter.url,
                   guid: site.siteMetadata.siteUrl + edge.node.frontmatter.url,
-                  custom_elements: [{ "content:encoded": edge.node.html }],
+                  custom_elements: [{ 'content:encoded': edge.node.html }]
                 })
               })
             },
@@ -101,12 +101,12 @@ module.exports = {
                 }
               }
             `,
-            output: "/index.xml",
-            title: "niceb5y blog",
-            match: "^/blog/",
-          },
-        ],
-      },
+            output: '/index.xml',
+            title: 'niceb5y blog',
+            match: '^/blog/'
+          }
+        ]
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -123,8 +123,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://blog.niceb5y.net`,
-      },
+        siteUrl: `https://blog.niceb5y.net`
+      }
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
