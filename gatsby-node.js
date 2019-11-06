@@ -14,9 +14,6 @@ exports.createPages = async ({ graphql, actions }) => {
         ) {
           edges {
             node {
-              fields {
-                slug
-              }
               frontmatter {
                 title
                 url
@@ -43,7 +40,7 @@ exports.createPages = async ({ graphql, actions }) => {
       path: post.node.frontmatter.url,
       component: blogPost,
       context: {
-        slug: post.node.fields.slug,
+        url: post.node.frontmatter.url,
         previous,
         next
       }
@@ -64,17 +61,4 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
   })
-}
-
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
-
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-    createNodeField({
-      name: `slug`,
-      node,
-      value
-    })
-  }
 }

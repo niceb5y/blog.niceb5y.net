@@ -61,14 +61,14 @@ const BlogPost = ({ data, pageContext, location }) => {
 export default BlogPost
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query BlogPostByURL($url: String!) {
     site {
       siteMetadata {
         title
         author
       }
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    markdownRemark(frontmatter: { url: { eq: $url } }) {
       id
       html
       frontmatter {
