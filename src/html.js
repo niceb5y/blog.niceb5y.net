@@ -19,7 +19,7 @@ export default function HTML(props) {
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
         <noscript key="noscript" id="gatsby-noscript">
-          This app works best with JavaScript enabled.
+          이 블로그는 JavaScript를 사용할 때 더 좋은 경험을 제공합니다.
         </noscript>
         <div
           key={`body`}
