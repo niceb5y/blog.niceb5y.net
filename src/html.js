@@ -13,6 +13,7 @@ export default function HTML(props) {
         />
         <meta name="referrer" content="origin-when-cross-origin" />
         <link rel="stylesheet" href="https://cdn.shk.im/webcore/v19.css" />
+        <link rel="alternate" type="application/rss+xml" href="http://blog.niceb5y.net/index.xml" />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
