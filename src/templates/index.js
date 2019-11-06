@@ -10,6 +10,9 @@ class BlogIndex extends React.Component {
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
 
+    const pageCurrent = this.props.pageContext.currentPage
+    const pageTotal = this.props.pageContext.numPages
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="niceb5y blog" />
@@ -27,13 +30,32 @@ class BlogIndex extends React.Component {
                 <p className="card-subtitle mb-2 text-muted">{node.frontmatter.date}</p>
                 <p className="card-text"
                   dangerouslySetInnerHTML={{
-                    __html: node.frontmatter.description || node.excerpt
+                    __html: node.frontmatter.description
                   }}
                 />
               </div>
             </div>
           )
         })}
+        {
+          pageTotal > 1 && (
+            <div className="d-flex justify-content-between">
+              <Link
+                className={`btn btn-outline-primary ${pageCurrent === 1 ? "disabled" : ""}`}
+                to={pageCurrent > 2 ? `/page${pageCurrent - 1}` : `/`}
+              >
+                <span className="icon icon-chevron-left" />이전
+              </Link>
+              <span>{pageCurrent} / {pageTotal}</span>
+              <Link
+                className={`btn btn-outline-primary ${pageCurrent === pageTotal ? "disabled" : ""}`}
+                to={pageCurrent < pageTotal ? `/page${pageCurrent + 1}` : `/page${pageTotal}`}
+              >
+                다음<span className="icon icon-chevron-right" />
+              </Link>
+            </div>
+          )
+        }
       </Layout>
     )
   }
@@ -42,16 +64,19 @@ class BlogIndex extends React.Component {
 export default BlogIndex
 
 export const pageQuery = graphql`
-  query {
+  query blogListQuery($skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date],order: DESC }
+      limit: $limit
+      skip: $skip
+    ) {
       edges {
         node {
-          excerpt
           fields {
             slug
           }
