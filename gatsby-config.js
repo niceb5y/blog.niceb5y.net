@@ -4,6 +4,7 @@ module.exports = {
     author: `niceb5y`,
     description: `몇번째 갈아엎는지 모를 블로그.`,
     siteUrl: `https://blog.niceb5y.net/`,
+    image: `/images/blog.png`,
     social: {
       twitter: `niceb5y`
     }
