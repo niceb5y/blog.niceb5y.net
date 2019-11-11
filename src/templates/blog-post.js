@@ -17,43 +17,29 @@ const BlogPost = ({ data, pageContext, location }) => {
       />
       <article>
         <header>
-          <h1>
-            {post.frontmatter.title}
-          </h1>
-          <p
-          >
-            {post.frontmatter.date}
-          </p>
+          <h1>{post.frontmatter.title}</h1>
+          <p>{post.frontmatter.date}</p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
-
-      <nav className="mt-5">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.frontmatter.url} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.frontmatter.url} rel="next">
-                {next.frontmatter.title} →
-                </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
+      <div className="mt-5">
+        {next && (
+          <div className="py-2">
+            <span className="icon icon-chevron-up" /> 다음 글 -{' '}
+            <Link to={next.frontmatter.url} rel="next">
+              {next.frontmatter.title}
+            </Link>
+          </div>
+        )}
+        {previous && (
+          <div className="py-2">
+            <span className="icon icon-chevron-down" /> 이전 글 -{' '}
+            <Link to={previous.frontmatter.url} rel="prev">
+              {previous.frontmatter.title}
+            </Link>
+          </div>
+        )}
+      </div>
     </Layout>
   )
 }
