@@ -1,5 +1,5 @@
 ---
-categories: programming
+categories: Programming
 date: 2015-05-24T12:00:00+09:00
 title: NDC 2015 참관기 - 1일차
 url: /ndc-2015-day-one/

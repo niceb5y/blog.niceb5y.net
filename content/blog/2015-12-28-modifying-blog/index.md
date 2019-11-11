@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2015-12-28T12:00:00+09:00
 title: 블로그 수정중
 url: /modifying-blog/

@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2017-12-31T12:00:00+09:00
 title: 2017년을 돌아보며
 url: /a-look-back-at-2017/

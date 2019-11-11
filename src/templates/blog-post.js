@@ -18,7 +18,15 @@ const BlogPost = ({ data, pageContext, location }) => {
       <article>
         <header>
           <h1>{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p className="text-muted">
+            <Link
+              className="mr-2 text-muted"
+              to={`/categories/${post.frontmatter.categories}/`}
+            >
+              {post.frontmatter.categories}
+            </Link>
+            {post.frontmatter.date}
+          </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
@@ -61,6 +69,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "YYYY-MM-DD")
         description
+        categories
       }
     }
   }

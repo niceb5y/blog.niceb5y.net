@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Tech
 date: 2015-10-02T12:00:00+09:00
 title: Sandisk Cruzer Extreme USB 3.0 CZ80
 url: /sandisk-cruzer-extreme-usb-3-0-cz80/

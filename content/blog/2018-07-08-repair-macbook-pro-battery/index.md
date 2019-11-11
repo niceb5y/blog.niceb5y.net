@@ -1,10 +1,8 @@
 ---
-categories: apple
+categories: Tech
 date: 2018-07-08T20:28:56+09:00
 title: '맥북 프로 배터리 수리'
 url: '/repair-macbook-pro-battery/'
-tags: ['Macbook', 'Apple Store']
-keywords: ['Macbook', 'Apple Store']
 description: 우주도 팽창하지만, 이 배터리는 더 빨리 팽창합니다.
 ---
 

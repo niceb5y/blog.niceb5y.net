@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2019-09-24T01:42:38+09:00
 title: '그냥 해봤던 말이에요(?)'
 url: '/just-saying/'

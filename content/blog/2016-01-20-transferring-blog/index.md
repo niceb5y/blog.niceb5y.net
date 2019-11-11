@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2016-01-20T12:00:00+09:00
 title: 포스팅 이전
 url: /transferring-blog/

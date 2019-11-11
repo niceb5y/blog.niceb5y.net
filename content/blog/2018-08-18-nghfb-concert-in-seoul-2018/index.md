@@ -1,10 +1,8 @@
 ---
-categories: update
+categories: Music
 date: 2018-08-18T19:59:21+09:00
 title: "Noel Gallagher's High Flying Birds 2018 내한공연 후기"
 url: '/NGHFB-concert-in-seoul-2018/'
-tags: ['Noel Gallagher', "Noel Gallagher's High Flying Birds", 'NGHFB']
-keywords: ['Noel Gallagher', "Noel Gallagher's High Flying Birds", 'NGHFB']
 description: 높나새 공연 관람했다고 자랑하는 글.
 ---
 

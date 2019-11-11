@@ -1,5 +1,5 @@
 ---
-categories: movie
+categories: Movie
 date: 2019-11-04T21:27:26+09:00
 title: 「날씨의 아이」를 봤습니다.
 url: /tenki-no-ko-review/

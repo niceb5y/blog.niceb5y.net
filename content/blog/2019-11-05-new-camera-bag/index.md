@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Camera
 date: 2019-11-05T21:27:55+09:00
 title: 새 카메라 가방
 url: /new-camera-bag/

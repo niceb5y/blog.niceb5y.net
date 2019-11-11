@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Music
 date: 2017-04-17T12:00:00+09:00
 title: Coldplay AHFOD Tour in Seoul 2017 관람 후기
 url: /coldplay-ahfod-tour-in-seoul-2017/

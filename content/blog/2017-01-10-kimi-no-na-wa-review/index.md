@@ -1,5 +1,5 @@
 ---
-categories: movie
+categories: Movie
 date: 2017-01-10T12:00:00+09:00
 title: 「너의이름은.」을 봤습니다.
 url: /kimi-no-na-wa-review/

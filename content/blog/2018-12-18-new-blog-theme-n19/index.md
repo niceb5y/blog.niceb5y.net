@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2018-12-18T00:45:39+09:00
 title: '새로운 블로그 테마 n19'
 url: '/new-blog-theme-n19/'

@@ -1,5 +1,5 @@
 ---
-categories: apple
+categories: Tech
 date: 2014-09-28T12:00:00+09:00
 title: iMessage의 암호화 방법
 url: /encryption-of-imessage/

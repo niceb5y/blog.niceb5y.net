@@ -1,5 +1,5 @@
 ---
-categories: programming
+categories: Programming
 date: 2016-09-16T12:00:00+09:00
 title: Safari ‘빠른 웹 사이트 검색’ 적용하기
 url: /apply-safari-quick-website-search/

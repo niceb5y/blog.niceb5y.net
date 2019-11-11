@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2014-08-03T12:00:00+09:00
 title: 새로운 서버 + 새로운 블로그
 url: /new-server-new-blog/

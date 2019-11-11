@@ -1,10 +1,8 @@
 ---
-categories: update
+categories: Life
 date: 2018-12-02T23:50:05+09:00
 title: '블로그 웹 폰트 적용'
 url: '/2018-12-02-new-web-font-on-the-blog/'
-tags: ['Web Font']
-keywords: ['Web Font']
 description: Noto Serif KR 폰트를 적용해봤습니다.
 ---
 

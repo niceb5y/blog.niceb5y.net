@@ -1,5 +1,4 @@
 const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
@@ -18,8 +17,14 @@ exports.createPages = async ({ graphql, actions }) => {
                 title
                 url
                 description
+                categories
               }
             }
+          }
+        }
+        categoriesGroup: allMarkdownRemark(limit: 1000) {
+          group(field: frontmatter___categories) {
+            fieldValue
           }
         }
       }
@@ -58,6 +63,17 @@ exports.createPages = async ({ graphql, actions }) => {
         skip: i * postsPerPage,
         numPages,
         currentPage: i + 1
+      }
+    })
+  })
+
+  const categories = result.data.categoriesGroup.group
+  categories.forEach(categories => {
+    createPage({
+      path: `/categories/${categories.fieldValue}/`,
+      component: path.resolve('./src/templates/categories.js'),
+      context: {
+        categories: categories.fieldValue
       }
     })
   })

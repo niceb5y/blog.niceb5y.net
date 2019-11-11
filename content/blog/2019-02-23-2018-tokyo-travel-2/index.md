@@ -1,10 +1,8 @@
 ---
-categories: travel
+categories: Travel
 date: 2019-02-23T19:20:47+09:00
 title: '2018 도쿄 여행 (하)'
 url: '/2018-tokyo-travel-2/'
-tags: ['Tokyo']
-keywords: ['Tokyo']
 description: 블루 보틀, 성지 순례, 아키하바라.
 ---
 

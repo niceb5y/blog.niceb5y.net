@@ -1,5 +1,5 @@
 ---
-categories: apple
+categories: Tech
 date: 2014-09-11T12:02:00+09:00
 title: iPhone 6, Apple Watch에 대한 단상
 url: /thought-of-iphone6-and-apple-watch/

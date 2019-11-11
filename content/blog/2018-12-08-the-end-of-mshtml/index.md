@@ -1,10 +1,8 @@
 ---
-categories: programming
+categories: Programming
 date: 2018-12-08T23:57:02+09:00
 title: 'MSHTML의 끝'
 url: '/the-end-of-the-mshtml/'
-tags: ['Web Browser', 'Microsoft']
-keywords: ['Web Browser', 'Microsoft']
 description: '2018년의 웹 브라우저: 크롬이냐, 아니냐.'
 ---
 

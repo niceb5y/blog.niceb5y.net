@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2019-07-27T14:30:44+09:00
 title: '생존 신고'
 url: '/still-alive/'

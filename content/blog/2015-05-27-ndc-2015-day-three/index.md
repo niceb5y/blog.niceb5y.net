@@ -1,5 +1,5 @@
 ---
-categories: programming
+categories: Programming
 date: 2015-05-27T12:00:00+09:00
 title: NDC 2015 참관기 - 3일차
 url: /ndc-2015-day-three/

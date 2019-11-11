@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2016-06-28T12:00:00+09:00
 title: 블로그 마이그레이션 끝
 url: /blog-migration-complete/

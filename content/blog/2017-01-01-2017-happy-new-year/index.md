@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2017-01-01T12:00:00+09:00
 title: '2017'
 url: /2017-happy-new-year/

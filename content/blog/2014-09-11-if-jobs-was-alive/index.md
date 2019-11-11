@@ -1,5 +1,5 @@
 ---
-categories: apple
+categories: Tech
 date: 2014-09-11T12:01:00+09:00
 title: 잡스라면 어땠을까.
 url: /if-jobs-was-alive/

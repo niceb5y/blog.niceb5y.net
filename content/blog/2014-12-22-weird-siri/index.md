@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Tech
 date: 2014-12-22T12:00:00+09:00
 title: 이상한 시리
 url: /weird-siri/

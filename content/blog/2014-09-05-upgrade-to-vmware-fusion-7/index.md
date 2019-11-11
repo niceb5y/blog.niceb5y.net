@@ -1,5 +1,5 @@
 ---
-categories: osx-apps
+categories: Tech
 date: 2014-09-05T12:01:00+09:00
 title: VMWare Fusion 7 으로의 업그레이드
 url: /upgrade-to-vmware-fusion-7/

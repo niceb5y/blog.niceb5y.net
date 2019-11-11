@@ -1,5 +1,5 @@
 ---
-categories: apple
+categories: Tech
 date: 2014-09-11T12:00:00+09:00
 title: 외국인 노동자의 인권을 유린하는 애플
 url: /free-jony-ive/

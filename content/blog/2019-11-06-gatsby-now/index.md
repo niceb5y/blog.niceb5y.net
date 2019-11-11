@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2019-11-06T14:05:16+09:00
 title: 이번엔 Gatsby
 url: /gatsby-now/

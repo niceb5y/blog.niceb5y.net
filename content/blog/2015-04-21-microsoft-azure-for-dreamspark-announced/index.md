@@ -1,5 +1,5 @@
 ---
-categories: microsoft
+categories: Programming
 date: 2015-04-21T12:00:00+09:00
 title: Microsoft Azure for DreamSpark 발표
 url: /microsoft-azure-for-dreamspark-announced/

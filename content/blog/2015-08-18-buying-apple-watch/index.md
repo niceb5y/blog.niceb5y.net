@@ -1,5 +1,5 @@
 ---
-categories: apple
+categories: Tech
 date: 2015-08-18T12:00:00+09:00
 title: 애플 워치 구입
 url: /buying-apple-watch/

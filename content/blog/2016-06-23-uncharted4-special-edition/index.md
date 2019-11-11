@@ -1,5 +1,5 @@
 ---
-categories: game
+categories: Game
 date: 2016-06-23T12:01:00+09:00
 title: 언차티드4 스페셜 에디션 개봉기
 url: /uncharted4-special-edition-open-case/

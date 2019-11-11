@@ -1,5 +1,5 @@
 ---
-categories: camera
+categories: Camera
 date: 2015-04-22T12:00:00+09:00
 title: Adobe Lightroom 6 출시
 url: /adobe-lightroom-6-released/

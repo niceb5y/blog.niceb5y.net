@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Tech
 date: 2016-06-23T12:00:00+09:00
 title: 리디북스 페이퍼 사용기
 url: /ridibooks-paper-review/

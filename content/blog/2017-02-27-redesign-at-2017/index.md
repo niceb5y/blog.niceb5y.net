@@ -1,5 +1,5 @@
 ---
-categories: programming
+categories: Life
 date: 2017-02-27T12:00:00+09:00
 title: Redesign@2017
 url: /redesign-at-2017/

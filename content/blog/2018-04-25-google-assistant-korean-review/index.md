@@ -1,10 +1,8 @@
 ---
-categories: update
+categories: Tech
 date: 2018-04-25T20:35:00+09:00
 title: '한국어 구글 어시스턴트 소감'
 url: '/google-assistant-korean-review/'
-tags: ['Google', 'Google Assistant', 'AI']
-keywords: ['Google', 'Google Assistant', 'AI']
 description: 한국어를 잘못 배운 구글 어시스턴트.
 ---
 

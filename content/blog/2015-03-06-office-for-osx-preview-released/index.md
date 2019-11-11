@@ -1,5 +1,5 @@
 ---
-categories: microsoft
+categories: Tech
 date: 2015-03-06T12:00:00+09:00
 title: OSX용 Office Preview 공개
 url: /office-for-osx-preview-released/

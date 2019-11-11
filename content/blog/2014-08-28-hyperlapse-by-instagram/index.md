@@ -1,5 +1,5 @@
 ---
-categories: ios-apps
+categories: Tech
 date: 2014-08-28T12:00:00+09:00
 title: Instagram Hyperlapse
 url: /hyperlapse-by-instagram/

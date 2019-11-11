@@ -1,5 +1,5 @@
 ---
-categories: programming
+categories: Programming
 date: 2017-02-26T12:00:00+09:00
 title: Cloudbleed 문제
 url: /the-cloudbleed-problem/

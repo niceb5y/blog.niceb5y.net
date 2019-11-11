@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Life
 date: 2016-05-19T12:00:00+09:00
 title: 새 디자인
 url: /minor-design-update/

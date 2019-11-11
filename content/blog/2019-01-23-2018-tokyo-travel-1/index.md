@@ -1,10 +1,8 @@
 ---
-categories: travel
+categories: Travel
 date: 2019-01-23T22:02:55+09:00
 title: '2018 도쿄 여행 (상)'
 url: '/2018-tokyo-travel-1/'
-tags: ['Tokyo']
-keywords: ['Tokyo']
 description: 나 도쿄에 갈란다.
 ---
 

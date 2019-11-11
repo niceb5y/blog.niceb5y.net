@@ -1,5 +1,5 @@
 ---
-categories: update
+categories: Tech
 date: 2015-01-03T12:00:00+09:00
 title: Sandisk Extreme PRO UHS-I U3 SD Card
 url: /sandisk-extreme-pro-uhs-u3-sd-card/

@@ -1,10 +1,8 @@
 ---
-categories: update
+categories: Music
 date: 2018-12-13T23:05:15+09:00
 title: '가장 좋아하는 밴드의 가장 끔찍한 행동'
 url: '/the-most-terrible-act-of-my-most-favorite-band/'
-tags: ['Coldplay']
-keywords: ['Coldplay']
 description: 아무리 블루레이가 망했어도 그렇지....
 ---
 
