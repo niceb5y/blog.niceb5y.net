@@ -69,12 +69,26 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const categories = result.data.categoriesGroup.group
   categories.forEach(categories => {
-    createPage({
-      path: `/categories/${categories.fieldValue}/`,
-      component: path.resolve('./src/templates/categories.js'),
-      context: {
-        categories: categories.fieldValue
-      }
+    const numPages = Math.ceil(
+      posts.filter(
+        post => post.node.frontmatter.categories === categories.fieldValue
+      ).length / postsPerPage
+    )
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path:
+          i === 0
+            ? `/categories/${categories.fieldValue}/`
+            : `/categories/${categories.fieldValue}/page${i + 1}`,
+        component: path.resolve('./src/templates/categories.js'),
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          categories: categories.fieldValue,
+          numPages,
+          currentPage: i + 1
+        }
+      })
     })
   })
 }

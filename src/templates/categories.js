@@ -10,10 +10,17 @@ class BlogCategories extends React.Component {
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
 
+    const { pageContext } = this.props
+    const { categories } = pageContext
+    const pageCurrent = pageContext.currentPage
+    const pageTotal = pageContext.numPages
+
+    console.log(this.props.pageContext)
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={this.props.pageContext.categories} />
-        <h2 className="mb-3">{this.props.pageContext.categories}</h2>
+        <SEO title={categories} />
+        <h2 className="mb-3">{categories}</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.frontmatter.url
           return (
@@ -46,6 +53,39 @@ class BlogCategories extends React.Component {
             </div>
           )
         })}
+        {pageTotal > 1 && (
+          <div className="d-flex justify-content-between">
+            <Link
+              className={`btn btn-outline-primary ${
+                pageCurrent === 1 ? 'disabled' : ''
+              }`}
+              to={
+                pageCurrent > 2
+                  ? `/categories/${categories}/page${pageCurrent - 1}`
+                  : `/categories/${categories}/`
+              }
+            >
+              <span className="icon icon-chevron-left" />
+              이전
+            </Link>
+            <span>
+              {pageCurrent} / {pageTotal}
+            </span>
+            <Link
+              className={`btn btn-outline-primary ${
+                pageCurrent === pageTotal ? 'disabled' : ''
+              }`}
+              to={
+                pageCurrent < pageTotal
+                  ? `/categories/${categories}/page${pageCurrent + 1}`
+                  : `/categories/${categories}/page${pageTotal}`
+              }
+            >
+              다음
+              <span className="icon icon-chevron-right" />
+            </Link>
+          </div>
+        )}
       </Layout>
     )
   }
@@ -54,7 +94,11 @@ class BlogCategories extends React.Component {
 export default BlogCategories
 
 export const pageQuery = graphql`
-  query blogCategoriesListQuery($categories: String) {
+  query blogCategoriesListQuery(
+    $categories: String
+    $skip: Int!
+    $limit: Int!
+  ) {
     site {
       siteMetadata {
         title
@@ -63,6 +107,8 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { categories: { eq: $categories } } }
+      limit: $limit
+      skip: $skip
     ) {
       edges {
         node {
