@@ -1,5 +1,5 @@
 ---
-categories: Programming
+categories: Dev
 date: 2015-02-13T12:01:00+09:00
 title: GitHub 학생 개발자 팩
 url: /github-student-developer-pack/

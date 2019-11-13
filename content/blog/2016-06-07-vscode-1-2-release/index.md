@@ -1,5 +1,5 @@
 ---
-categories: Programming
+categories: Dev
 date: 2016-06-07T12:00:00+09:00
 title: Visual Studio Code V1.2 Release
 url: /vscode-1-2-release/

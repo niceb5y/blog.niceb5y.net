@@ -1,5 +1,5 @@
 ---
-categories: Programming
+categories: Dev
 date: 2016-05-19T12:00:00+09:00
 title: 대신 귀여운 알파카
 url: /cute-alpaca/

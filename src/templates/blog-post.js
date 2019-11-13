@@ -88,7 +88,7 @@ const BlogPost = ({ data, pageContext, location }) => {
           <h1>{postTitle}</h1>
           <p className="text-muted">
             <Link
-              className="mr-2 text-muted"
+              className={`cat-${postCategories} mr-2`}
               to={`/categories/${postCategories}/`}
             >
               {postCategories}

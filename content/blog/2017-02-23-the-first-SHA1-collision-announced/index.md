@@ -1,5 +1,5 @@
 ---
-categories: Programming
+categories: Dev
 date: 2017-02-23T12:00:00+09:00
 title: 첫 SHA-1 충돌이 발표되다.
 url: /the-first-SHA1-collision-announced/

@@ -19,11 +19,8 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.frontmatter.url
           return (
-            <div
-              className="card border-secondary mb-3"
-              key={node.frontmatter.url}
-            >
-              <div className="card-body">
+            <div className="card mb-3" key={node.frontmatter.url}>
+              <div className="card-body px-0 pt-0">
                 <h3 className="card-title">
                   <Link style={{ boxShadow: `none` }} to={node.frontmatter.url}>
                     {title}
@@ -31,7 +28,7 @@ class BlogIndex extends React.Component {
                 </h3>
                 <p className="card-subtitle mb-2 text-muted">
                   <Link
-                    className="text-muted mr-2"
+                    className={`cat-${node.frontmatter.categories} mr-2`}
                     to={`/categories/${node.frontmatter.categories}/`}
                   >
                     {node.frontmatter.categories}

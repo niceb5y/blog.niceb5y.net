@@ -1,5 +1,5 @@
 ---
-categories: Programming
+categories: Dev
 date: 2014-08-29T12:00:00+09:00
 title: 관트짤줍 헬퍼 - 관트짤줍 GUI 프론트엔드
 url: /favoimgs-helper/

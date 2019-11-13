@@ -1,5 +1,5 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from 'react'
+import PropTypes from 'prop-types'
 
 export default function HTML(props) {
   return (
@@ -13,7 +13,12 @@ export default function HTML(props) {
         />
         <meta name="referrer" content="origin-when-cross-origin" />
         <link rel="stylesheet" href="https://cdn.shk.im/webcore/v19.css" />
-        <link rel="alternate" type="application/rss+xml" href="https://blog.niceb5y.net/index.xml" />
+        <link rel="stylesheet" href="/style.css" />
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          href="https://blog.niceb5y.net/index.xml"
+        />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
@@ -39,5 +44,5 @@ HTML.propTypes = {
   bodyAttributes: PropTypes.object,
   preBodyComponents: PropTypes.array,
   body: PropTypes.string,
-  postBodyComponents: PropTypes.array,
+  postBodyComponents: PropTypes.array
 }

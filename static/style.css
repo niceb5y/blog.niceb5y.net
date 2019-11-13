@@ -1,0 +1,60 @@
+h2 {
+  font-size: 2rem;
+}
+
+h3,
+article h1 {
+  font-size: 1.6rem;
+}
+
+article h2 {
+  font-size: 1.5rem;
+}
+
+article h3 {
+  font-size: 1.4rem;
+}
+
+article h4 {
+  font-size: 1.3rem;
+}
+
+article h5 {
+  font-size: 1.2rem;
+}
+
+article h6 {
+  font-size: 1.1rem;
+}
+
+.cat-Camera {
+  color: #3f51b5;
+}
+
+.cat-Dev {
+  color: #43a047;
+}
+
+.cat-Game {
+  color: #fb8c00;
+}
+
+.cat-Life {
+  color: #f44336;
+}
+
+.cat-Movie {
+  color: #e91e63;
+}
+
+.cat-Music {
+  color: #9c27b0;
+}
+
+.cat-Tech {
+  color: #00838f;
+}
+
+.cat-Travel {
+  color: #1e88e5;
+}

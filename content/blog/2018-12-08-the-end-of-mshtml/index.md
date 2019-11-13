@@ -1,5 +1,5 @@
 ---
-categories: Programming
+categories: Dev
 date: 2018-12-08T23:57:02+09:00
 title: 'MSHTML의 끝'
 url: '/the-end-of-the-mshtml/'
