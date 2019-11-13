@@ -15,8 +15,6 @@ class BlogCategories extends React.Component {
     const pageCurrent = pageContext.currentPage
     const pageTotal = pageContext.numPages
 
-    console.log(this.props.pageContext)
-
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={categories} />
