@@ -5,27 +5,93 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 
 const BlogPost = ({ data, pageContext, location }) => {
+  const { siteMetadata } = data.site
+  const siteTitle = siteMetadata.title
+  const siteUrl = siteMetadata.siteUrl
+  const siteAuthor = siteMetadata.author
+
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
+  const { frontmatter } = post
+  const postCategories = frontmatter.categories
+  const postTitle = frontmatter.title
+  const postDescription = frontmatter.description
+  const postUrl = frontmatter.url
+  const postDate = frontmatter.date
+  const postModDate = post.parent.modifiedTime
   const { previous, next } = pageContext
+
+  const BreadCrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: siteTitle,
+        item: `${siteUrl}/`
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: postCategories,
+        item: `${siteUrl}/categories/${postCategories}/`
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: postTitle,
+        item: `${siteUrl}${postUrl}`
+      }
+    ]
+  }
+
+  const ArticleSchema = {
+    '@context': 'http://schema.org/',
+    '@type': 'BlogPosting',
+    name: postTitle,
+    headline: postDescription,
+    description: postDescription,
+    author: {
+      '@type': 'Person',
+      name: siteAuthor
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: siteTitle,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteUrl}/images/icon.png`
+      }
+    },
+    image: [`${siteUrl}/images/blog.png`],
+    datePublished: postDate,
+    dateModified: postModDate,
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${siteUrl}${postUrl}`
+    }
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description}
-      />
+      <SEO title={postTitle} description={postDescription} />
+      <script type="application/ld+json">
+        {JSON.stringify(BreadCrumbSchema)}
+      </script>
+      <script type="application/ld+json">
+        {JSON.stringify(ArticleSchema)}
+      </script>
       <article>
         <header>
-          <h1>{post.frontmatter.title}</h1>
+          <h1>{postTitle}</h1>
           <p className="text-muted">
             <Link
               className="mr-2 text-muted"
-              to={`/categories/${post.frontmatter.categories}/`}
+              to={`/categories/${postCategories}/`}
             >
-              {post.frontmatter.categories}
+              {postCategories}
             </Link>
-            {post.frontmatter.date}
+            {postDate}
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -60,6 +126,8 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+        siteUrl
+        author
       }
     }
     markdownRemark(frontmatter: { url: { eq: $url } }) {
@@ -70,6 +138,12 @@ export const pageQuery = graphql`
         date(formatString: "YYYY-MM-DD")
         description
         categories
+        url
+      }
+      parent {
+        ... on File {
+          modifiedTime(formatString: "YYYY-MM-DD")
+        }
       }
     }
   }
