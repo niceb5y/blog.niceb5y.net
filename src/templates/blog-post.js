@@ -75,12 +75,14 @@ const BlogPost = ({ data, pageContext, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title={postTitle} description={postDescription} />
-      <script type="application/ld+json">
-        {JSON.stringify(BreadCrumbSchema)}
-      </script>
-      <script type="application/ld+json">
-        {JSON.stringify(ArticleSchema)}
-      </script>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(BreadCrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(ArticleSchema) }}
+      />
       <article>
         <header>
           <h1>{postTitle}</h1>
