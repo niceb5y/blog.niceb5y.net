@@ -28,41 +28,41 @@ article h6 {
 }
 
 .cat-Camera,
-.cat-Camera:hover {
+a.cat-Camera:hover {
   color: #3f51b5;
 }
 
 .cat-Dev,
-.cat-Dev:hover {
+a.cat-Dev:hover {
   color: #43a047;
 }
 
 .cat-Game,
-.cat-Game:hover {
+a.cat-Game:hover {
   color: #fb8c00;
 }
 
 .cat-Life,
-.cat-Life:hover {
+a.cat-Life:hover {
   color: #f44336;
 }
 
 .cat-Movie,
-.cat-Movie:hover {
+a.cat-Movie:hover {
   color: #e91e63;
 }
 
 .cat-Music,
-.cat-Music:hover {
+a.cat-Music:hover {
   color: #9c27b0;
 }
 
 .cat-Tech,
-.cat-Tech:hover {
+a.cat-Tech:hover {
   color: #00838f;
 }
 
 .cat-Travel,
-.cat-Travel:hover {
+a.cat-Travel:hover {
   color: #1e88e5;
 }
