@@ -18,7 +18,7 @@ class BlogCategories extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={categories} />
-        <h2 className="mb-3">{categories}</h2>
+        <h2 className={`cat-${categories} mb-3`}>{categories}</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.frontmatter.url
           return (
@@ -31,10 +31,10 @@ class BlogCategories extends React.Component {
                 </h3>
                 <p className="card-subtitle mb-2 text-muted">
                   <Link
-                    className={`cat-${node.frontmatter.categories} mr-2`}
-                    to={`/categories/${node.frontmatter.categories}/`}
+                    className={`cat-${categories} mr-2`}
+                    to={`/categories/${categories}/`}
                   >
-                    {node.frontmatter.categories}
+                    {categories}
                   </Link>
                   {node.frontmatter.date}
                 </p>
