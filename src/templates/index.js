@@ -56,7 +56,7 @@ class BlogIndex extends React.Component {
               <span className="icon icon-chevron-left" />
               이전
             </Link>
-            <span>
+            <span className="py-1">
               {pageCurrent} / {pageTotal}
             </span>
             <Link
