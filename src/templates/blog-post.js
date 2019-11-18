@@ -73,7 +73,7 @@ const BlogPost = ({ data, pageContext, location }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location}>
       <SEO title={postTitle} description={postDescription} />
       <script
         type="application/ld+json"

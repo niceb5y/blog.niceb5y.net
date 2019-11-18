@@ -7,7 +7,6 @@ import SEO from '../components/seo'
 class BlogCategories extends React.Component {
   render() {
     const { data } = this.props
-    const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
 
     const { pageContext } = this.props
@@ -16,14 +15,13 @@ class BlogCategories extends React.Component {
     const pageTotal = pageContext.numPages
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location}>
         <SEO title={categories} />
-        <h2 className={`cat-${categories} mb-3`}>{categories}</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.frontmatter.url
           return (
             <div className="card mb-3" key={node.frontmatter.url}>
-              <div className="card-body px-0">
+              <div className="card-body px-0 pt-0">
                 <h3 className="card-title">
                   <Link style={{ boxShadow: `none` }} to={node.frontmatter.url}>
                     {title}
@@ -94,11 +92,6 @@ export const pageQuery = graphql`
     $skip: Int!
     $limit: Int!
   ) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { categories: { eq: $categories } } }
