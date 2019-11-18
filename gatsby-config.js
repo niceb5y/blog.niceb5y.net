@@ -7,7 +7,8 @@ module.exports = {
     image: `/images/blog.png`,
     social: {
       twitter: `niceb5y`
-    }
+    },
+    copyright: `© 2014-2019 niceb5y`
   },
   plugins: [
     {

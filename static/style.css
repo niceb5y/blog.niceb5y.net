@@ -29,60 +29,56 @@ article h6 {
 
 .cat-Camera,
 a.cat-Camera:hover,
-a.nav-Camera,
-a.nav-Camera:hover {
+a.nav-Camera.active,
+a.nav-Camera.active:hover {
   color: #f44336 !important;
 }
 
 .cat-Dev,
 a.cat-Dev:hover,
-a.nav-Dev,
-a.nav-Dev:hover {
+a.nav-Dev.active,
+a.nav-Dev.active:hover {
   color: #e91e63 !important;
 }
 
 .cat-Game,
 a.cat-Game:hover,
-a.nav-Game,
-a.nav-Game:hover {
+a.nav-Game.active,
+a.nav-Game.active:hover {
   color: #9c27b0 !important;
 }
 
 .cat-Life,
 a.cat-Life:hover,
-a.nav-Life,
-a.nav-Life:hover {
+a.nav-Life.active,
+a.nav-Life.active:hover {
   color: #3f51b5 !important;
 }
 
 .cat-Movie,
 a.cat-Movie:hover,
-a.nav-Movie,
-a.nav-Movie:hover {
+a.nav-Movie.active,
+a.nav-Movie.active:hover {
   color: #1e88e5 !important;
 }
 
 .cat-Music,
 a.cat-Music:hover,
-a.nav-Music,
-a.nav-Music:hover {
+a.nav-Music.active,
+a.nav-Music.active:hover {
   color: #00838f !important;
 }
 
 .cat-Tech,
 a.cat-Tech:hover,
-a.nav-Tech,
-a.nav-Tech:hover {
+a.nav-Tech.active,
+a.nav-Tech.active:hover {
   color: #43a047 !important;
 }
 
 .cat-Travel,
 a.cat-Travel:hover,
-a.nav-Travel,
-a.nav-Travel:hover {
+a.nav-Travel.active,
+a.nav-Travel.active:hover {
   color: #fb8c00 !important;
-}
-
-#navbarNav > ul > li > a.active {
-  font-weight: 700;
 }
