@@ -7,6 +7,11 @@ import SEO from '../components/seo'
 class BlogCategories extends React.Component {
   render() {
     const { data } = this.props
+
+    const { siteMetadata } = data.site
+    const siteTitle = siteMetadata.title
+    const siteUrl = siteMetadata.siteUrl
+
     const posts = data.allMarkdownRemark.edges
 
     const { pageContext } = this.props
@@ -14,9 +19,42 @@ class BlogCategories extends React.Component {
     const pageCurrent = pageContext.currentPage
     const pageTotal = pageContext.numPages
 
+    const BreadCrumbSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: siteTitle,
+          item: `${siteUrl}/`
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: categories,
+          item: `${siteUrl}/categories/${categories}/`
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: `Page ${pageCurrent}`,
+          item: `${siteUrl}${
+            pageCurrent > 1
+              ? `/categories/${categories}/page${pageCurrent}`
+              : `/categories/${categories}/`
+          }`
+        }
+      ]
+    }
+
     return (
       <Layout location={this.props.location}>
         <SEO title={categories} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(BreadCrumbSchema) }}
+        />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.frontmatter.url
           return (
@@ -92,6 +130,12 @@ export const pageQuery = graphql`
     $skip: Int!
     $limit: Int!
   ) {
+    site {
+      siteMetadata {
+        title
+        siteUrl
+      }
+    }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { categories: { eq: $categories } } }

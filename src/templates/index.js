@@ -7,14 +7,48 @@ import SEO from '../components/seo'
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
+
+    const { siteMetadata } = data.site
+    const siteTitle = siteMetadata.title
+    const siteUrl = siteMetadata.siteUrl
+
     const posts = data.allMarkdownRemark.edges
 
     const pageCurrent = this.props.pageContext.currentPage
     const pageTotal = this.props.pageContext.numPages
 
+    const BreadCrumbSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: siteTitle,
+          item: `${siteUrl}/`
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: 'All Posts',
+          item: `${siteUrl}/`
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: `Page ${pageCurrent}`,
+          item: `${siteUrl}${pageCurrent > 1 ? `/page${pageCurrent}` : `/`}`
+        }
+      ]
+    }
+
     return (
       <Layout location={this.props.location}>
         <SEO title="niceb5y blog" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(BreadCrumbSchema) }}
+        />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.frontmatter.url
           return (
@@ -82,6 +116,12 @@ export default BlogIndex
 
 export const pageQuery = graphql`
   query blogListQuery($skip: Int!, $limit: Int!) {
+    site {
+      siteMetadata {
+        title
+        siteUrl
+      }
+    }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit
