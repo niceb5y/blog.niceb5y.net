@@ -3,12 +3,10 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
-import BreadcrumbList from '../components/schema/breadcrumblist'
+import SchemaBreadcrumbList from '../components/schema/breadcrumblist'
 
 const PageIndex = ({ data, pageContext }) => {
-  const { siteMetadata } = data.site
-  const siteTitle = siteMetadata.title
-  const siteUrl = siteMetadata.siteUrl
+  const siteTitle = data.site.siteMetadata.title
 
   const posts = data.allMarkdownRemark.edges
 
@@ -18,19 +16,15 @@ const PageIndex = ({ data, pageContext }) => {
   return (
     <Layout>
       <SEO title={siteTitle} />
-      <BreadcrumbList
+      <SchemaBreadcrumbList
         list={[
           {
-            name: siteTitle,
-            item: `${siteUrl}/`
-          },
-          {
             name: 'All Posts',
-            item: `${siteUrl}/`
+            item: `/`
           },
           {
             name: `Page ${pageCurrent}`,
-            item: `${siteUrl}${pageCurrent > 1 ? `/page${pageCurrent}` : `/`}`
+            item: `${pageCurrent > 1 ? `/page${pageCurrent}` : `/`}`
           }
         ]}
       />
@@ -103,7 +97,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        siteUrl
       }
     }
     allMarkdownRemark(
