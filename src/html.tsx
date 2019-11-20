@@ -1,6 +1,6 @@
 import React from 'react'
 
-interface GatsbyHTMLProps {
+interface HTMLProps {
   htmlAttributes: React.HTMLAttributes<HTMLHtmlElement>
   headComponents: Array<JSX.Element>
   bodyAttributes: React.HTMLAttributes<HTMLBodyElement>
@@ -9,7 +9,7 @@ interface GatsbyHTMLProps {
   postBodyComponents: Array<JSX.Element>
 }
 
-export default function HTML(props: GatsbyHTMLProps) {
+export default function HTML(props: HTMLProps) {
   return (
     <html lang="ko" {...props.htmlAttributes}>
       <head>
