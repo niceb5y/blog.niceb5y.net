@@ -86,8 +86,8 @@ const PagePost = ({
 
 export default PagePost
 
-export const pageQuery = graphql`
-  query BlogPostByURL($url: String!) {
+export const postQuery = graphql`
+  query postQuery($url: String!) {
     markdownRemark(frontmatter: { url: { eq: $url } }) {
       html
       frontmatter {

@@ -14,7 +14,7 @@ const PostList = ({
   pageTotal: number
   pagePrefix: string
 }) => (
-  <>
+  <div>
     {list.map(({ node }) => {
       const title = node.frontmatter.title || node.frontmatter.url
       return (
@@ -77,7 +77,7 @@ const PostList = ({
         </Link>
       </div>
     )}
-  </>
+  </div>
 )
 
 export default PostList

@@ -53,12 +53,8 @@ const PageCategories = ({
 
 export default PageCategories
 
-export const pageQuery = graphql`
-  query blogCategoriesListQuery(
-    $categories: String
-    $skip: Int!
-    $limit: Int!
-  ) {
+export const categoriesQuery = graphql`
+  query categoriesQuery($categories: String, $skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { categories: { eq: $categories } } }

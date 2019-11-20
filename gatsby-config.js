@@ -135,6 +135,7 @@ module.exports = {
     `gatsby-plugin-netlify-cache`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-typescript`
+    `gatsby-plugin-typescript`,
+    `gatsby-plugin-sass`
   ]
 }

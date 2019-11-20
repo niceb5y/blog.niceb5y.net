@@ -19,7 +19,7 @@ interface SEOProps {
 function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
   const { site }: { site: Site } = useStaticQuery(
     graphql`
-      query {
+      query seoQuery {
         site {
           siteMetadata {
             title

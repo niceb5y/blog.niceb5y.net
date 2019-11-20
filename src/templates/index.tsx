@@ -18,6 +18,7 @@ const PageIndex = ({
   }
   pageContext: PageIndexContext
 }) => {
+  console.log(data)
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
   const { pageCurrent, pageTotal } = pageContext
@@ -49,8 +50,8 @@ const PageIndex = ({
 
 export default PageIndex
 
-export const pageQuery = graphql`
-  query blogListQuery($skip: Int!, $limit: Int!) {
+export const indexQuery = graphql`
+  query indexQuery($skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
