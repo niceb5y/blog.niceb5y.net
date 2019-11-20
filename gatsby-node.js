@@ -51,28 +51,28 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   const postsPerPage = 10
-  const numPages = Math.ceil(posts.length / postsPerPage)
-  Array.from({ length: numPages }).forEach((_, i) => {
+  const pageTotal = Math.ceil(posts.length / postsPerPage)
+  Array.from({ length: pageTotal }).forEach((_, i) => {
     createPage({
       path: i === 0 ? `/` : `/page${i + 1}`,
       component: path.resolve('./src/templates/index.tsx'),
       context: {
         limit: postsPerPage,
         skip: i * postsPerPage,
-        numPages,
-        currentPage: i + 1
+        pageCurrent: i + 1,
+        pageTotal
       }
     })
   })
 
   const categories = result.data.categoriesGroup.group
   categories.forEach(categories => {
-    const numPages = Math.ceil(
+    const pageTotal = Math.ceil(
       posts.filter(
         post => post.node.frontmatter.categories === categories.fieldValue
       ).length / postsPerPage
     )
-    Array.from({ length: numPages }).forEach((_, i) => {
+    Array.from({ length: pageTotal }).forEach((_, i) => {
       createPage({
         path:
           i === 0
@@ -83,8 +83,8 @@ exports.createPages = async ({ graphql, actions }) => {
           limit: postsPerPage,
           skip: i * postsPerPage,
           categories: categories.fieldValue,
-          numPages,
-          currentPage: i + 1
+          pageCurrent: i + 1,
+          pageTotal
         }
       })
     })

@@ -3,6 +3,8 @@ import Helmet from 'react-helmet'
 import { useStaticQuery, graphql } from 'gatsby'
 import { resolve } from 'url'
 
+import { Site } from '../entities'
+
 interface SEOProps {
   description?: string
   lang?: string
@@ -15,7 +17,7 @@ interface SEOProps {
 }
 
 function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
-  const { site } = useStaticQuery(
+  const { site }: { site: Site } = useStaticQuery(
     graphql`
       query {
         site {

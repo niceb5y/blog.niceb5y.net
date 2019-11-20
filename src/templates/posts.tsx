@@ -6,7 +6,15 @@ import SEO from '../components/seo'
 import SchemaBreadcrumbList from '../components/schema/breadcrumblist'
 import SchemaBlogPosting from '../components/schema/blogposting'
 
-const BlogPost = ({ data, pageContext }) => {
+import { MarkdownRemark, PagePostContext } from '../entities'
+
+const PagePost = ({
+  data,
+  pageContext
+}: {
+  data: { markdownRemark: MarkdownRemark }
+  pageContext: PagePostContext
+}) => {
   const post = data.markdownRemark
   const { frontmatter } = post
   const postCategories = frontmatter.categories
@@ -76,12 +84,11 @@ const BlogPost = ({ data, pageContext }) => {
   )
 }
 
-export default BlogPost
+export default PagePost
 
 export const pageQuery = graphql`
   query BlogPostByURL($url: String!) {
     markdownRemark(frontmatter: { url: { eq: $url } }) {
-      id
       html
       frontmatter {
         title

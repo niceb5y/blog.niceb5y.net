@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link, graphql, StaticQuery } from 'gatsby'
 
+import { Site, CategoriesGroup } from '../entities'
+
 const Header = () => (
   <StaticQuery
     query={graphql`
@@ -17,7 +19,7 @@ const Header = () => (
         }
       }
     `}
-    render={data => (
+    render={(data: { site: Site; categoriesGroup: CategoriesGroup }) => (
       <nav className="navbar-expand-sm navbar navbar-light my-4 px-0">
         <Link className="navbar-brand mr-auto text-primary" to="/">
           {data.site.siteMetadata.title}
@@ -35,7 +37,7 @@ const Header = () => (
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav pl-3">
-            {data.categoriesGroup.group.map((elem: { fieldValue: string }) => {
+            {data.categoriesGroup.group.map(elem => {
               const category = elem.fieldValue
               return (
                 <li className="nav-item" key={category}>

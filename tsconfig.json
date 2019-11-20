@@ -4,6 +4,7 @@
     "module": "commonjs",
     "jsx": "react",
     "strict": true,
+    "noImplicitAny": true,
     "esModuleInterop": true
   }
 }
