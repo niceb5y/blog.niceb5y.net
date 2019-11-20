@@ -3,13 +3,18 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
+import SchemaBreadcrumbList from '../components/schema/breadcrumblist'
+import SchemaBlogPosting from '../components/schema/blogposting'
 
-const BlogPost = ({ data, pageContext, location }) => {
-  const { siteMetadata } = data.site
-  const siteTitle = siteMetadata.title
-  const siteUrl = siteMetadata.siteUrl
-  const siteAuthor = siteMetadata.author
+import { MarkdownRemark, PagePostContext } from '../entities'
 
+const PagePost = ({
+  data,
+  pageContext
+}: {
+  data: { markdownRemark: MarkdownRemark }
+  pageContext: PagePostContext
+}) => {
   const post = data.markdownRemark
   const { frontmatter } = post
   const postCategories = frontmatter.categories
@@ -20,68 +25,27 @@ const BlogPost = ({ data, pageContext, location }) => {
   const postModDate = post.parent.modifiedTime
   const { previous, next } = pageContext
 
-  const BreadCrumbSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      {
-        '@type': 'ListItem',
-        position: 1,
-        name: siteTitle,
-        item: `${siteUrl}/`
-      },
-      {
-        '@type': 'ListItem',
-        position: 2,
-        name: postCategories,
-        item: `${siteUrl}/categories/${postCategories}/`
-      },
-      {
-        '@type': 'ListItem',
-        position: 3,
-        name: postTitle,
-        item: `${siteUrl}${postUrl}`
-      }
-    ]
-  }
-
-  const ArticleSchema = {
-    '@context': 'http://schema.org/',
-    '@type': 'BlogPosting',
-    name: postTitle,
-    headline: postDescription,
-    description: postDescription,
-    author: {
-      '@type': 'Person',
-      name: siteAuthor
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: siteTitle,
-      logo: {
-        '@type': 'ImageObject',
-        url: `${siteUrl}/images/icon.png`
-      }
-    },
-    image: [`${siteUrl}/images/blog.png`],
-    datePublished: postDate,
-    dateModified: postModDate,
-    mainEntityOfPage: {
-      '@type': 'WebPage',
-      '@id': `${siteUrl}${postUrl}`
-    }
-  }
-
   return (
-    <Layout location={location}>
+    <Layout>
       <SEO title={postTitle} description={postDescription} />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(BreadCrumbSchema) }}
+      <SchemaBreadcrumbList
+        list={[
+          {
+            name: postCategories,
+            item: `/categories/${postCategories}/`
+          },
+          {
+            name: postTitle,
+            item: `${postUrl}`
+          }
+        ]}
       />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(ArticleSchema) }}
+      <SchemaBlogPosting
+        postTitle={postTitle}
+        postDescription={postDescription}
+        postUrl={postUrl}
+        postDate={postDate}
+        postModDate={postModDate}
       />
       <article>
         <header>
@@ -120,20 +84,11 @@ const BlogPost = ({ data, pageContext, location }) => {
   )
 }
 
-export default BlogPost
+export default PagePost
 
 export const pageQuery = graphql`
   query BlogPostByURL($url: String!) {
-    site {
-      siteMetadata {
-        title
-        author
-        siteUrl
-        author
-      }
-    }
     markdownRemark(frontmatter: { url: { eq: $url } }) {
-      id
       html
       frontmatter {
         title

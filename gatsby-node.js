@@ -3,7 +3,7 @@ const path = require(`path`)
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const blogPost = path.resolve(`./src/templates/posts.js`)
+  const blogPost = path.resolve(`./src/templates/posts.tsx`)
   const result = await graphql(
     `
       {
@@ -35,12 +35,10 @@ exports.createPages = async ({ graphql, actions }) => {
     throw result.errors
   }
 
-  // Create blog posts pages.
   const posts = result.data.allMarkdownRemark.edges
   posts.forEach((post, index) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node
     const next = index === 0 ? null : posts[index - 1].node
-
     createPage({
       path: post.node.frontmatter.url,
       component: blogPost,
@@ -53,40 +51,40 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   const postsPerPage = 10
-  const numPages = Math.ceil(posts.length / postsPerPage)
-  Array.from({ length: numPages }).forEach((_, i) => {
+  const pageTotal = Math.ceil(posts.length / postsPerPage)
+  Array.from({ length: pageTotal }).forEach((_, i) => {
     createPage({
       path: i === 0 ? `/` : `/page${i + 1}`,
-      component: path.resolve('./src/templates/index.js'),
+      component: path.resolve('./src/templates/index.tsx'),
       context: {
         limit: postsPerPage,
         skip: i * postsPerPage,
-        numPages,
-        currentPage: i + 1
+        pageCurrent: i + 1,
+        pageTotal
       }
     })
   })
 
   const categories = result.data.categoriesGroup.group
   categories.forEach(categories => {
-    const numPages = Math.ceil(
+    const pageTotal = Math.ceil(
       posts.filter(
         post => post.node.frontmatter.categories === categories.fieldValue
       ).length / postsPerPage
     )
-    Array.from({ length: numPages }).forEach((_, i) => {
+    Array.from({ length: pageTotal }).forEach((_, i) => {
       createPage({
         path:
           i === 0
             ? `/categories/${categories.fieldValue}/`
             : `/categories/${categories.fieldValue}/page${i + 1}`,
-        component: path.resolve('./src/templates/categories.js'),
+        component: path.resolve('./src/templates/categories.tsx'),
         context: {
           limit: postsPerPage,
           skip: i * postsPerPage,
           categories: categories.fieldValue,
-          numPages,
-          currentPage: i + 1
+          pageCurrent: i + 1,
+          pageTotal
         }
       })
     })
