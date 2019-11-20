@@ -35,7 +35,7 @@ const Header = () => (
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav pl-3">
-            {data.categoriesGroup.group.map(elem => {
+            {data.categoriesGroup.group.map((elem: { fieldValue: string }) => {
               const category = elem.fieldValue
               return (
                 <li className="nav-item" key={category}>

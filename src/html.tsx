@@ -1,9 +1,17 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
-export default function HTML(props) {
+interface GatsbyHTMLProps {
+  htmlAttributes: React.HTMLAttributes<HTMLHtmlElement>
+  headComponents: Array<JSX.Element>
+  bodyAttributes: React.HTMLAttributes<HTMLBodyElement>
+  preBodyComponents: Array<JSX.Element>
+  body: string
+  postBodyComponents: Array<JSX.Element>
+}
+
+export default function HTML(props: GatsbyHTMLProps) {
   return (
-    <html {...props.htmlAttributes}>
+    <html lang="ko" {...props.htmlAttributes}>
       <head>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
@@ -35,13 +43,4 @@ export default function HTML(props) {
       </body>
     </html>
   )
-}
-
-HTML.propTypes = {
-  htmlAttributes: PropTypes.object,
-  headComponents: PropTypes.array,
-  bodyAttributes: PropTypes.object,
-  preBodyComponents: PropTypes.array,
-  body: PropTypes.string,
-  postBodyComponents: PropTypes.array
 }

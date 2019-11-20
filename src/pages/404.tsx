@@ -7,7 +7,7 @@ import SEO from '../components/seo'
 class NotFoundPage extends React.Component {
   render() {
     return (
-      <Layout location={this.props.location}>
+      <Layout>
         <SEO title="페이지를 찾을 수 없습니다." />
         <div className="row">
           <div className="block text-center">
