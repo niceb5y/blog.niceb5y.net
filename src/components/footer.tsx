@@ -17,7 +17,10 @@ const Footer = () => (
     render={(data: { site: Site }) => (
       <footer className="pt-3 pb-5 text-center">
         <hr />
-        <span>{data.site.siteMetadata.copyright}</span>
+        <p>{data.site.siteMetadata.copyright}</p>
+        <noscript key="noscript" id="gatsby-noscript">
+          <p>이 블로그는 JavaScript를 사용할 때 더 좋은 경험을 제공합니다.</p>
+        </noscript>
       </footer>
     )}
   />
