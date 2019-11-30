@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 import { useStaticQuery, graphql } from 'gatsby'
 import { resolve } from 'url'
 
-import { Site } from '../entities'
+import { Site, Asset } from '../entities'
 
 interface SEOProps {
   description?: string
@@ -17,7 +17,10 @@ interface SEOProps {
 }
 
 function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
-  const { site }: { site: Site } = useStaticQuery(
+  const {
+    site,
+    defaultImage
+  }: { site: Site; defaultImage: Asset } = useStaticQuery(
     graphql`
       query seoQuery {
         site {
@@ -25,8 +28,14 @@ function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
             title
             description
             author
-            image
             siteUrl
+          }
+        }
+        defaultImage: allFile(filter: { relativePath: { eq: "image.png" } }) {
+          edges {
+            node {
+              publicURL
+            }
           }
         }
       }
@@ -36,7 +45,7 @@ function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
   const metaDescription = description || site.siteMetadata.description
   const metaImage = resolve(
     site.siteMetadata.siteUrl,
-    image || site.siteMetadata.image
+    image || defaultImage.edges[0].node.publicURL
   )
 
   return (

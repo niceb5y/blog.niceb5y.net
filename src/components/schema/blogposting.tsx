@@ -1,6 +1,8 @@
 import React from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
-import { Site } from '../../entities'
+import { resolve } from 'url'
+
+import { Site, Asset } from '../../entities'
 
 interface BlogPostingProps {
   postTitle: string
@@ -17,7 +19,11 @@ const BlogPosting = ({
   postModDate,
   postUrl
 }: BlogPostingProps) => {
-  const data: { site: Site } = useStaticQuery(graphql`
+  const data: {
+    site: Site
+    defaultImage: Asset
+    icon: Asset
+  } = useStaticQuery(graphql`
     query schemaBlogPostingQuery {
       site {
         siteMetadata {
@@ -27,8 +33,31 @@ const BlogPosting = ({
           siteUrl
         }
       }
+      defaultImage: allFile(filter: { relativePath: { eq: "image.png" } }) {
+        edges {
+          node {
+            publicURL
+          }
+        }
+      }
+      icon: allFile(filter: { relativePath: { eq: "icon.png" } }) {
+        edges {
+          node {
+            publicURL
+          }
+        }
+      }
     }
   `)
+
+  const metaImage = resolve(
+    data.site.siteMetadata.siteUrl,
+    data.defaultImage.edges[0].node.publicURL
+  )
+  const metaIcon = resolve(
+    data.site.siteMetadata.siteUrl,
+    data.icon.edges[0].node.publicURL
+  )
 
   return (
     <script
@@ -49,10 +78,10 @@ const BlogPosting = ({
             name: data.site.siteMetadata.title,
             logo: {
               '@type': 'ImageObject',
-              url: `${data.site.siteMetadata.siteUrl}/images/icon.png`
+              url: metaIcon
             }
           },
-          image: [`${data.site.siteMetadata.siteUrl}/images/blog.png`],
+          image: [metaImage],
           datePublished: postDate,
           dateModified: postModDate,
           mainEntityOfPage: {

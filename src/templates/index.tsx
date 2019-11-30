@@ -18,7 +18,6 @@ const PageIndex = ({
   }
   pageContext: PageIndexContext
 }) => {
-  console.log(data)
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
   const { pageCurrent, pageTotal } = pageContext

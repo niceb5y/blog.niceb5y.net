@@ -48,10 +48,17 @@ export interface Site {
     author: string
     description: string
     siteUrl: string
-    image: string
     social: {
       twitter: string
     }
     copyright: string
   }
+}
+
+export interface Asset {
+  edges: Array<{
+    node: {
+      publicURL: string
+    }
+  }>
 }
