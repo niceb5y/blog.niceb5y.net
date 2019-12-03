@@ -16,7 +16,14 @@ const Footer = () => {
   return (
     <footer className="pt-3 pb-5 text-center">
       <hr />
-      <p>{data.site.siteMetadata.copyright}</p>
+      <p>
+        <span>{data.site.siteMetadata.copyright}</span>
+        <span className="mx-3" />
+        <span>
+          <a href="https://www.buymeacoffee.com/niceb5y">Buy me a Coffee</a>
+        </span>
+      </p>
+
       <noscript key="noscript" id="gatsby-noscript">
         <p>이 블로그는 JavaScript를 사용할 때 더 좋은 경험을 제공합니다.</p>
       </noscript>
