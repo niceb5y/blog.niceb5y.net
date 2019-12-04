@@ -4,6 +4,7 @@ date: 2019-07-27T14:30:44+09:00
 title: '생존 신고'
 url: '/still-alive/'
 description: (대충 블로그의 존재를 잊어먹지 않았다는 내용.)
+featuredImage: ../../assets/image.png
 ---
 
 오랫동안 글이 없었습니다. 간만에 생각난 기념으로 쓰는 뻘글입니다.

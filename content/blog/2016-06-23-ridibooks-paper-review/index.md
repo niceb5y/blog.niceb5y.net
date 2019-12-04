@@ -4,6 +4,7 @@ date: 2016-06-23T12:00:00+09:00
 title: 리디북스 페이퍼 사용기
 url: /ridibooks-paper-review/
 description: 첫 전자책 단말기를 사보았습니다.
+featuredImage: ./01.jpg
 ---
 
 ![리디북스 페이퍼](01.jpg)

@@ -4,6 +4,7 @@ date: 2018-04-25T20:35:00+09:00
 title: '한국어 구글 어시스턴트 소감'
 url: '/google-assistant-korean-review/'
 description: 한국어를 잘못 배운 구글 어시스턴트.
+featuredImage: ./01.jpg
 ---
 
 얼마 전, 구글 홈이 [전파인증을 받았다는 소식](http://rra.go.kr/ko/license/A_b_popup_mobile.do?app_no=201817210000075818)이 있었습니다.

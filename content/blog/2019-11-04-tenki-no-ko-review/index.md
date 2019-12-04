@@ -4,6 +4,7 @@ date: 2019-11-04T21:27:26+09:00
 title: 「날씨의 아이」를 봤습니다.
 url: /tenki-no-ko-review/
 description: '"지금부터 하늘이 맑아질 거야."'
+featuredImage: ./01.jpg
 ---
 
 ![날씨의 아이 © Makoto Shinkai / CoMix Wave Films](01.jpg)

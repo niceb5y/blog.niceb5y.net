@@ -4,6 +4,7 @@ date: 2014-09-11T12:00:00+09:00
 title: 외국인 노동자의 인권을 유린하는 애플
 url: /free-jony-ive/
 description: 조니 아이브를 하얀 방에서 풀어주세요.
+featuredImage: ./01.jpg
 ---
 
 **※ 이 포스트는 전혀 사실이 아닙니다.**

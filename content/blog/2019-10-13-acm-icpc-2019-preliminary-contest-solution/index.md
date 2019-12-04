@@ -4,6 +4,7 @@ date: 2019-10-13T02:41:54.95+09:00
 title: 'ACM ICPC 2019 예선 풀이'
 url: '/acm-icpc-2019-preliminary-contest-solution/'
 description: 떨어지긴 했지만 문제는 풀었거든요.
+featuredImage: ../../assets/image.png
 ---
 
 ## 개요

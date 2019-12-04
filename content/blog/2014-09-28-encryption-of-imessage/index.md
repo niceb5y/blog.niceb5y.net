@@ -4,6 +4,7 @@ date: 2014-09-28T12:00:00+09:00
 title: iMessage의 암호화 방법
 url: /encryption-of-imessage/
 description: iMessage는 과연 도청에서 안전할까요?
+featuredImage: ./03.png
 ---
 
 ![Apple iMessage](01.png)

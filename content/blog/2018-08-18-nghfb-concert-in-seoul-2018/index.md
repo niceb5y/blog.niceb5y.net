@@ -4,6 +4,7 @@ date: 2018-08-18T19:59:21+09:00
 title: "Noel Gallagher's High Flying Birds 2018 내한공연 후기"
 url: '/NGHFB-concert-in-seoul-2018/'
 description: 높나새 공연 관람했다고 자랑하는 글.
+featuredImage: ./05.jpg
 ---
 
 지난 16일(2018년 8월) Noel Gallagher's High Flying Birds(노엘 갤러거즈 하이 플라잉 버즈, a.k.a. 하플버, 높나새)의 공연을 보고 왔습니다.

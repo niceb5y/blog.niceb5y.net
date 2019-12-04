@@ -4,6 +4,7 @@ date: 2016-01-20T12:00:00+09:00
 title: 포스팅 이전
 url: /transferring-blog/
 description: 마이그레이션은 언제나 쉽지 않습니다.
+featuredImage: ../../assets/image.png
 ---
 
 a.k.a. 오늘의 뻘글

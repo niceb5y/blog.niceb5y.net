@@ -4,6 +4,7 @@ date: 2016-07-27T12:00:00+09:00
 title: 쉽게 React 개발환경 구축하기
 url: /set-up-react-development-environment-easily/
 description: Webpack 설정으로 고통받지 않는 방법.
+featuredImage: ../../assets/image.png
 ---
 
 React는 요즘 제일 인기가 많은 Javascript framework가 아닌가 싶습니다.

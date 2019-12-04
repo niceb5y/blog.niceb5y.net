@@ -4,6 +4,7 @@ date: 2015-05-25T12:00:00+09:00
 title: NDC 2015 참관기 - 2일차
 url: /ndc-2015-day-two/
 description: 태어나서 두 번째로 넥슨 가 본 이야기.
+featuredImage: ./03.jpg
 ---
 
 ![2일차 판교](01.jpg)

@@ -4,6 +4,7 @@ date: 2018-08-11T00:31:30+09:00
 title: 'LIFX 스마트 LED 전구 리뷰'
 url: '/lifx-smart-led-bulb-review/'
 description: '"빛이 있으라." (원격으로)'
+featuredImage: ./01.jpg
 ---
 
 ![LIFX 전구](01.jpg)

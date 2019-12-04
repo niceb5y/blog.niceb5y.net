@@ -4,6 +4,7 @@ date: 2018-12-13T23:05:15+09:00
 title: '가장 좋아하는 밴드의 가장 끔찍한 행동'
 url: '/the-most-terrible-act-of-my-most-favorite-band/'
 description: 아무리 블루레이가 망했어도 그렇지....
+featuredImage: ./01.jpg
 ---
 
 ![Coldplay Live In Buenos Aires LP DVD](01.jpg)

@@ -23,11 +23,16 @@ const PagePost = ({
   const postUrl = frontmatter.url
   const postDate = frontmatter.date
   const postModDate = post.parent.modifiedTime
+  const featuredImage = post.frontmatter.featuredImage.publicURL
   const { previous, next } = pageContext
 
   return (
     <Layout>
-      <SEO title={postTitle} description={postDescription} />
+      <SEO
+        title={postTitle}
+        description={postDescription}
+        image={featuredImage}
+      />
       <SchemaBreadcrumbList
         list={[
           {
@@ -96,6 +101,9 @@ export const postQuery = graphql`
         description
         categories
         url
+        featuredImage {
+          publicURL
+        }
       }
       parent {
         ... on File {

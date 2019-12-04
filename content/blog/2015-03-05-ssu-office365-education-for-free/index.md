@@ -4,6 +4,7 @@ date: 2015-03-05T12:00:00+09:00
 title: 숭실대학교 학생들을 위한 Office 365 Education 무료 사용법
 url: /ssu-office365-education-for-free/
 description: 합법적. 무료. Profit.
+featuredImage: ./02.png
 ---
 
 ## **[중요] 가입 방법이 변경되었습니다. [[여기]](http://cloud.soongsil.ac.kr/)를 대신 이용하세요.**

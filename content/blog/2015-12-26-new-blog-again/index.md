@@ -4,6 +4,7 @@ date: 2015-12-26T12:00:00+09:00
 title: 다시(...) 새로운 블로그
 url: /new-blog-again/
 description: 저도 정적 블로그 쓸래요. by Jekyll
+featuredImage: ../../assets/image.png
 ---
 
 워드프레스를 처음 사용할 때만 해도 (언제나 그랬듯)바꾸지 않고 오래오래 써야겠다는 생각을 가졌었다.

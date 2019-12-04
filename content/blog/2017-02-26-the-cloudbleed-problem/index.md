@@ -4,6 +4,7 @@ date: 2017-02-26T12:00:00+09:00
 title: Cloudbleed 문제
 url: /the-cloudbleed-problem/
 description: 어느 것이든 쉽게 믿을 수 없습니다.
+featuredImage: ../../assets/image.png
 ---
 
 23일 저녁만 하더라도, 다음 날의 보안 관련 뉴스 중에서는 [SHA-1의 충돌쌍 발견](https://blog.niceb5y.net/the-first-SHA1-collision-announced/)이 가장 큰 뉴스일 줄 알았습니다.

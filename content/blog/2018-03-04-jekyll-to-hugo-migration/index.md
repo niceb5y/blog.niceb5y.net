@@ -4,6 +4,7 @@ date: 2018-03-04T21:28:56+09:00
 title: 'Jekyll에서 Hugo로 이주'
 url: /jekyll-to-hugo-migration/
 description: 변덕은 그치지 않습니다.
+featuredImage: ../../assets/image.png
 ---
 
 한번 더 변덕을 부려봤습니다.

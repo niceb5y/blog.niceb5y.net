@@ -4,6 +4,7 @@ date: 2017-01-10T12:00:00+09:00
 title: 「너의이름은.」을 봤습니다.
 url: /kimi-no-na-wa-review/
 description: '"아직 만난 적 없는 너를, 찾고 있어."'
+featuredImage: ./01.jpg
 ---
 
 ![너의 이름은. © Makoto Shinkai / CoMix Wave Films](01.jpg)

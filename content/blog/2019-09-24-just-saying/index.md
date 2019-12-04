@@ -4,6 +4,7 @@ date: 2019-09-24T01:42:38+09:00
 title: '그냥 해봤던 말이에요(?)'
 url: '/just-saying/'
 description: 저번 포스트엔 방학동안 열심히 블로그 써보겠다고 했지만....
+featuredImage: ../../assets/image.png
 ---
 
 > 어쨌든 남은 방학에는 글들을 좀 열심히 써볼까 합니다.

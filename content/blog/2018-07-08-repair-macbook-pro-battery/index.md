@@ -4,6 +4,7 @@ date: 2018-07-08T20:28:56+09:00
 title: '맥북 프로 배터리 수리'
 url: '/repair-macbook-pro-battery/'
 description: 우주도 팽창하지만, 이 배터리는 더 빨리 팽창합니다.
+featuredImage: ./03.jpg
 ---
 
 아실 분들은 다 아시겠지만, 집에 사과 농장을 기르고 있는 저답게 제 메인 컴퓨터는 15인치 맥북 프로(Late 2013)을 사용하고 있습니다.

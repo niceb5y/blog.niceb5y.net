@@ -4,6 +4,7 @@ date: 2015-05-27T12:00:00+09:00
 title: NDC 2015 참관기 - 3일차
 url: /ndc-2015-day-three/
 description: 태어나서 세 번째로 넥슨 가 본 이야기.
+featuredImage: ./01.jpg
 ---
 
 ![3일차 넥슨](01.jpg)

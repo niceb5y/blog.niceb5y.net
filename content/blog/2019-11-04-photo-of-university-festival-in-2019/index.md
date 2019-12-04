@@ -4,6 +4,7 @@ date: 2019-11-04T20:46:21.49+09:00
 title: '2019 학교 축제 사진들'
 url: '/photo-of-university-festival-in-2019/'
 description: '모 교수님 말씀하시길, "축제를 가다니, 과제가 적구나?"'
+featuredImage: ./06.jpg
 ---
 
 인스타그램에 올리고 대충 지나갔었는데, 블로그에도 한번 남겨볼까 싶어서 몇 장만.

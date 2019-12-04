@@ -18,6 +18,9 @@ export interface Frontmatter {
   url: string
   categories: string
   date: string
+  featuredImage: {
+    publicURL: string
+  }
 }
 
 export interface MarkdownRemark {

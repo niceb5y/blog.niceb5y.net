@@ -4,6 +4,7 @@ date: 2016-01-30T12:00:00+09:00
 title: 애플 펜슬 리뷰
 url: /apple-pencil-review/
 description: 사과 로고가 그려진 플라스틱 연필을 샀습니다.
+featuredImage: ./03.jpg
 ---
 
 ![애플 펜슬](01.jpg)

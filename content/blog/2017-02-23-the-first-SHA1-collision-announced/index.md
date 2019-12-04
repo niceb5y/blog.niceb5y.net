@@ -4,6 +4,7 @@ date: 2017-02-23T12:00:00+09:00
 title: 첫 SHA-1 충돌이 발표되다.
 url: /the-first-SHA1-collision-announced/
 description: SHA-1이 죽었습니다.
+featuredImage: ../../assets/image.png
 ---
 
 [CWI Institute in Amsterdam](https://www.cwi.nl)과 구글에서 첫 SHA-1의 충돌을 발견했다고 [발표](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)했습니다.

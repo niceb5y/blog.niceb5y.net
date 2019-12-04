@@ -4,6 +4,7 @@ date: 2018-11-18T00:34:36+09:00
 title: '새로운 맥북 프로 구매'
 url: '/buy-a-new-macbook-pro/'
 description: USB-A가 모두 사라져버린 미래에서 온 노트북을 샀습니다.
+featuredImage: ./01.jpg
 ---
 
 ![2018년형 맥북 프로](01.jpg)

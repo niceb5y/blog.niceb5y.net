@@ -4,6 +4,7 @@ date: 2015-02-13T12:01:00+09:00
 title: GitHub 학생 개발자 팩
 url: /github-student-developer-pack/
 description: 사랑해요 GitHub.
+featuredImage: ./01.png
 ---
 
 ![GitHub 학생 개발자 팩](01.png)

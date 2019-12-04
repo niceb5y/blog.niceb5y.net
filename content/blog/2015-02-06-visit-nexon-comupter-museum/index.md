@@ -4,6 +4,7 @@ date: 2015-02-06T12:01:00+09:00
 title: 넥슨 컴퓨터 박물관 견학기
 url: /visit-nexon-comupter-museum/
 description: 키보드 와플 틀이 갖고싶어요.
+featuredImage: ./01.jpg
 ---
 
 블로그에 글 쓴지도 꽤 된 것 같아서, 그동안 밀렸던 글을 좀 쓸까 싶어서.

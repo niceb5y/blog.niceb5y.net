@@ -4,6 +4,7 @@ date: 2014-12-23T12:00:00+09:00
 title: 숭실대 웹사이트 로그인 URL
 url: /ssu-website-login-url/
 description: 숭실대 웹사이트들의 로그인에서 더이상 고통받지 않는 방법.
+featuredImage: ../../assets/image.png
 ---
 
 자주 쓰는 유세인트나 이캠퍼스가 로그인이 여간 귀찮은게 아니라서 고통받다가... 로그인 URL을 구했습니다.

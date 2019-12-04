@@ -4,6 +4,7 @@ date: 2015-10-02T12:00:00+09:00
 title: Sandisk Cruzer Extreme USB 3.0 CZ80
 url: /sandisk-cruzer-extreme-usb-3-0-cz80/
 description: 있어도 잘 안 쓰지만, 없으면 아쉬운.
+featuredImage: ./04.jpg
 ---
 
 사실 요즘 USB 메모리를 쓸 일이 별로 없습니다.

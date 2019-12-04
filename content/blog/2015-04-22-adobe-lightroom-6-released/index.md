@@ -4,6 +4,7 @@ date: 2015-04-22T12:00:00+09:00
 title: Adobe Lightroom 6 출시
 url: /adobe-lightroom-6-released/
 description: 새 버전이 나왔는데 왜 사용을 못하니.
+featuredImage: ./01.png
 ---
 
 Adobe Lightroom 6이 출시되었습니다.

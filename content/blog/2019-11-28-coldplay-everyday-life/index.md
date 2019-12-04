@@ -4,6 +4,7 @@ date: 2019-11-28T23:28:23+09:00
 title: Coldplay - Everyday Life 구매
 url: /coldplay-everyday-life/
 description: 애플 뮤직으로 진작부터 듣고 있었지만, 앨범으로 산 이야기.
+featuredImage: ./01.jpg
 ---
 
 ![Everyday Life 표지](01.jpg)

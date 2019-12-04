@@ -4,6 +4,7 @@ date: 2014-09-11T12:02:00+09:00
 title: iPhone 6, Apple Watch에 대한 단상
 url: /thought-of-iphone6-and-apple-watch/
 description: iPhone 6과 Apple Watch를 보고 느낀 것들.
+featuredImage: ./01.jpg
 ---
 
 한국 시간으로 10일 오전 2시 애플은 미디어 이벤트를 가졌습니다.

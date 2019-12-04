@@ -4,6 +4,7 @@ date: 2015-03-07T12:00:00+09:00
 title: OSX용 Office Preview 첫느낌
 url: /firstlook-of-office-preview-for-osx/
 description: OSX를 위한 새로운 오피스를 체험해봤습니다.
+featuredImage: ./01.jpg
 ---
 
 ![Word](01.jpg)

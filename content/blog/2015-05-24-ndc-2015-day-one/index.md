@@ -4,6 +4,7 @@ date: 2015-05-24T12:00:00+09:00
 title: NDC 2015 참관기 - 1일차
 url: /ndc-2015-day-one/
 description: 태어나서 처음으로 넥슨 가 본 이야기.
+featuredImage: ./04.jpg
 ---
 
 기왕 NDC를 다녀왔으니 뭔가를 남겨야 할 것 같아서 간단한 포스팅이나 해보려 합니다.

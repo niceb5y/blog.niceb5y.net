@@ -4,6 +4,7 @@ date: 2016-07-12T12:00:00+09:00
 title: Node.js 기반 ComicGlass 서버
 url: /unofficial-node-comicglass-server/
 description: ComicGlass 미디어 서버를 Node.js로 구현하기.
+featuredImage: ../../assets/image.png
 ---
 
 이런 저런(?) 것들을 보는데, ComicGlass를 잘 사용했었습니다.

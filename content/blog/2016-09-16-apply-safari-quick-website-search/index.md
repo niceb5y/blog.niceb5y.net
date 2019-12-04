@@ -4,6 +4,7 @@ date: 2016-09-16T12:00:00+09:00
 title: Safari ‘빠른 웹 사이트 검색’ 적용하기
 url: /apply-safari-quick-website-search/
 description: 웹 사이트 검색과 주소창을 연결하는 방법을 알아봅니다.
+featuredImage: ./02.png
 ---
 
 애플은 사파리8에 **빠른 웹 사이트 검색** 이란 기능을 [추가](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_8_0.html)했습니다.

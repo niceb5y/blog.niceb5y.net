@@ -4,6 +4,7 @@ date: 2015-01-03T12:00:00+09:00
 title: Sandisk Extreme PRO UHS-I U3 SD Card
 url: /sandisk-extreme-pro-uhs-u3-sd-card/
 description: 95MB/s를 지원하는 메모리카드를 구입하다.
+featuredImage: ./01.jpg
 ---
 
 ![SD 카드 박스](01.jpg)

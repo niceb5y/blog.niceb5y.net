@@ -4,6 +4,7 @@ date: 2019-11-06T14:05:16+09:00
 title: 이번엔 Gatsby
 url: /gatsby-now/
 description: 블로그 이전이 취미가 되어버린 블로그.
+featuredImage: ../../assets/image.png
 ---
 
 블로그 이전을 심심하면 하는 본 블로그답게, 이번에도 저질러 버렸습니다.

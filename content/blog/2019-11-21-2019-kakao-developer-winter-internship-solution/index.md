@@ -4,6 +4,7 @@ date: 2019-11-21T02:30:25+09:00
 title: 2019 카카오 개발자 겨울 인턴십 코딩 테스트 풀이
 url: /2019-kakao-developer-winter-internship-solution/
 description: 살다 살다 코딩 테스트 문제를 다 푸는 날이 다 옵니다.
+featuredImage: ./01.png
 ---
 
 ![2019 카카오 개발자 겨울 인턴십](01.png)

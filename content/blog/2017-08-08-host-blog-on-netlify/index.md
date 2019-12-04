@@ -4,6 +4,7 @@ date: 2017-08-08T12:00:00+09:00
 title: Netlify에 블로그 호스팅
 url: /host-blog-on-netlify/
 description: 또 블로그 옮긴 이야기.
+featuredImage: ../../assets/image.png
 ---
 
 이 블로그도 이제 나름 2014년부터 4년 정도의 역사를 가지게 됐군요.
