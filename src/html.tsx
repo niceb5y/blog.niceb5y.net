@@ -19,7 +19,7 @@ const HTML = (props: HTMLProps) => (
         content="width=device-width, initial-scale=1, shrink-to-fit=no"
       />
       <meta name="referrer" content="origin-when-cross-origin" />
-      <link rel="stylesheet" href="https://cdn.shk.im/webcore/v19.css" />
+      <link rel="stylesheet" href="https://cdn.shk.im/webcore/v20.css" />
       <link rel="alternate" type="application/rss+xml" href="/index.xml" />
       {props.headComponents}
     </head>
@@ -31,7 +31,7 @@ const HTML = (props: HTMLProps) => (
         dangerouslySetInnerHTML={{ __html: props.body }}
       />
       {props.postBodyComponents}
-      <script async src="https://cdn.shk.im/webcore/v19.js"></script>
+      <script async src="https://cdn.shk.im/webcore/v20.js"></script>
     </body>
   </html>
 )
