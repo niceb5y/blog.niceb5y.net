@@ -32,6 +32,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       fallbackExclusionList: [['niceb5y-blog', ['workspace:.']]],
       fallbackPool: [
         ['@babel/core', 'npm:7.10.4'],
+        ['@babel/types', 'npm:7.10.4'],
         ['@types/node', 'npm:14.0.14'],
         ['@types/react', 'npm:16.9.41'],
         ['@types/react-dom', 'npm:16.9.8'],
@@ -152,6 +153,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                 packageLocation: './',
                 packageDependencies: [
                   ['@babel/core', 'npm:7.10.4'],
+                  ['@babel/types', 'npm:7.10.4'],
                   ['@types/node', 'npm:14.0.14'],
                   ['@types/react', 'npm:16.9.41'],
                   ['@types/react-dom', 'npm:16.9.8'],
@@ -23146,6 +23148,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
                 packageDependencies: [
                   ['niceb5y-blog', 'workspace:.'],
                   ['@babel/core', 'npm:7.10.4'],
+                  ['@babel/types', 'npm:7.10.4'],
                   ['@types/node', 'npm:14.0.14'],
                   ['@types/react', 'npm:16.9.41'],
                   ['@types/react-dom', 'npm:16.9.8'],
