@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://blog.niceb5y.net/sitemap.xml
+
+DaumWebMasterTool:52fa088331765943058d42b9ae3e7f7a6a5f9a7632b2a1b6e727748882d8b6b1:tD36YQa77SCUoZiwICbOPg==
