@@ -10,7 +10,7 @@ import { AllMarkdownRemark, Site, PageIndexContext } from '../entities'
 
 const PageIndex = ({
   data,
-  pageContext
+  pageContext,
 }: {
   data: {
     site: Site
@@ -29,19 +29,19 @@ const PageIndex = ({
         list={[
           {
             name: 'All Posts',
-            item: `/`
+            item: `/`,
           },
           {
             name: `Page ${pageCurrent}`,
-            item: `${pageCurrent > 1 ? `/page${pageCurrent}` : `/`}`
-          }
+            item: `${pageCurrent > 1 ? `/page${pageCurrent}` : `/`}`,
+          },
         ]}
       />
       <PostList
         list={posts}
         pageCurrent={pageCurrent}
         pageTotal={pageTotal}
-        pagePrefix={`/`}
+        pagePrefix=""
       />
     </Layout>
   )

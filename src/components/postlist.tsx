@@ -7,7 +7,7 @@ const PostList = ({
   list,
   pageCurrent,
   pageTotal,
-  pagePrefix
+  pagePrefix,
 }: {
   list: Array<Edge>
   pageCurrent: number
@@ -37,7 +37,7 @@ const PostList = ({
             <p
               className="card-text"
               dangerouslySetInnerHTML={{
-                __html: node.frontmatter.description
+                __html: node.frontmatter.description,
               }}
             />
           </div>
