@@ -58,7 +58,7 @@
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop -p 3000",
-    "format": "prettier --write \"{content, src}/**/*.{js,jsx,json,md,tsx}\"",
+    "format": "prettier --write \"{content,src}/**/*.{js,jsx,json,md,tsx}\"",
     "start": "gatsby develop -p 3000",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
