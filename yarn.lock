@@ -1855,6 +1855,11 @@
     "@types/glob" "*"
     "@types/node" "*"
 
+"@types/scrollbooster@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@types/scrollbooster/-/scrollbooster-2.2.0.tgz#693b4d28b8e5c39f7c3b6d47c36b831845e67614"
+  integrity sha512-iBGrekrufKgkBO2c0hoFbkJ0tFPHXrejC9SSsqG7zIPZzmn9qAG8b5zrlT/Oc9ooHz45g3CRna7/9sMP4wClIA==
+
 "@types/tmp@^0.0.33":
   version "0.0.33"
   resolved "https://registry.yarnpkg.com/@types/tmp/-/tmp-0.0.33.tgz#1073c4bc824754ae3d10cfab88ab0237ba964e4d"
@@ -12659,6 +12664,11 @@ schema-utils@^3.0.0:
     "@types/json-schema" "^7.0.6"
     ajv "^6.12.5"
     ajv-keywords "^3.5.2"
+
+scrollbooster@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/scrollbooster/-/scrollbooster-3.0.2.tgz#c1f0da4322321a165c70751b51e13f62177f26be"
+  integrity sha512-WZjvtSxCgCEbfc+9DmxfhuK6ACOqQr3jymniIp4I9Hh0mIEK1CKS4t+d7iPdeuILP5Q/we13h4YUHD0o+gPiRg==
 
 scss-tokenizer@^0.2.3:
   version "0.2.3"

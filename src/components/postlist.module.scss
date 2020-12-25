@@ -1,0 +1,29 @@
+.card {
+  margin-bottom: 40px;
+  h3 {
+    margin-top: 24px;
+    margin-bottom: 8px;
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  p {
+    margin: 0;
+    margin-bottom: 8px;
+    a {
+      margin-right: 8px;
+    }
+  }
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 16px;
+  span {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}

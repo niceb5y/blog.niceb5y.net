@@ -1,0 +1,56 @@
+.root {
+  height: 50px;
+  margin: 0 auto;
+  line-height: 50px;
+
+  a {
+    text-decoration: none;
+    color: #383a42;
+    font-size: 24px;
+    &.brand {
+      color: #0075c1;
+      margin-right: 24px;
+      &:hover {
+        color: lighten(#0075c1, 10%);
+      }
+    }
+  }
+
+  div {
+    display: inline-block;
+    ul {
+      list-style: none;
+      padding: 0;
+      display: inline-block;
+      li {
+        display: inline-block;
+        a {
+          font-size: 16px;
+          margin-right: 16px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .root {
+    height: 75px;
+    a.brand {
+      display: block;
+      height: 50px;
+      line-height: 50px;
+    }
+    div {
+      width: 100%;
+      overflow: hidden;
+      ul {
+        display: block;
+        white-space: nowrap;
+        line-height: 25px;
+        height: 25px;
+        margin: 0;
+      }
+    }
+  }
+}

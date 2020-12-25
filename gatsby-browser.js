@@ -1,2 +1,2 @@
 require('prismjs/themes/prism-okaidia.css')
-require('./src/style.scss')
+require('./src/global.scss')

@@ -1,6 +1,5 @@
-import React from 'react'
 import { Link, graphql } from 'gatsby'
-
+import styles from './posts.module.scss'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import SchemaBreadcrumbList from '../components/schema/breadcrumblist'
@@ -10,7 +9,7 @@ import { MarkdownRemark, PagePostContext } from '../entities'
 
 const PagePost = ({
   data,
-  pageContext
+  pageContext,
 }: {
   data: { markdownRemark: MarkdownRemark }
   pageContext: PagePostContext
@@ -37,12 +36,12 @@ const PagePost = ({
         list={[
           {
             name: postCategories,
-            item: `/categories/${postCategories}/`
+            item: `/categories/${postCategories}/`,
           },
           {
             name: postTitle,
-            item: `${postUrl}`
-          }
+            item: `${postUrl}`,
+          },
         ]}
       />
       <SchemaBlogPosting
@@ -53,11 +52,11 @@ const PagePost = ({
         postModDate={postModDate}
       />
       <article>
-        <header>
+        <header className={styles.header}>
           <h1>{postTitle}</h1>
-          <p className="text-muted">
+          <p>
             <Link
-              className={`cat-${postCategories} mr-2`}
+              className={`cat-${postCategories}`}
               to={`/categories/${postCategories}/`}
             >
               {postCategories}
@@ -67,18 +66,18 @@ const PagePost = ({
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
-      <div className="mt-5">
+      <div className={styles.footer}>
         {next && (
-          <div className="py-2">
-            <span className="icon icon-chevron-up" /> 다음 글 -{' '}
+          <div>
+            다음 글 -{' '}
             <Link to={next.frontmatter.url} rel="next">
               {next.frontmatter.title}
             </Link>
           </div>
         )}
         {previous && (
-          <div className="py-2">
-            <span className="icon icon-chevron-down" /> 이전 글 -{' '}
+          <div>
+            이전 글 -{' '}
             <Link to={previous.frontmatter.url} rel="prev">
               {previous.frontmatter.title}
             </Link>

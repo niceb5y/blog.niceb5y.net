@@ -1,6 +1,7 @@
-import React from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
-
+import ScrollBooster from 'scrollbooster'
+import styles from './header.module.scss'
 import { Site, CategoriesGroup } from '../entities'
 
 const Header = () => {
@@ -21,39 +22,63 @@ const Header = () => {
       }
     }
   `)
+  const debounce = useRef<number>(null) as React.MutableRefObject<number>
+  const viewport = useRef<HTMLDivElement>(null)
+  const [scrollAvailable, setScrollAvailable] = useState(false)
+
+  useEffect(() => {
+    if (!scrollAvailable) return
+    const sb = new ScrollBooster({
+      viewport: viewport.current,
+      scrollMode: 'transform',
+      direction: 'horizontal',
+    })
+    return () => {
+      sb.setPosition({ x: 0 })
+      sb.destroy()
+    }
+  }, [scrollAvailable])
+
+  useEffect(() => {
+    const resizeHandler = () => {
+      if (!viewport.current) return
+      if (debounce.current) {
+        window.clearTimeout(debounce.current)
+      }
+      const { scrollWidth, clientWidth } = viewport.current
+      debounce.current = window.setTimeout(() => {
+        setScrollAvailable(scrollWidth !== clientWidth)
+      }, 250)
+    }
+    window.addEventListener('resize', resizeHandler)
+    return () => window.removeEventListener('resize', resizeHandler)
+  }, [])
+
+  useEffect(() => {
+    if (!viewport.current) return
+    setScrollAvailable(
+      viewport.current.scrollWidth !== viewport.current.clientWidth
+    )
+  }, [viewport.current])
 
   return (
-    <nav className="navbar-expand-sm navbar navbar-light my-4 px-0">
-      <Link className="navbar-brand mr-auto text-primary" to="/">
+    <nav className={styles.root}>
+      <Link className={styles.brand} to="/">
         {data.site.siteMetadata.title}
       </Link>
-      <button
-        className="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarNav"
-        aria-controls="navbarNav"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span className="icon icon-menu"></span>
-      </button>
-      <div className="collapse navbar-collapse" id="navbarNav">
-        <ul className="navbar-nav pl-3">
-          {data.categoriesGroup.group.map(elem => {
-            const category = elem.fieldValue
-            return (
-              <li className="nav-item" key={category}>
-                <Link
-                  className={`nav-link nav-${category}`}
-                  activeClassName="active"
-                  to={`/categories/${category}/`}
-                >
-                  {category}
-                </Link>
-              </li>
-            )
-          })}
+      <div ref={viewport}>
+        <ul>
+          {data.categoriesGroup.group.map((elem) => (
+            <li key={elem.fieldValue}>
+              <Link
+                className={`nav-${elem.fieldValue}`}
+                activeClassName="active"
+                to={`/categories/${elem.fieldValue}/`}
+              >
+                {elem.fieldValue}
+              </Link>
+            </li>
+          ))}
         </ul>
       </div>
     </nav>

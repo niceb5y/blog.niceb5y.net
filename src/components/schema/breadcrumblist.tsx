@@ -1,4 +1,3 @@
-import React from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import { resolve } from 'url'
 
@@ -33,16 +32,16 @@ const BreadcrumbList = ({ list }: BreadcrumbListProps) => {
           itemListElement: [
             {
               name: data.site.siteMetadata.title,
-              item: '/'
+              item: '/',
             },
-            ...list
+            ...list,
           ].map((elem, idx) => ({
             '@type': 'ListItem',
             position: idx + 1,
             name: elem.name,
-            item: resolve(data.site.siteMetadata.siteUrl, elem.item)
-          }))
-        })
+            item: resolve(data.site.siteMetadata.siteUrl, elem.item),
+          })),
+        }),
       }}
     />
   )

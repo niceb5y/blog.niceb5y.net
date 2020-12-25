@@ -1,5 +1,4 @@
-import React from 'react'
-import Helmet from 'react-helmet'
+import { Helmet } from 'react-helmet'
 import { useStaticQuery, graphql } from 'gatsby'
 import { resolve } from 'url'
 
@@ -19,7 +18,7 @@ interface SEOProps {
 function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
   const {
     site,
-    defaultImage
+    defaultImage,
   }: { site: Site; defaultImage: Asset } = useStaticQuery(
     graphql`
       query seoQuery {
@@ -51,7 +50,7 @@ function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
   return (
     <Helmet
       htmlAttributes={{
-        lang
+        lang,
       }}
       title={title}
       titleTemplate={
@@ -62,44 +61,44 @@ function SEO({ description, lang = 'ko', meta = [], title, image }: SEOProps) {
       meta={[
         {
           name: `description`,
-          content: metaDescription
+          content: metaDescription,
         },
         {
           property: `og:title`,
-          content: title
+          content: title,
         },
         {
           property: `og:description`,
-          content: metaDescription
+          content: metaDescription,
         },
         {
           property: `og:image`,
-          content: metaImage
+          content: metaImage,
         },
         {
           property: `og:type`,
-          content: `website`
+          content: `website`,
         },
         {
           name: `twitter:card`,
-          content: `summary_large_image`
+          content: `summary_large_image`,
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author
+          content: site.siteMetadata.author,
         },
         {
           name: `twitter:title`,
-          content: title
+          content: title,
         },
         {
           name: `twitter:description`,
-          content: metaDescription
+          content: metaDescription,
         },
         {
           name: `twitter:image`,
-          content: metaImage
-        }
+          content: metaImage,
+        },
       ].concat(meta)}
     />
   )

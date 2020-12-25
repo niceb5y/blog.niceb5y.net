@@ -1,4 +1,3 @@
-import React from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import { resolve } from 'url'
 
@@ -17,7 +16,7 @@ const BlogPosting = ({
   postDescription,
   postDate,
   postModDate,
-  postUrl
+  postUrl,
 }: BlogPostingProps) => {
   const data: {
     site: Site
@@ -71,24 +70,24 @@ const BlogPosting = ({
           description: postDescription,
           author: {
             '@type': 'Person',
-            name: data.site.siteMetadata.author
+            name: data.site.siteMetadata.author,
           },
           publisher: {
             '@type': 'Organization',
             name: data.site.siteMetadata.title,
             logo: {
               '@type': 'ImageObject',
-              url: metaIcon
-            }
+              url: metaIcon,
+            },
           },
           image: [metaImage],
           datePublished: postDate,
           dateModified: postModDate,
           mainEntityOfPage: {
             '@type': 'WebPage',
-            '@id': `${data.site.siteMetadata.siteUrl}${postUrl}`
-          }
-        })
+            '@id': `${data.site.siteMetadata.siteUrl}${postUrl}`,
+          },
+        }),
       }}
     />
   )

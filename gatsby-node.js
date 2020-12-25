@@ -45,8 +45,8 @@ exports.createPages = async ({ graphql, actions }) => {
       context: {
         url: post.node.frontmatter.url,
         previous,
-        next
-      }
+        next,
+      },
     })
   })
 
@@ -60,16 +60,16 @@ exports.createPages = async ({ graphql, actions }) => {
         limit: postsPerPage,
         skip: i * postsPerPage,
         pageCurrent: i + 1,
-        pageTotal
-      }
+        pageTotal,
+      },
     })
   })
 
   const categories = result.data.categoriesGroup.group
-  categories.forEach(categories => {
+  categories.forEach((categories) => {
     const pageTotal = Math.ceil(
       posts.filter(
-        post => post.node.frontmatter.categories === categories.fieldValue
+        (post) => post.node.frontmatter.categories === categories.fieldValue
       ).length / postsPerPage
     )
     Array.from({ length: pageTotal }).forEach((_, i) => {
@@ -84,9 +84,18 @@ exports.createPages = async ({ graphql, actions }) => {
           skip: i * postsPerPage,
           categories: categories.fieldValue,
           pageCurrent: i + 1,
-          pageTotal
-        }
+          pageTotal,
+        },
       })
     })
+  })
+}
+
+exports.onCreateBabelConfig = ({ actions }) => {
+  actions.setBabelPlugin({
+    name: '@babel/plugin-transform-react-jsx',
+    options: {
+      runtime: 'automatic',
+    },
   })
 }

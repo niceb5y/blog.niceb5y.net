@@ -1,6 +1,5 @@
-import React from 'react'
 import { Link } from 'gatsby'
-
+import styles from './postlist.module.scss'
 import { Edge } from '../entities'
 
 const PostList = ({
@@ -15,57 +14,44 @@ const PostList = ({
   pagePrefix: string
 }) => (
   <div>
-    {list.map(({ node }) => {
-      const title = node.frontmatter.title || node.frontmatter.url
-      return (
-        <div className="card mb-3" key={node.frontmatter.url}>
-          <div className="card-body px-0 pt-0">
-            <h3 className="card-title">
-              <Link style={{ boxShadow: `none` }} to={node.frontmatter.url}>
-                {title}
-              </Link>
-            </h3>
-            <p className="card-subtitle mb-2 text-muted">
-              <Link
-                className={`cat-${node.frontmatter.categories} mr-2`}
-                to={`/categories/${node.frontmatter.categories}/`}
-              >
-                {node.frontmatter.categories}
-              </Link>
-              {node.frontmatter.date}
-            </p>
-            <p
-              className="card-text"
-              dangerouslySetInnerHTML={{
-                __html: node.frontmatter.description,
-              }}
-            />
-          </div>
-        </div>
-      )
-    })}
+    {list.map(({ node }) => (
+      <div className={styles.card} key={node.frontmatter.url}>
+        <h3>
+          <Link to={node.frontmatter.url}>
+            {node.frontmatter.title || node.frontmatter.url}
+          </Link>
+        </h3>
+        <p>
+          <Link
+            className={`cat-${node.frontmatter.categories}`}
+            to={`/categories/${node.frontmatter.categories}/`}
+          >
+            {node.frontmatter.categories}
+          </Link>
+          {node.frontmatter.date}
+        </p>
+        <p
+          dangerouslySetInnerHTML={{
+            __html: node.frontmatter.description,
+          }}
+        />
+      </div>
+    ))}
     {pageTotal > 1 && (
-      <div className="d-flex justify-content-between">
+      <div className={styles.pagination}>
         <Link
-          className={`btn btn-outline-primary ${
-            pageCurrent === 1 ? 'disabled' : ''
-          }`}
           to={
             pageCurrent > 2
               ? `${pagePrefix}/page${pageCurrent - 1}`
               : `${pagePrefix}/`
           }
         >
-          <span className="icon icon-chevron-left" />
           이전
         </Link>
-        <span className="py-1">
+        <span>
           {pageCurrent} / {pageTotal}
         </span>
         <Link
-          className={`btn btn-outline-primary ${
-            pageCurrent === pageTotal ? 'disabled' : ''
-          }`}
           to={
             pageCurrent < pageTotal
               ? `${pagePrefix}/page${pageCurrent + 1}`
@@ -73,7 +59,6 @@ const PostList = ({
           }
         >
           다음
-          <span className="icon icon-chevron-right" />
         </Link>
       </div>
     )}

@@ -1,4 +1,3 @@
-import React from 'react'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/layout'
@@ -10,7 +9,7 @@ import { AllMarkdownRemark, PageCategoriesContext } from '../entities'
 
 const PageCategories = ({
   data,
-  pageContext
+  pageContext,
 }: {
   data: {
     allMarkdownRemark: AllMarkdownRemark
@@ -29,7 +28,7 @@ const PageCategories = ({
         list={[
           {
             name: categories,
-            item: `/categories/${categories}/`
+            item: `/categories/${categories}/`,
           },
           {
             name: `Page ${pageCurrent}`,
@@ -37,8 +36,8 @@ const PageCategories = ({
               pageCurrent > 1
                 ? `/categories/${categories}/page${pageCurrent}`
                 : `/categories/${categories}/`
-            }`
-          }
+            }`,
+          },
         ]}
       />
       <PostList
