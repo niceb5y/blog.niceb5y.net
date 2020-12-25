@@ -54,3 +54,11 @@
     }
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  .root {
+    a {
+      color: #999999;
+    }
+  }
+}

@@ -5,3 +5,11 @@
     font-size: 16px;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  .root {
+    hr {
+      border-color: #999999;
+    }
+  }
+}

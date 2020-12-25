@@ -1,6 +1,7 @@
 /*
  * Reset
  */
+
 html,
 body {
   margin: 0;
@@ -18,6 +19,7 @@ body {
 /*
  * Color
  */
+
 $category_scheme: (
   'Camera': #f44336,
   'Dev': #e91e63,
@@ -41,6 +43,7 @@ $category_scheme: (
     }
   }
 }
+
 /*
  * Typography
  */
@@ -94,6 +97,10 @@ pre[class*='language-'] {
   font-size: 1em;
 }
 
+/*
+ * Responsive
+ */
+
 @media only screen and (max-width: 768px) {
   h2 {
     font-size: 1.6rem;
@@ -124,5 +131,16 @@ pre[class*='language-'] {
     h6 {
       font-size: 1rem;
     }
+  }
+}
+
+/*
+ * Dark Mode
+ */
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color: #ffffff;
+    background-color: #121212;
   }
 }
